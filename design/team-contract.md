@@ -31,7 +31,9 @@ Working together as a team is critical for your success on this project. Conflic
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
-    TODO
+    We can assign roles based on what pages members would like to work on.
+    For example, if we are creating a website for a cafe one person could be in charge of the drinks page while the other person does food products. We can also perhaps pair members to review each other's code after every two to three days/commits.
+    Therefore, the roles are: individual page, proofreader, and maybe more. (**Subject to Change**)
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
@@ -47,7 +49,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
-    TODO
+    Whenever we meet a milestone, maybe we can treat ourselves to some boba or candy :D
 
 
 ## Using your Contract
