@@ -10,11 +10,14 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-    TODO
+    We are committed to creating a responsive website that will meet the goals of our client.
+    We will be sure to submit our own work and to cite any external resources. Our group also pledges to incorporate some interactivity in our website.
+
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
-    TODO
+    We agree to complete and contribute to the project evenly.
+    If any issues arise, we will communicate that with our team members.
 
 3. By what means and how frequently will we meet or communicate?
 
