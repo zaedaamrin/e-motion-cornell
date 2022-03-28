@@ -18,6 +18,8 @@ Working together as a team is critical for your success on this project. Conflic
 
     We agree to complete and contribute to the project evenly.
     If any issues arise, we will communicate that with our team members.
+    We agree to complete our work in a timely manner, be prepared for milestone submissions, and be respectful of each other's time.
+    If one team member is having difficulties, the other members will try to help them or they will seek help from the instructors and office hours.
 
 3. By what means and how frequently will we meet or communicate?
 
