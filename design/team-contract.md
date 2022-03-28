@@ -27,7 +27,8 @@ Working together as a team is critical for your success on this project. Conflic
 
 4. How will we communicate and work with our client?
 
-    TODO
+    We will make sure to communicate frequently with our clients and reach out to them with emails and zoom meetings.
+    We would also schedule meetings to meet with our clients in person in order to better meet their goals for our designs.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
@@ -39,7 +40,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO
+    When our members disagree, we agree to attend office hours and get a TA to help us choose the most appropriate idea.
 
 8. What are our procedures for re-visiting this contract?
 
