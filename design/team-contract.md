@@ -35,7 +35,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO
+    If one member is not delivering the work they promised, we will try to reach out to them individually and understand the situation. We will ask them what they tried to do/were able to finish and what external factors prevented them from contributing their entire part. If it is within reason, we will definitely try to support them, and redistribute the work. If it was unreasonable or occurs too often, we revisit the team contract and remind them that we all agreed to work as a team and that we are also graded individually on our contributions/work.
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
