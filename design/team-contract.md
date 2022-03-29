@@ -43,6 +43,7 @@ Working together as a team is critical for your success on this project. Conflic
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
     When our members disagree, we agree to attend office hours and get a TA to help us choose the most appropriate idea.
+    We agree to resolve disagreements fairly and we will work together to find the root of the problem and come up with the best solution.
 
 8. What are our procedures for re-visiting this contract?
 
