@@ -24,7 +24,7 @@ Working together as a team is critical for your success on this project. Conflic
 3. By what means and how frequently will we meet or communicate?
 
     We will be meeting in person as well as online over zoom depending on our schedule to make thing easy for everyone.
-    We are planning to meet at least two times per week.
+    We are planning to meet at least two times per week. (Sundays preferably, 7:30pm)
     We will frequently communicate in our group chat to keep all group members up to date with the project.
 
 4. How will we communicate and work with our client?
@@ -49,7 +49,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 8. What are our procedures for re-visiting this contract?
     Meet with our group members and discuss what is the best alternative that can resolve a problem
-    If we run into an issue we will try to make it more specific 
+    If we run into an issue we will try to make it more specific
 
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
