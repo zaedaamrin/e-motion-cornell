@@ -42,6 +42,7 @@
     TODO
 
 8. What are your three favorite competitors or similar organizations' sites? Why?
+(If they cannot think of a specific site, we can ask them to direct us to a social media account that has a style/content that they like.)
 
     TODO
 
