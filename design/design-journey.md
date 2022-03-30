@@ -90,8 +90,49 @@ TODO
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-TODO
+Gaby is the design chair for E.Motion, she is a m fine art major.
 
+K-Pop dancing focus group, organizes a lot fo workshops where they teach people how to dance to specific Kpop dances. Like to film their covers and post that to social media. Host one showcase every semester. Have one coming up, an oppurtunity for all performers to perform all the pieces that they have learned throughout the whole school year.
+
+Sharing K-pop by teaching people how to dance.
+
+What makes your serice uinque from others?
+Comaresd to outher dance troupes, they are completley open to efveryone. You don't ahve to be an experiencesd dancer to come to a practice. Can be a total beginner for usre. Sets them apart in temr s of exclusivity. Other dance groups focused on stylisitcs dancing. They focus on Kpop dancing. They dont come up with own choreography, it is a very focused group.
+
+We would like a new website because E.Motion has a YouTube channel and social media. Gets a lot of outreach from different sponsors and other dance groups (inside and outside Cornell). Prganizing grups trying to make a group happen. Needs a single space where to cosoladite all information. Having a website strehtens and solidifes a brand. Getting to brand a club 100%. Help E.Motion set their own space on the Internet. Easier to refer to a single website rather than multiple social medias.
+
+**What kind of goals?**
+For the website they would like to shre  breif history about how E.Motion got satrted. Wants a team page fro Eboard members who let the events funcitno and happen. Wouuld be nice to have an events page. A lot of workshops happening and its gets very messy sometimes. Consolidated page. Link to a Google calndar add event.
+
+Overall goal to convey is a welcoming vibe and happy atmohspere. Don't make people feel intimdated to come an dhang out with us. Freely express interest in Kpop and feel comfortable hangign with people with similar interests.
+Wants to capture the quirk of Kpop. Clustered but fun. Happy vibes of dancing together.
+
+**Target Audience?**
+- People intertested in working with E.Motion, other dance groups who would like to colaborate with them. Need all the information they need, rsther than going througho muklitple social media sites.
+- People interested in joingin E.Motion .Especially those that are on teh fence. Can be intidmiating, so they want them to feel at home. Go on the website and feel confident that it doesn't liok as scary as it might seem to be. Should be a fun experience, everyone is there to have a good time. No competitveness among the people. Want to learn how to dearn and hoq to dance along to kpop songs. "If you wanna have fun and try something new, this is the space you can do that"
+
+When they visit your site, what kind of actions would you like them to Take
+- Collab groups: Would liek them to have access to their social media and YouTube more easily. INstagram, Facebook, everything should be accessible. Easier for them to fid the information that they need about the group as well.
+- Many groups request photos of emotion, it shoudl be wasier to find them off the site. Industry pracitce to ask to use photos, but we want to make the job easier to collect info.
+- Sponsorhips: SHow them that they have mutlpe medias that you avcan find as much information as you can.
+- Newsletter: Comes out weekly or monthly. THere should be a link to join if they wanted to.
+- Events page: What's happening? Where? When?
+
+Interesting if they had access to videos of them practicing before. Content that thaey would need to provide.
+
+**Video Database**
+Youtube links, photos of events performed at.
+
+IS there a certain feel wou would like? Colors and imagery?
+
+E.Motion has gone through an inconsisten branding throughout the years. Started off with light pink and light blue theme. Then, was during white, red and blue colors (Korean colors). Did whatever afterwards. This semester there was no consistent theming or branding. Color scheme: reds and blues and whites. Reflect the flag of Korea. Pastels can be used.
+
+What are your three favorite competitors or dance groups?
+Not familiar with other dance groups at Cornell. Person ineerviewed is behind the scenes and makes infographicas and posts them. Not too knowledgeable. They say they like "BreakFrees" recent promotion, intersting concept. Very down-to-earth. Aesthetic is very different from E.Motion but they have a simliar vibe that they want to give off.
+
+Cornell Creatives: Design lead for Cornell Creatives. Likes their website because it does all the things they mentioned before. How the products are performed. Who's on thie team. DOing the basic s of what a website shouuld encapsulate.
+
+Very grateful that we're willing to do this :) Mentioned that no on eknew how to tcerat the website.
 
 
 # Plan/Schedule (Milestone 1)
