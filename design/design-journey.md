@@ -17,27 +17,27 @@
 
     TODO
 
-2. What makes your organization and its services special or unique?
+2. What makes your organization and its services different or unique?
 
     TODO
 
-3. Why are you looking for a new website or updating your existing site?
+3. Why are you looking for a new website?
 
     TODO
 
-4. Who do you want to visit your site? Who is your site's target audience?
+4. What are your goals for this site and what kind of information about E.Motion do you want to share through it?
 
     TODO
 
-5. When visiting your site, what actions do you want your visitors to take?
+5. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
     TODO
 
-6. What are your goals for this site?
+6. Who do you want to visit your site? Who is your site's target audience?
 
     TODO
 
-7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+7. When visiting your site, what actions do you want your visitors to take?
 
     TODO
 
