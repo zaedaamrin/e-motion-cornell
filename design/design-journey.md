@@ -15,41 +15,46 @@
 
 1. Describe your organization and its purpose.
 
-    TODO
+    E.Motion is Cornell's only K-Pop dance group. Their purpose is to create an open environment for people to teach and learn actual K-Pop dances. They do dance covers, have live performances, and hold showcases. They film their performances and post those recordings to their social media (Instagram and Facebook) and YouTube channel. They have showcases every semester as an opportunity for their members to show off what they learned throughout the semester.
 
 2. What makes your organization and its services different or unique?
 
-    TODO
+    Compared to other dance troupes at Cornell, E.motion is completely open to all levels of dancers, even if it is their first time dancing. They focus on being inclusive to dancers at all stages, from absolute beginners to experienced dancers. Also, unlike other dance clubs that might be hip-hop-based or contemporary, their genre is KPop, which is uncommon at Cornell.
 
 3. Why are you looking for a new website?
 
-    TODO
+    They would look for a website because E.Motion has a YouTube and two social media accounts, but not a website. This is a struggle because when they get a lot of outreach from sponsors or other dance groups at Cornell (or from other schools) for making an event or collaborating, all of their information and content is scattered. It would be nice to have one consolidated place for them to get E.Motion's information. It would also solidify their brand and let them customize their website's look, whereas on their social medias, they don't have that kind of control on the appearance. Moreover, it would give them a space on the web that would be more convenient to direct people to it.
 
 4. What are your goals for this site and what kind of information about E.Motion do you want to share through it?
 
-    TODO
+    For the website, they want to share E.Motion's history on how it started and also share about their team members and everyone who is part of it. They also want to share events they hold because they have a lot of workshops and other events happening constantly. It would be nice to have one place to display the times for all of their workshops, rehearsals, etc. because it gets messy very quickly. Having it link to their Google Calendar or making their Google Calendar more accessible would be nice. Also linking all of their social media accounts and YouTube video database is important for their users to find. A photo gallery of past events and team photos is something collaborators/sponsors ask to see.
 
 5. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO
+    To preface, E.Motion has gone through a lot of inconsistent branding through the years, starting with pink and blue theme. Later it was just white, red, and blue (which are the Korean flag colors), and they mostly did whatever they wanted. This semester, they're just going with whatever color scheme.
+    For their website, however, the color scheme should be reds, blues, and whites that reflect the flag of Korea. In those colors, the shades used in the website can be pastel shades.
+
+    Her overall goal for the site is to convey is a welcoming vibe and make an open atmosphere. She doesn't want to be intimidating to new people and wants everyone to freely express their interest in KPop and not be nervous to dance. They want to incorporate that this genre's niche/quirkiness into the design as well. The feel might be messy, but the goal is to convey their club's happy vibes.
 
 6. Who do you want to visit your site? Who is your site's target audience?
 
-    TODO
+    Their target audience is two groups: people who are interested in working with E.Motion such as sponsors, other dance groups seeking to collab, etc. Their goal is for them to see the info they need all there instead of jumping between their social medias or being unaware of their other medias.
+    The second target group is new people who are on the fence about dance and who might be intimidated to come to one of their workshops.
 
 7. When visiting your site, what actions do you want your visitors to take?
 
-    TODO
+    For the organizing with the collaborators and sponsors, E.Motion wants them to have access to their YouTube and social media accounts. The visitors might not know of all their other social medias or that their performances are posted in their YouTube. So, they want visitors to see all of their handles in one place and visit those for the videos or photos they might be looking for. Especially since they currently have to contact them directly to collect these resources.
+
+    For newcomers, they want to show them, too, that there is the YouTube and Instagram and Facebook. They also want them to get the information on how the club works and how to join. They also want new people to sign up for their newsletter. They should also see the events and come to the events. Getting a feel of the club that convinces them to join the dance club or come to their events. They want these visitors to go on the website and see that the club is not as scary as a dance club at Cornell might seem. The visitor should see that it's a fun experience where everyone is there to have a good time and that there's no competition. The website should assure them that this is a space for them.
 
 8. What are your three favorite competitors or similar organizations' sites? Why?
 (If they cannot think of a specific site, we can ask them to direct us to a social media account that has a style/content that they like.)
 
-    TODO
+    She is not really familiar with other dance troupes or other organizations at Cornell.
 
+    She liked the club, Breakfree's promotion for their showcase. It seemed down to Earth and had similar vibes.
 
-TODO: Revise this questionnaire. Add/remove questions. etc.
-TODO: Make sure the site's scope is the right "size" for this project: not too big, not too small.
-
+    Also Cornell Creatives is another organization who's website she liked. She thought the organization of their content was logical and showed who's part of the team and their community well. It did a good job of displaying what an organization's website should encapsulate.
 
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client?
