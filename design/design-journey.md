@@ -144,12 +144,12 @@ Very grateful that we're willing to do this :) Mentioned that no one knew how to
 - We will be meeting every Sunday to discuss progress and work on the project togehter
 - We would also be meeting online over the break.
 - april 27th (deadline for milestone 2)
-  - interview (week of )
-  - design goals (week of )
-  - card sorting (week of )
-  - theme (week of )
-  - layout (week of )
-  - interacivity design (week of )
+  - interview (week of april 11)
+  - design goals (week of april 11)
+  - card sorting (week of april 11)
+  - theme (week of april 18)
+  - layout (week of april 18)
+  - interacivity design (week of 18)
 
 ## Milestone 2 - April 27th
 
