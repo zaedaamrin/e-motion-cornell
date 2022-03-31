@@ -74,7 +74,9 @@ TODO
 > Your project should be ambitious, but not too large. A good rule-of-thumb is that you should have about 1 content-full page for each team member.
 > Explain why the website you will create for your client isn't too small and isn't too big. Explain why you think it's the right size for this project.
 
-TODO
+The website we will be creating for our client fits well within the scope of this project because it will be a static portfolio of E.Motion's past performances and history and planned future events. This makes our project not overly ambitious, because the client does not expect any forms, user-logins, search engines, nor any centralized storage. Specifically, the forms they plan to use are Google Forms they will provide us and their "video database" is their YouTube channel that stores all of their recordings.
+
+Moreover, the project is ambitious enough, because the website will consist of 4 content-full pages, one for each team member. The content is static and the client has agreed to provide us with the content, so we will be able to focus on structuring and organizing their content rather than generating content ourselves. There are enough "categories" of information they seek to display on the site, as in their history, their planned events, how they work, etc. This will be enough for each team member to be able to contribute to the website equally and build a project that is ambitious, but not too large.
 
 
 ## Client Goals (Milestone 1)
@@ -128,7 +130,7 @@ Youtube links, photos of events performed at.
 E.Motion has gone through an inconsistent branding throughout the years. Started off with light pink and light blue theme. Then, was during white, red and blue colors (Korean colors). Did whatever afterwards. This semester there was no consistent theming or branding. Color scheme: reds and blues and whites. Reflect the flag of Korea. Pastels can be used.
 
 What are your three favorite competitors or dance groups?
-Not familiar with other dance groups at Cornell. Person interviewed is behind the scenes and makes infographics and posts them. Not too knowledgeable. They say they like "BreakFrees" recent promotion, interesting concept. Very down-to-earth. Aesthetic is very different from E.Motion but they have a similar vibe that they want to give off.
+Not familiar with other dance groups at Cornell. Person interviewed is behind the scenes and makes infographics and posts them. Not too knowledgeable. They say they like BreakFree's recent promotion, interesting concept. Very down-to-earth. Aesthetic is very different from E.Motion but they have a similar vibe that they want to give off.
 
 Cornell Creatives: Design lead for Cornell Creatives. Likes their website because it does all the things they mentioned before. How the products are performed. Who's on the team. Doing the basics of what a website should encapsulate.
 
