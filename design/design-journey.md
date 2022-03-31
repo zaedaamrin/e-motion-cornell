@@ -60,14 +60,14 @@
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO
+Our client is Cornell E.Motion. They are a K-Pop dance group that focuses on teaching people more about K-Pop dances by filming and posting their performances on social media where a lot of people can see it. Our clients meets the client rules because we are not the client, and there is no personal relationship with any of them. Another thing for why they fulfil our client requirements is that they do not have a website, which is something that can greatly help them reach more people who are interested.
 
 
 ## Client Website (Milestone 1)
 > Tell us about the website that your client wants. Tell us the purpose of the website and what it is all about.
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page.) Tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO
+The client wants a website that is representation of them and what they do. The purpose the website is getting people to know more about their history, members and future events/ rehearsals on one place that is convenient. They would like to have their YouTube channel displayed on the website as well as their social media accounts so the users can reach out to them if they want or see the requirements for how to join the club. In addition, they want to include the background of their group and how it all started, which is something that will create a better connection between users and them and a gallery with their photos and videos for anyone to visually see how their group practices look.
 
 
 ## Client Website Scope (Milestone 1)
@@ -81,10 +81,10 @@ TODO
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- Goal A: TODO
-- Goal B: TODO
-- Goal C: TODO
-- ...
+- Goal A: Friendly environment
+- Goal B: Open to collaborate
+- Goal C: Get their users to know them better
+- Goal D: Organization of their future rehearsals/events
 
 
 ## First Client Meeting Minutes/Notes (Milestone 1)
