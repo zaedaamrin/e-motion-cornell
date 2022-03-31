@@ -139,7 +139,30 @@ Very grateful that we're willing to do this :) Mentioned that no one knew how to
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 
-TODO
+## Milestone 2 - April 27th
+
+Conducting user research - plan and report the results in design Journey. 4 user interviews.
+Your client and the site's audience are not the same. They have different goals.
+
+### Designing our Site
+- Need to meet in order to cardsort.
+- Sketch the website. Take photos of your group design work.
+- Plan out where your content will go. Document how you came up with your content organization and the navigation.
+
+Sketch some possible designs. Exploring ideas: sidebar, nav bar, footer, etc.
+Finalize your sign with final sketches of each page.
+
+Explain how your interactivity would work in the design journey.
+
+### Meet with our client
+- Get feedback on your design. Take minutes of the meeting. Submit all notes for insight.
+
+### Creating a working draft of our website.
+- All HTML pages should be built and the navigation should be implemented. You should have all of the content.
+- The site should be somewhat responsive. You should have started your interactivity.
+
+April 2nd - Spring Break starts
+April 11th - Instruction resumes (11 to 27 = 16 days, working over break adds 10 possible days)
 
 
 
