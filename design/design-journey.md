@@ -149,7 +149,8 @@ Very grateful that we're willing to do this :) Mentioned that no one knew how to
   - card sorting (week of april 11)
   - theme (week of april 18)
   - layout (week of april 18)
-  - interacivity design (week of 18)
+  - interacivity design (week of april 18)
+  - final submission (week of april 25)
 
 ## Milestone 2 - April 27th
 
