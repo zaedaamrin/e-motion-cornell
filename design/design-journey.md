@@ -145,11 +145,11 @@ Very grateful that we're willing to do this :) Mentioned that no one knew how to
 - We would also be meeting online over the break.
 - april 27th (deadline for milestone 2)
   - interview (week of )
-  - design goals
-  - card sorting
-  - theme
-  - layout
-  - interacivity design
+  - design goals (week of )
+  - card sorting (week of )
+  - theme (week of )
+  - layout (week of )
+  - interacivity design (week of )
 
 ## Milestone 2 - April 27th
 
