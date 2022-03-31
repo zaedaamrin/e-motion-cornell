@@ -141,6 +141,16 @@ Very grateful that we're willing to do this :) Mentioned that no one knew how to
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 
+- We will be meeting every Sunday to discuss progress and work on the project togehter
+- We would also be meeting online over the break.
+- april 27th (deadline for milestone 2)
+  - interview (week of )
+  - design goals
+  - card sorting
+  - theme
+  - layout
+  - interacivity design
+
 ## Milestone 2 - April 27th
 
 Conducting user research - plan and report the results in design Journey. 4 user interviews.
