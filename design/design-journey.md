@@ -279,13 +279,17 @@ TODO: ...
 - Logo
 - Navigation bar
 - History of E.Motion
+- Welcoming message
+- Image Carousel
 - Social Media links
 - Contact information
 - Video/recordings of their dance showcases/rehersals
 - Current member of their club
 - Upcoming events
 - Group Pictures
-- A link for users to sign-up for their newsletter
+- Newsletter link
+- Footer
+- Mission statement
 
 
 ### Content Justification (Milestone 2)
