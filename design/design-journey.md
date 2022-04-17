@@ -116,7 +116,7 @@ Wants to capture the quirk of K-Pop. Clustered but fun. Happy vibes of dancing t
 When they visit your site, what kind of actions would you like them to Take
 - Collaboration groups: Would like them to have access to their social media and YouTube more easily. Instagram, Facebook, everything should be accessible. Easier for them to fid the information that they need about the group as well.
 - Many groups request photos of emotion, it should be easier to find them off the site. Industry practice to ask to use photos, but we want to make the job easier to collect info.
-- Sponsorships: SHow them that they have multiple medias that you can find as much information as you can.
+- Sponsorships: Show them that they have multiple medias that you can find as much information as you can.
 - Newsletter: Comes out weekly or monthly. There should be a link to join if they wanted to.
 - Events page: What's happening? Where? When?
 
