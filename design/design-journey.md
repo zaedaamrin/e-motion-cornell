@@ -321,10 +321,10 @@ TODO
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your personal website navigation.
 
-- TODO
-- TODO
-- TODO
-- TODO
+- Home
+- What We Do
+- Join Us
+- About Us
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
@@ -338,7 +338,19 @@ TODO
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 > Note the theme you selected for you site and why it's appropriate for the audience and their goals.
 
-TODO
+#### Theme 1 - Simple
+ - Simple, minimalistic
+ - Color Palette: Red, blue, white (for flag of Korea)
+ - Avoids overwhelming the user with content, considering that there is are many layers of information to sort through.
+
+
+#### Theme 2 - Welcoming
+ - High contrast creates an invigorating atmosphere that welcomes the user. This complements our client's goals of establishing a site that does not intimidate its users.
+ -  Royal blue (still in Korean flag hues), lighter aqua blue as shadow (inverse contrast). Will be using an Instagram post for reference.
+
+#### Theme 3 - Dark theme
+- Light black background: Sleek presentation of information
+- Creates organization by not overwhelming the user with multiple colors.
 
 
 ### Interactivity Ideas (Milestone 2)
