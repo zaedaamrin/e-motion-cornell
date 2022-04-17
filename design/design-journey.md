@@ -328,9 +328,10 @@ TODO
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-TODO
-
-
+1. The name "Home" for the home page makes sense for our audience because it matches what is familiar to them. This means they will intuitively know what this page is and be able to assume what will be found on it without needing to think too hard. TODO
+2. The name "What We Do" for another page makes for the audience as it communicates that that page will aid them in their goal of finding information about what the club is currently doing. Since it is a dance group, users will assume this entails upcoming performances and events. TODO
+3. The "Join Us" page makes sense with this name because it conveys to users seeking to join the club will be easily navigate to, to find out all the information on how to join this club in one page. TODO
+4. The "About Us" page should be named so, because it is a common convention that the audience will be able to understand easily. This is also directly linked to their goal of learning about the club itself and gauging if this is the kind of club they want to join. TODO
 
 ## Design (Milestone 2)
 
