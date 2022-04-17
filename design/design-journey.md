@@ -281,7 +281,7 @@ TODO: ...
 - History of E.Motion
 - Social Media links
 - Contact information
-- Video/recordings of their dance showcases/rehersals
+- Video/recordings of their dance showcases/rehearsals
 - Current member of their club
 - Upcoming events
 - Group Pictures
