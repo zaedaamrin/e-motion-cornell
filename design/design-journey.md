@@ -198,7 +198,23 @@ TODO
 
 **User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for _client's name_. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
-TODO: Your user interview questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+
+2. What is your favorite music/dance genre? What brings you to like this kind of music/dance (or not)?
+
+3. Have you ever sought out information about these dances or music?
+    - 3a. If yes, what information were you looking for? Did you find it? How did you access that information?
+
+4. When you arrived at Cornell, did you seek out any information about this dance/music?
+    - 4a. If yes, what was that information? How did you obtain it?
+
+5. Have you ever been to a dance showcase (here at Cornell)?
+  - 5a. Is there any information you wish you had known about the dance showcase beforehand or information that you weren't able to find?
+  - 5b. What are your goals when attending a dance showcase?
+
+6. When you look for information during a dance, where do you find this content? What type of device do you access to find this information?
+
+7. What haven't I asked you today that you think would be valuable for me to know? Do you have any lingering thoughts?
 
 **After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
 
