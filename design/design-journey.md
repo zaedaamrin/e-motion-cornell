@@ -256,13 +256,22 @@ TODO: ...
 ### Your Site's Planned Content (Milestone 2)
 > List the content you plan to include your personal website. This should be a comprehensive list.
 
-TODO
+- Logo
+- Navigation bar
+- History of E.Motion
+- Social Media links
+- Contact information
+- Video/recordings of their dance showcases/rehersals
+- Current member of their club
+- Upcoming events
+- Group Pictures
+- A link for users to sign-up for their newsletter
 
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how its addressed their goals..
 
-TODO
+
 
 
 
