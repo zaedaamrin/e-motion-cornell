@@ -228,29 +228,29 @@ This is a cohesive group to our client's site that has similar goals, as they ar
 
 **Interviewee 1:** by Shania
 
-**Description**: Sophomore in Arts and Sciences. Information Sciences major. Heard of E.Motion, have seeen them mupltiple times in festivals on campis. OBly knows that they are a kpop group but they sont knwo what seciont they are.
+**Description**: Sophomore in Arts and Sciences. Information Sciences major. Heard of E.Motion, have seen them multiple times in festivals on campus. Knows that they are a K-Pop group, but doesn't know what kind of section of K-Pop they perform.
 
-TODO:
-1. I liek rap the most, Rb ais good Hsve been getting into K-pop and k rb ercerntly. What atracts me to it, she ejnioys instrumental (more than the voice). AS for the Korean rap: instrumetnals are very good as well. Nothing makes it different from Smerican rap, etc.
+**Responses**
 
-Dance: Dont really wathc musci videos or know dance routines But from ewhat they see: she ses that K-pop music and dance is very polished and emphasiezd. Get milijons of views. More than America. A lot of focus on ath craftsmnasshio of erverything.
+2. I like rap the most. R&B is also good. Have been getting into K-pop and Korean R&B recently. What attracts me to it is the instrumental (more than the vocal). As for the Korean rap: instrumentals intrigue me as well.
 
-2. Not really, only lokoign at Wikipedia or Ytouube. Just listen to music , not really reserarch.
+As for dance: she doesn't really watch music videos or know dance routines often. She sees that K-pop music and dance is very polished and emphasizes clean routines. "Get millions of views". A lot of focus on the craftsmanship of everything.
 
-3. Not really, listen to musci casually. Intense in listenign to suci a lot but listening casually int hat they dont know much about the artist thermselves. KNowign about the actual groups, didint interst in learning. More of a bystander, like watchign more than doing.
+3. Not really, only looking at Wikipedia or YouTube. Just listen to music, does not really research deeper.
 
-4. I've been at Spring Fest, and a lto fod SAsain organizTIONS. Hope night recently, there were many dance grousp when they perfrormed Do nort go to specific events for dance only.
+4. Not really, listen to music casually. Intense in listening to music a lot but listening casually in that they don't know much about the artist. Not much interest in learning more about the bands, enjoys their content either way. More of a bystander, like watching more than doing.
 
-Would like to know th lineuop of perfromers. Catering and overview of those general groups but didnt giv e atime table of what and wheen groupd were performing. KNowign performer lineup and booths. Not metnionte don the flyers, didnt really find flyers and dint see websites.
+5. I've been at Spring Fest, and a lot of Asian organizations. *Hope Night* recently, there were many dance groups when they performed. Haven't gone to specific events for dance only.
 
-eating si the main goal. Enjoys the differenr routine. Fun to support your peers in the activities and seeing that peple are passionate about something and they can express for everyonre to enjoy.
+**5a.** Would like to know the line-up of performers. Has known the catering and overview but not specifics/time table of performances. Knowing performer line-up and booths helps. Information is not mentioned on the flyers. Didn't really find flyers or websites.
 
-Info cards scattered aroud but not that useful for finding what would specfucally be happenign this night. Obly knew brieefly, small extent didnt know what grups were gonna be there. Emails and newsletters with events help but they dont have that much specific information about lineups to double check date and time and location. After that, she just stikcs around with friends. If passing by she stops for a fw mins and thewn lieaves .DOes nt look wjhile at event.
+**5b.** Enjoys the different routines. Fun to support your peers in the activities and seeing that people are passionate about something. Also enjoys that they can express it for everyone to enjoy.
 
-NO treslly. If there was a website with  aieup that would be helpful. UNderstand limitations (lSt minute changes that cant be relefefcted fast enough) but she likes the idea of an inital lineup. WOuld be helpful.
-x
+6. Information cards are scattered around but not that useful for finding what would specifically be happening that night. Only knew briefly. Short extent of what groups would perform.
 
+Emails and newsletters with events help, but they don't have that much specific information about lineups to double check date/time/location. After that, she just sticks around with friends. If passing by, she stops for a few minutes and then leaves.
 
+7. Not really. If there was a website with a line-up that would be helpful. Understands limitations though (last minute changes that can't be reflected fast enough), but she likes the idea of an initial line-up. Would be helpful.
 
 
 
