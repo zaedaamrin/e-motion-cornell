@@ -256,8 +256,28 @@ Emails and newsletters with events help, but they don't have that much specific 
 
 **Interviewee 2:**
 
-TODO: description
+**Description**: Cornell junior, Human Biology, Health, and Society (HBHS) major in the College of Human Ecology. Is passionate about neuroscience and loves music. Played the flute for many years. Has heard of E.Motion from her friends. Thought the club seemed fun but does not know anything specific.
 TODO: notes
+
+**Responses**
+2. She likes many genres of music: everything from instrumental (like Lofi), to pop, to kpop. She likes these genres because can match her moods depending on if she wants to study/focus or wants to be "hyped up to walk up the slope" etc.
+For dance, she generally likes all genres of dance, but doesn't know much about any particular style.
+
+3. Yes, she has sought information about these genres of music, specifically the names of artists of the songs she liked, and the other songs that the artists she likes produced.
+She found this information by Googling it online or through her friends that regularly send her songs.
+
+4. Yes, she looked into instrumental music when she came to Cornell, specifically different music ensembles on campus. She auditioned for symphonic band and is now currently part of a flute ensemble.
+(a) She looked for information on the different ensembles that were offered at Cornell. For each of these groups, she looked for the expected time commitment, level of involvement, how serious/professional they were (or if they were more for fun). She gauged the last one based on the way the descriptions talked about the ensembles, as in the phrases they used. The professional ones used more proper diction and seemed more strict about attending concerts and rehearsals, while the fun ones were described with more casual words. She "just got the vibe"
+She obtained the info from Google and Cornell's music pages and the Cornell class roster.
+
+5. Yes, she has been to a dance showcase at Cornell (Hope Night).
+(a) Yes, she wanted to know who was performing, because there was no available setlist she could find. She wanted to know what order they were performing in/what songs they would be performing, etc. She only knew one group, which was the group that her friend was in.
+(b) Her goals were to see her friend perform and to enjoy the different acts that had "worked hard this semester to be there"
+
+6. She did not seek any information during the dance showcase.
+
+7. She thinks that the information she looked for when she was browsing Cornell ensembles are most likely what other people look for too, so it would have been helpful to a lot of people to include those details. She reiterated what this information should include: what the group does, how serious it is, how much time commitment, what options are available (like how to get involved), a schedule of when they are rehearsing and performing, and where these rehearsals/performances will take place.
+
 
 **Interviewee 3:**
 
