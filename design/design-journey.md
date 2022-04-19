@@ -200,7 +200,7 @@ This is a cohesive group to our client's site that has similar goals, as they ar
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 
-**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for _client's name_. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
+**User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for E.Motion. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
@@ -226,10 +226,32 @@ This is a cohesive group to our client's site that has similar goals, as they ar
 ### Interview Notes (Milestone 2)
 > Interview at least 4 people from your audience. Take notes and include those notes here. Make sure to include a brief description of each interviewee.
 
-**Interviewee 1:**
+**Interviewee 1:** by Shania
 
-TODO: description
-TODO: notes
+**Description**: Sophomore in Arts and Sciences. Information Sciences major. Heard of E.Motion, have seeen them mupltiple times in festivals on campis. OBly knows that they are a kpop group but they sont knwo what seciont they are.
+
+TODO:
+1. I liek rap the most, Rb ais good Hsve been getting into K-pop and k rb ercerntly. What atracts me to it, she ejnioys instrumental (more than the voice). AS for the Korean rap: instrumetnals are very good as well. Nothing makes it different from Smerican rap, etc.
+
+Dance: Dont really wathc musci videos or know dance routines But from ewhat they see: she ses that K-pop music and dance is very polished and emphasiezd. Get milijons of views. More than America. A lot of focus on ath craftsmnasshio of erverything.
+
+2. Not really, only lokoign at Wikipedia or Ytouube. Just listen to music , not really reserarch.
+
+3. Not really, listen to musci casually. Intense in listenign to suci a lot but listening casually int hat they dont know much about the artist thermselves. KNowign about the actual groups, didint interst in learning. More of a bystander, like watchign more than doing.
+
+4. I've been at Spring Fest, and a lto fod SAsain organizTIONS. Hope night recently, there were many dance grousp when they perfrormed Do nort go to specific events for dance only.
+
+Would like to know th lineuop of perfromers. Catering and overview of those general groups but didnt giv e atime table of what and wheen groupd were performing. KNowign performer lineup and booths. Not metnionte don the flyers, didnt really find flyers and dint see websites.
+
+eating si the main goal. Enjoys the differenr routine. Fun to support your peers in the activities and seeing that peple are passionate about something and they can express for everyonre to enjoy.
+
+Info cards scattered aroud but not that useful for finding what would specfucally be happenign this night. Obly knew brieefly, small extent didnt know what grups were gonna be there. Emails and newsletters with events help but they dont have that much specific information about lineups to double check date and time and location. After that, she just stikcs around with friends. If passing by she stops for a fw mins and thewn lieaves .DOes nt look wjhile at event.
+
+NO treslly. If there was a website with  aieup that would be helpful. UNderstand limitations (lSt minute changes that cant be relefefcted fast enough) but she likes the idea of an inital lineup. WOuld be helpful.
+x
+
+
+
 
 
 **Interviewee 2:**
