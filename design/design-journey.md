@@ -294,11 +294,15 @@ TODO: notes
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: Brief Title
+Goal 1: Establishing Familiarity
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO
+  - Laying out the design of the website so that it is easier to access information concerning details of events (date, time, location)
+  - Utilizing bullet points and list formats for brevity and faster accessibility to information
+  - This section could be labeled as "Upcoming Events" and could be placed under the "What We Do" page, and maybe even the homepage.
+
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO
+  - Interviewee 1 expressed the desire to know what performances would be hosted at certain showcase events. Being "in the know" of what, who, and when performances would host was heavily emphasized.
+  - Meeting this goal would bring further satisfaction to potential webpage visitors, since they would be finding information that they would want the most.
 
 Goal 2: TODO
 TODO
@@ -371,8 +375,13 @@ TODO
 
 TODO: add in actual user goals lol
 1. The name "Home" for the home page makes sense for our audience because it matches what is familiar to them. This means they will intuitively know what this page is and be able to assume what will be found on it without needing to think too hard.
+
+This aligns with the *Establishing Familiarity* goal, since our audience voiced the need to easily access information. Using a website design pattern that has been used for now decades means that the audience will not struggle to navigate the webpage (or if this is new to them, they would still likely experience an easy learning curve).
+
 2. The name "What We Do" for another page makes for the audience as it communicates that that page will aid them in their goal of finding information about what the club is currently doing. Since it is a dance group, users will assume this entails upcoming performances and events.
+
 3. The "Join Us" page makes sense with this name because it conveys to users seeking to join the club will be easily navigate to, to find out all the information on how to join this club in one page.
+
 4. The "About Us" page should be named so, because it is a common convention that the audience will be able to understand easily. This is also directly linked to their goal of learning about the club itself and gauging if this is the kind of club they want to join.
 
 ## Design (Milestone 2)
@@ -389,7 +398,8 @@ TODO: add in actual user goals lol
 
 #### Theme 2 - Welcoming
  - High contrast creates an invigorating atmosphere that welcomes the user. This complements our client's goals of establishing a site that does not intimidate its users.
- -  Royal blue (still in Korean flag hues), lighter aqua blue as shadow (inverse contrast). Will be using an Instagram post for reference.
+ - Incorporating Royal blue (still in Korean flag hues), lighter aqua blue as shadow (inverse contrast). Will be using an Instagram post for reference.
+ - White background avoids cluttering the provided space (similarly to the first theme proposal). Plain webpage background may also be more familiar to the user and therefore allow them to use the website easily.
 
 #### Theme 3 - Dark theme
 - Light black background: Sleek presentation of information
@@ -400,7 +410,10 @@ TODO: add in actual user goals lol
 > Brainstorm several ideas for your site's interactivity.
 > Provide a very brief summary how each idea improves the usability of the site for the site's audience.
 
-TODO
+**Image Carousel**
+- Showcases a visual gallery of the E.Motion's team, practices, and performances.
+- Meets goal of *Establishing Familiarity*, since users would then become more familiar with the faces behind the dance pieces. They may also then have a better understanding of certain performance features (example: extrapolating how complicated routines may be based on the images).
+- Improves usability by conveniently gathering visual content in a single and accessible spot on the page (in this case, it would likely be at the top of the page, below the navigator).
 
 
 ### Layout Exploration (Milestone 2)
