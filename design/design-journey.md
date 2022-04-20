@@ -279,10 +279,33 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
 7. She thinks that the information she looked for when she was browsing Cornell ensembles are most likely what other people look for too, so it would have been helpful to a lot of people to include those details. She reiterated what this information should include: what the group does, how serious it is, how much time commitment, what options are available (like how to get involved), a schedule of when they are rehearsing and performing, and where these rehearsals/performances will take place.
 
 
-**Interviewee 3:**
+**Interviewee 3 (by Alexandra):**
 
-TODO: description
-TODO: notes
+**description**
+  - Junior in College of Engineering
+  - Loves Korean culture, Korean food, Kdrama and Kpop
+  - Has heard of E.Motion and has seen their performance at various events
+
+**notes**
+  2. I listen to lots of different genres, but I think ever since freshman year, I just really got myself into Kpop and it kind of grew on me ever since. I don’t really watch dance performances in general so I don’t have a favourite dance genre. But I guess with kpop, the music sort of comes with the performance side. I would never particularly look for or search up dance videos to watch before, but with kpop, it’s very natural for me to just watch the dance practices or whatnot as I listen to the music. So I guess I could say kpop is also my favourite dance genre considering I don’t watch any other dances.
+
+  3. Yes! After I got into kpop and after hearing/seeing more artists and different groups, I’m often interested to search for more of their music and performances.
+    - 3a.
+    - I would look for different live performances, or stage in kpop terms, of the particular song I like. I also like searching up their dance practices. And I would just go to YouTube for these.
+
+  4. Well I only began listening to them, like I said, after freshman year. Right. And it took a while for me to like them and start listening to them so I didn’t really seek out information about it at Cornell. I’m not that intense about music in that way so I never tried to obtain more information about participating I guess.
+
+  5. I’ve never been to dance showcases but I’ve always seen them around at events with all these other clubs. Like there was this one event I think hosted by the club of taiwan, and I remember seeing dance performances there.
+    - 5a.
+    - Well like I said earlier, I’ve never gone to actual dance showcases but just those events that invited them to perform. But I think it would be cool to know what songs/dance the group are covering and who’s doing who’s part in the kpop group. Oh it’s probably also nice to know when during the event the groups will be performing because it’s never clear on the posters and we would always be waiting and wondering when they are going to come up.
+    - 5b.
+    - I’m there usually to support my friends or my friends’ friends.
+
+  6. I don’t actively search for information about the dance. Like for the event nights, I’m usually just dragged by my friends and everything I know before I go is just based on what they told me. They would just tell me oh this dance group is doing a cover today and I might be interested…
+  But I always see posters around campus and they usually tell a bit about what’s going on.
+
+  7. I think it would be helpful to have what I said earlier (in 6) about who’s performing and when they are performing at the event (if not a solo club showcase) published somewhere so everyone who intends to go can see. That’s just what I’m thinking but yeah I don’t have anything else. Thank you!
+
 
 
 **Interviewee 4:**
