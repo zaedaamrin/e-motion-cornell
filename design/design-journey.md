@@ -373,7 +373,15 @@ TODO: ...
 > Document your iterations of card sorting here.
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
-TODO
+1.
+  ![card sort 1](/design/card-sort-1.png)
+
+2.
+  ![card sort 2](/design/card-sort-2.jpg)
+
+3.
+  ![card sort 3](/design/card-sort-3.jpg)
+
 
 
 ### Final Content Organization (Milestone 2)
