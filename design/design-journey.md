@@ -322,7 +322,7 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: Establishing Familiarity
+#### Goal 1: Establishing Familiarity
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - Laying out the design of the website so that it is easier to access information concerning details of events (date, time, location)
   - Utilizing bullet points and list formats for brevity and faster accessibility to information
@@ -332,7 +332,7 @@ Goal 1: Establishing Familiarity
   - Interviewee 1 expressed the desire to know what performances would be hosted at certain showcase events. Being "in the know" of what, who, and when performances would host was heavily emphasized.
   - Meeting this goal would bring further satisfaction to potential webpage visitors, since they would be finding information that they would want the most.
 
-Goal 2: Decision to Join
+#### Goal 2: Decision to Join
 - **Design Ideas and Choices**
   - A list structure for information that potential members may seek while still deciding whether to join the club. This gathers all the information a student will need to be aware of before they join.
   - A dedicated section named "FAQs" with short questions and answers that are easy to scan and comprehend without too much effort.
@@ -342,8 +342,7 @@ Goal 2: Decision to Join
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
   - Having an "FAQs" section provides vital information in one place on the site that users will be able to navigate to it easily and achieve their goal of understanding the club. Grouping the specific details that a new member will need to know before joining provides an opportunity to welcome them and give them a clear idea of what this club is like. It can aid them in deciding whether to join and possibly make them be more easily swayed to join the club.
 
-Goal 3: TODO
-TODO
+#### Goal 3: TODO
 
 TODO: ...
 
@@ -422,10 +421,8 @@ The target audience for our site is
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-TODO: add in actual user goals lol
 1. The name "Home" for the home page makes sense for our audience because it matches what is familiar to them. This means they will intuitively know what this page is and be able to assume what will be found on it without needing to think too hard.
-
-This aligns with the *Establishing Familiarity* goal, since our audience voiced the need to easily access information. Using a website design pattern that has been used for now decades means that the audience will not struggle to navigate the webpage (or if this is new to them, they would still likely experience an easy learning curve).
+  This aligns with the *Establishing Familiarity* goal, since our audience voiced the need to easily access information. Using a website design pattern that has been used for now decades means that the audience will not struggle to navigate the webpage (or if this is new to them, they would still likely experience an easy learning curve).
 
 2. The name "What We Do" for another page makes for the audience as it communicates that that page will aid them in their goal of finding information about what the club is currently doing. Since it is a dance group, users will assume this entails upcoming performances and events.
 
@@ -445,16 +442,19 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
  - Simple, minimalistic
  - Color Palette: Red, blue, white (for flag of Korea)
  - Avoids overwhelming the user with content, considering that there is are many layers of information to sort through.
+ - Especially helps with aiding a user in making a decision. It is very simple and plain, so they can consume more content without feeling overwhelmed.
 
 
 #### Theme 2 - Welcoming
  - High contrast creates an invigorating atmosphere that welcomes the user. This complements our client's goals of establishing a site that does not intimidate its users.
  - Incorporating Royal blue (still in Korean flag hues), lighter aqua blue as shadow (inverse contrast). Will be using an Instagram post for reference.
  - White background avoids cluttering the provided space (similarly to the first theme proposal). Plain webpage background may also be more familiar to the user and therefore allow them to use the website easily.
+- Aligns with client's goal of creating a friendly, welcoming environment
 
 #### Theme 3 - Dark theme
 - Light black background: Sleek presentation of information
 - Creates organization by not overwhelming the user with multiple colors.
+- More professional look, might help convince prospective members to join the group (aligns with goal of making a decison).
 
 
 ### Interactivity Ideas (Milestone 2)
@@ -470,6 +470,10 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 - Displays FAQs that potential members might ask/wonder about the club.
 - Aids users' goal of **Deciding to Join** by providing answers to the questions that they might seek when they are judging whether the club will be the right fit for them and whether to join.
 - Increases readability by decreasing textual clutter on the screen as it conceals text that answers questions that the user is not currently pursuing.
+
+**Hamburger**
+- Creates a more accessibly mobile experience. Users can click on a hamburger icon in order to access the navigation bar. This makes better use of the limited space provided on mobile display.
+- The hamburger menu is also a common webpage design pattern, meaning that the users will be more familiar with how to utilize it. Aligns with familiarity goal.
 
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
