@@ -385,19 +385,19 @@ This content provides several aspects that are useful to our audience. First, a 
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
 1.
-  ![card sort 1](/design/card-sort-1.jpg)
+  ![card sort #1](/design/card-sort-1.jpg)
 - Creating four pages that will organize the webpage best by content the user interviewees asked for.
 - Carousel on homepage will immediately show pictures that the users have expressed the desire to see (performances, who is on the team, etc.). Essentially, creates an impact upon opening.
 - Event dates under "What We Do" for easy access for people who may want to watch or join a performance.
 
 2.
-  ![card sort 2](/design/card-sort-2.jpg)
+  ![card sort #2](/design/card-sort-2.jpg)
 - Newsletter moved under "About Us" since it has more written content.
 - Kept "What We Do" to focus on visual content.
 - Added "Event Dates" to "Home Page" since this will be the first page to load when someone accesses the page. Event dates was one of the most requested information from users, so it may help to have this be immediately accessible.
 
 3.
-  ![card sort 3](/design/card-sort-3.jpg)
+  ![card sort #3](/design/card-sort-3.jpg)
 - Moving our team to the homepage to try to establish a sense of familiarity with the webpage visitor. This can create a more human experience by introducing the faces behind the productions.
 - Newsletter kept under "About Us" since it has more written content. Keeping all reading-heavy material in a single location.
 
@@ -405,11 +405,11 @@ This content provides several aspects that are useful to our audience. First, a 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO
+Our group will be using **card sort #1** for the final content organization.
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
-TODO
+The target audience for our site is 
 
 
 ### Navigation (Milestone 2)
