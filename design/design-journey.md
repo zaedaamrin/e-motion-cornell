@@ -314,9 +314,20 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
   - A freshman in College of Arts and Sciences, An international student studying Biology, likes listening to music in her free time and has never heard of E.Motion before.
 
 - **Notes**
-2. My favorite music genre depends a lot on my mood at the moment, but if I had to choose it would be EDM (Electronic Dance Music). What attracts me to it is the rhythm and the energy.
+2. My favorite music genre depends a lot on my mood at the moment, but if I had to choose it would be EDM (Electronic Dance Music). What attracts me to it is the rhythm and the energy. She recently started liking K-pop after some of her friends at Cornell suggested some songs to her.
 
-3. Did not look for information about <!-- will finish it tomorrow am too tired -->
+3. Did not look for information about, basically, whatever Youtube recommends to her, she is open to listening to new songs/ groups.
+
+4. Yes because some of her friends are big fans of K-pop here at Cornell. She tried to find a group of people who are interested in K-pop but did not find anything, except a couple of accounts of K-pop groups on Instagram.
+
+5. Yes, I passed by some K-Pop group's performance at Duffield Hall but I did not pay too much attention. Other than that she has never been to a dance showcase. She would like to go in the future with her friends.
+
+- 5a. I wish I had known the details about future events or had a place where information is easily accessible so she and her friends could make a plan to go to some event. She saw some flyers but the information on the was too vague and catching her attention enough.
+- 5b. Have fun spending time with my friends, enjoy the music and a dance performance
+
+6. Usually on Instagram because many groups post information about their future/ current events and their performers on their stories but the stories expire in 24hourse so they can easily be missed. She always uses her phone because it's more convenient than using a laptop.
+
+7. Not really, that would be it.
 
 
 ### Goals (Milestone 2)
@@ -342,10 +353,13 @@ Goal 2: Decision to Join
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
   - Having an "FAQs" section provides vital information in one place on the site that users will be able to navigate to it easily and achieve their goal of understanding the club. Grouping the specific details that a new member will need to know before joining provides an opportunity to welcome them and give them a clear idea of what this club is like. It can aid them in deciding whether to join and possibly make them be more easily swayed to join the club.
 
-Goal 3: TODO
-TODO
-
-TODO: ...
+Goal 3: Having Fun
+- **Design Ideas and Choices**
+  - A friendly and fun looking website with vibrant colors, images and videos for the "wow" effect but also has all of the information a user that is interested would like to know in order to make a decision whether or not they would like to attent a performance.
+ - The information needs to be accesible and easy to find
+ - Interactivity such as image carousels, hamburger drop-down menus will help create the dynamic aspect of the site which will further improve the "wow" effect
+- **Rationale & Additional Notes**
+- Interviewee 4 explained that one of the most important facts for her is to have fun with her friends at a dance show, so paying attention to how our dance group is portrayed on their website is of key significance. The website needs to be personal, i.e. provide a chance to users to meet/learn more about E.Motion for a good first impression, give them a glimpse of who they are and what they do so they can decide whether or not they can attend their future performance based on the given information on the site.
 
 
 
