@@ -353,7 +353,7 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
   - Having an "FAQs" section provides vital information in one place on the site that users will be able to navigate to it easily and achieve their goal of understanding the club. Grouping the specific details that a new member will need to know before joining provides an opportunity to welcome them and give them a clear idea of what this club is like. It can aid them in deciding whether to join and possibly make them be more easily swayed to join the club.
 
-Goal 3: Having Fun
+#### Goal 3: Having Fun
 - **Design Ideas and Choices**
   - A friendly and fun looking website with vibrant colors, images and videos for the "wow" effect but also has all of the information a user that is interested would like to know in order to make a decision whether or not they would like to attent a performance.
  - The information needs to be accesible and easy to find
@@ -480,7 +480,7 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 #### Theme 3 - Dark theme
 - Light black background: Sleek presentation of information
 - Creates organization by not overwhelming the user with multiple colors.
-- More professional look, might help convince prospective members to join the group (aligns with goal of making a decison).
+- More professional look, might help convince prospective members to join the group (aligns with goal of making a decision).
 
 
 ### Interactivity Ideas (Milestone 2)
