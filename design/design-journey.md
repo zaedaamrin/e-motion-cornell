@@ -444,7 +444,6 @@ Our group will be using **card sort #1** for the final content organization.
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-TODO: add in actual user goals lol
 1. The name "Home" for the home page makes sense for our audience because it matches what is familiar to them. This means they will intuitively know what this page is and be able to assume what will be found on it without needing to think too hard.
 
 This aligns with the *Establishing Familiarity* goal, since our audience voiced the need to easily access information. Using a website design pattern that has been used for now decades means that the audience will not struggle to navigate the webpage (or if this is new to them, they would still likely experience an easy learning curve).
