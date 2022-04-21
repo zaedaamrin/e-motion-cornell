@@ -332,11 +332,11 @@ Goal 1: Establishing Familiarity
   - Interviewee 1 expressed the desire to know what performances would be hosted at certain showcase events. Being "in the know" of what, who, and when performances would host was heavily emphasized.
   - Meeting this goal would bring further satisfaction to potential webpage visitors, since they would be finding information that they would want the most.
 
-Goal 2: Deciding Whether to Join
+Goal 2: Decision to Join
 - **Design Ideas and Choices**
   - A list structure for information that potential members may seek while still deciding whether to join the club. This gathers all the information a student will need to be aware of before they join.
   - A dedicated section named "FAQs" with short questions and answers that are easy to scan and comprehend without too much effort.
-  - Group photos dispersed around the site to give a visual representation of the club to potential members. This could communicate to new students intuitively what this club is like without requiring them to read anything. This creates less resistance in their decision-making process of whether to join. 
+  - Group photos dispersed around the site to give a visual representation of the club to potential members. This could communicate to new students intuitively what this club is like without requiring them to read anything. This creates less resistance in their decision-making process of whether to join.
 
 - **Rationale & Additional Notes**
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
@@ -425,6 +425,8 @@ This aligns with the *Establishing Familiarity* goal, since our audience voiced 
 
 3. The "Join Us" page makes sense with this name because it conveys to users seeking to join the club will be easily navigate to, to find out all the information on how to join this club in one page.
 
+This directly relates to the user's goal of *Deciding to Join*, as it indicates very simply and obviously that the information a non-member seeking to join the group is located on this page. The wording of this page's name is quite common and will be familiar to the user as well, which further accelerates their achievement of this goal.
+
 4. The "About Us" page should be named so, because it is a common convention that the audience will be able to understand easily. This is also directly linked to their goal of learning about the club itself and gauging if this is the kind of club they want to join.
 
 ## Design (Milestone 2)
@@ -458,6 +460,10 @@ This aligns with the *Establishing Familiarity* goal, since our audience voiced 
 - Meets goal of *Establishing Familiarity*, since users would then become more familiar with the faces behind the dance pieces. They may also then have a better understanding of certain performance features (example: extrapolating how complicated routines may be based on the images).
 - Improves usability by conveniently gathering visual content in a single and accessible spot on the page (in this case, it would likely be at the top of the page, below the navigator).
 
+**Accordion**
+- Displays FAQs that potential members might ask/wonder about the club.
+- Aids users' goal of **Deciding to Join** by providing answers to the questions that they might seek when they are judging whether the club will be the right fit for them and whether to join.
+- Increases readability by decreasing textual clutter on the screen as it conceals text that answers questions that the user is not currently pursuing.
 
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
