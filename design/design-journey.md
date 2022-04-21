@@ -254,7 +254,7 @@ Emails and newsletters with events help, but they don't have that much specific 
 
 
 
-**Interviewee 2:**
+**Interviewee 2:** (by Zaeda)
 
 **Description**: Cornell junior, Human Biology, Health, and Society (HBHS) major in the College of Human Ecology. Is passionate about neuroscience and loves music. Played the flute for many years. Has heard of E.Motion from her friends. Thought the club seemed fun but does not know anything specific.
 TODO: notes
@@ -316,7 +316,7 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
 - **Notes**
 2. My favorite music genre depends a lot on my mood at the moment, but if I had to choose it would be EDM (Electronic Dance Music). What attracts me to it is the rhythm and the energy.
 
-3. Did not look for information about <!-- will finish it tomorrow am too tired --> 
+3. Did not look for information about <!-- will finish it tomorrow am too tired -->
 
 
 ### Goals (Milestone 2)
@@ -332,8 +332,15 @@ Goal 1: Establishing Familiarity
   - Interviewee 1 expressed the desire to know what performances would be hosted at certain showcase events. Being "in the know" of what, who, and when performances would host was heavily emphasized.
   - Meeting this goal would bring further satisfaction to potential webpage visitors, since they would be finding information that they would want the most.
 
-Goal 2: TODO
-TODO
+Goal 2: Deciding Whether to Join
+- **Design Ideas and Choices**
+  - A list structure for information that potential members may seek while still deciding whether to join the club. This gathers all the information a student will need to be aware of before they join.
+  - A dedicated section named "FAQs" with short questions and answers that are easy to scan and comprehend without too much effort.
+  - Group photos dispersed around the site to give a visual representation of the club to potential members. This could communicate to new students intuitively what this club is like without requiring them to read anything. This creates less resistance in their decision-making process of whether to join. 
+
+- **Rationale & Additional Notes**
+  - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
+  - Having an "FAQs" section provides vital information in one place on the site that users will be able to navigate to it easily and achieve their goal of understanding the club. Grouping the specific details that a new member will need to know before joining provides an opportunity to welcome them and give them a clear idea of what this club is like. It can aid them in deciding whether to join and possibly make them be more easily swayed to join the club.
 
 Goal 3: TODO
 TODO
