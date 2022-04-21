@@ -336,7 +336,7 @@ Goal 2: Deciding Whether to Join
 - **Design Ideas and Choices**
   - A list structure for information that potential members may seek while still deciding whether to join the club. This gathers all the information a student will need to be aware of before they join.
   - A dedicated section named "FAQs" with short questions and answers that are easy to scan and comprehend without too much effort.
-  - Group photos dispersed around the site to give a visual representation of the club to potential members. This could communicate to new students intuitively what this club is like without requiring them to read anything. This creates less resistance in their decision-making process of whether to join. 
+  - Group photos dispersed around the site to give a visual representation of the club to potential members. This could communicate to new students intuitively what this club is like without requiring them to read anything. This creates less resistance in their decision-making process of whether to join.
 
 - **Rationale & Additional Notes**
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
@@ -346,7 +346,6 @@ Goal 3: TODO
 TODO
 
 TODO: ...
-
 
 
 ## Content Planning (Milestone 2)
@@ -387,13 +386,20 @@ This content provides several aspects that are useful to our audience. First, a 
 
 1.
   ![card sort 1](/design/card-sort-1.jpg)
+- Creating four pages that will organize the webpage best by content the user interviewees asked for.
+- Carousel on homepage will immediately show pictures that the users have expressed the desire to see (performances, who is on the team, etc.). Essentially, creates an impact upon opening.
+- Event dates under "What We Do" for easy access for people who may want to watch or join a performance.
 
 2.
   ![card sort 2](/design/card-sort-2.jpg)
+- Newsletter moved under "About Us" since it has more written content.
+- Kept "What We Do" to focus on visual content.
+- Added "Event Dates" to "Home Page" since this will be the first page to load when someone accesses the page. Event dates was one of the most requested information from users, so it may help to have this be immediately accessible.
 
 3.
   ![card sort 3](/design/card-sort-3.jpg)
-
+- Moving our team to the homepage to try to establish a sense of familiarity with the webpage visitor. This can create a more human experience by introducing the faces behind the productions.
+- Newsletter kept under "About Us" since it has more written content. Keeping all reading-heavy material in a single location.
 
 
 ### Final Content Organization (Milestone 2)
