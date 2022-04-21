@@ -308,10 +308,15 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
 
 
 
-**Interviewee 4:**
+**Interviewee 4:** by Marko
 
-TODO: description
-TODO: notes
+- **Description**
+  - A freshman in College of Arts and Sciences, An international student studying Biology, likes listening to music in her free time and has never heard of E.Motion before.
+
+- **Notes**
+2. My favorite music genre depends a lot on my mood at the moment, but if I had to choose it would be EDM (Electronic Dance Music). What attracts me to it is the rhythm and the energy.
+
+3. Did not look for information about <!-- will finish it tomorrow am too tired --> 
 
 
 ### Goals (Milestone 2)
@@ -363,7 +368,7 @@ TODO: ...
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how its addressed their goals..
 
-
+This content provides several aspects that are useful to our audience. First, a logo and a navigation bar are essential for a good-looking modern website and a welcoming message for making the site look friendly and pleasing. Secondly, the content will be split into four different pages to avoid overcrowding and possibly creating confusion because finding and accessing quick information is crucial to our audience, based on our interviews. Lastly, the history of E.Motion, together with group pictures, contact information, videos of their dance showcases, and upcoming events, will allow users to familiarize themselves with E.Motion, learn more about who they are, what they do, and most importantly, get a chance to reach out to them and get information about their next performance.
 
 
 
