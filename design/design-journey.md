@@ -531,7 +531,20 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-TODO
+#### Carousel Final Design
+![Carousel Final Design](/design/carousel-final-design.jpg)
+ - **Annotations**: TODO
+ - **Usability**: TODO
+
+#### Accordion Final Design
+![Accordion Final Design](/design/accordion-final-design.jpg)
+- **Annotations**: TODO
+- **Usability**: TODO
+
+#### Hamburger Final Design
+![Hamburger Final Design](/design/hamburger-final-design.jpg)
+- **Annotations**: TODO
+- **Usability**: TODO
 
 
 ### Final Design (Milestone 2)
