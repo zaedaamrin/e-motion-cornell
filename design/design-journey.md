@@ -489,8 +489,24 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO
+#### Desktop Layout Sketch
+![Desktop Layout Draft](/design/desktop-layout-sketch.jpg)
+- Carousel interactivity as the first thing to greet the user (creates a lasting, memorable impact)
+- Logo in the left corner (familiar design)
+- Navigation links displayed as separate buttons on the right side of the page
+- Footer at the end of *every* page, as to assure the user that they are on the same website (creates cohesion)
 
+#### Mobile Layout Sketch
+![Mobile Layout Draft](/design/mobile-layout-sketch.jpg)
+- Navigation links list replaced by a hamburger icon (less clutter on the page)
+- Hamburger icon on the right side for easier implementation
+- Written content that has images is now displayed in column mode (capitalizing on available space)
+
+#### Footer Layout Sketch
+![Footer Layout Draft](/design/footer-layout-sketch.jpg)
+- Will be featured at the end of every page
+- Should include primary contact information; easy to access for anyone who wishes to reach out for more information.
+- Perhaps includes icons to popular social medias (that E.Motion has accounts on). Facebook, Instagram, and YouTube.
 
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
