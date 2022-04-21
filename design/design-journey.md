@@ -333,7 +333,7 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: Establishing Familiarity
+#### Goal 1: Establishing Familiarity
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - Laying out the design of the website so that it is easier to access information concerning details of events (date, time, location)
   - Utilizing bullet points and list formats for brevity and faster accessibility to information
@@ -343,7 +343,7 @@ Goal 1: Establishing Familiarity
   - Interviewee 1 expressed the desire to know what performances would be hosted at certain showcase events. Being "in the know" of what, who, and when performances would host was heavily emphasized.
   - Meeting this goal would bring further satisfaction to potential webpage visitors, since they would be finding information that they would want the most.
 
-Goal 2: Decision to Join
+#### Goal 2: Decision to Join
 - **Design Ideas and Choices**
   - A list structure for information that potential members may seek while still deciding whether to join the club. This gathers all the information a student will need to be aware of before they join.
   - A dedicated section named "FAQs" with short questions and answers that are easy to scan and comprehend without too much effort.
@@ -360,7 +360,6 @@ Goal 3: Having Fun
  - Interactivity such as image carousels, hamburger drop-down menus will help create the dynamic aspect of the site which will further improve the "wow" effect
 - **Rationale & Additional Notes**
 - Interviewee 4 explained that one of the most important facts for her is to have fun with her friends at a dance show, so paying attention to how our dance group is portrayed on their website is of key significance. The website needs to be personal, i.e. provide a chance to users to meet/learn more about E.Motion for a good first impression, give them a glimpse of who they are and what they do so they can decide whether or not they can attend their future performance based on the given information on the site.
-
 
 
 ## Content Planning (Milestone 2)
@@ -400,24 +399,38 @@ This content provides several aspects that are useful to our audience. First, a 
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
 1.
-  ![card sort 1](/design/card-sort-1.jpg)
+  ![card sort #1](/design/card-sort-1.jpg)
+- Creating four pages that will organize the webpage best by content the user interviewees asked for.
+- Carousel on homepage will immediately show pictures that the users have expressed the desire to see (performances, who is on the team, etc.). Essentially, creates an impact upon opening.
+- Event dates under "What We Do" for easy access for people who may want to watch or join a performance.
 
 2.
-  ![card sort 2](/design/card-sort-2.jpg)
+  ![card sort #2](/design/card-sort-2.jpg)
+- Newsletter moved under "About Us" since it has more written content.
+- Kept "What We Do" to focus on visual content.
+- Added "Event Dates" to "Home Page" since this will be the first page to load when someone accesses the page. Event dates was one of the most requested information from users, so it may help to have this be immediately accessible.
 
 3.
-  ![card sort 3](/design/card-sort-3.jpg)
-
+  ![card sort #3](/design/card-sort-3.jpg)
+- Moving our team to the homepage to try to establish a sense of familiarity with the webpage visitor. This can create a more human experience by introducing the faces behind the productions.
+- Newsletter kept under "About Us" since it has more written content. Keeping all reading-heavy material in a single location.
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO
+Our group will be using **card sort #1** for the final content organization.
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
-TODO
+  - As our client has indicated, the target audience of our site are **people who are interested in joining E.Motion** (new members to the club) and **working with E.Motion** (other clubs that would invite the club to different events) and also **other dance groups** (who are looking for a potential collaboration with E.Motion). Hence, by organizing the content into the four pages - home page, “what we do” page, “join us” page, and “about us” page - all target audiences are able to find the information they need.
+
+    - For people who are interested but also on the fence about joining the club, they could go to the “what we do” page to get a better understanding of the dance group, perhaps what songs the club gets to perform, which artist’s dance/song the club gets to cover, etc. The “join us” page also provides information that are useful for this group of audience. On this page, they could access information that’s particularly about the joining process (such as dates and places for tryouts and callbacks) and they could also subscribe to the club’s newsletter for more information!
+    - For people who are hoping to work with E.Motion and invite the club to participate in an event, they could also head to the “what we do” pagel. By browsing through this page, these people would be able to know more about the club and evaluate if E.Motion is their best choice for the event.
+    - For the other dance clubs that are looking for a collaboration, they could also use the “what we do” page to see if the dance covers by E.Motion are well suited for their potential collaboration after checking out their past performance videos.
+
+
+
 
 
 ### Navigation (Milestone 2)
@@ -453,16 +466,20 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
  - Simple, minimalistic
  - Color Palette: Red, blue, white (for flag of Korea)
  - Avoids overwhelming the user with content, considering that there is are many layers of information to sort through.
+ - Especially helps with aiding a user in making a decision. It is very simple and plain, so they can consume more content without feeling overwhelmed.
 
 
 #### Theme 2 - Welcoming
  - High contrast creates an invigorating atmosphere that welcomes the user. This complements our client's goals of establishing a site that does not intimidate its users.
  - Incorporating Royal blue (still in Korean flag hues), lighter aqua blue as shadow (inverse contrast). Will be using an Instagram post for reference.
  - White background avoids cluttering the provided space (similarly to the first theme proposal). Plain webpage background may also be more familiar to the user and therefore allow them to use the website easily.
+ - Aligns with client's goal of creating a friendly, welcoming environment
+
 
 #### Theme 3 - Dark theme
 - Light black background: Sleek presentation of information
 - Creates organization by not overwhelming the user with multiple colors.
+- More professional look, might help convince prospective members to join the group (aligns with goal of making a decison).
 
 
 ### Interactivity Ideas (Milestone 2)
@@ -479,13 +496,34 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 - Aids users' goal of **Deciding to Join** by providing answers to the questions that they might seek when they are judging whether the club will be the right fit for them and whether to join.
 - Increases readability by decreasing textual clutter on the screen as it conceals text that answers questions that the user is not currently pursuing.
 
+**Hamburger**
+- Creates a more accessibly mobile experience. Users can click on a hamburger icon in order to access the navigation bar. This makes better use of the limited space provided on mobile display.
+- The hamburger menu is also a common webpage design pattern, meaning that the users will be more familiar with how to utilize it. Aligns with familiarity goal.
+
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
 > Sketch both the mobile and desktop versions of the site.
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO
+#### Desktop Layout Sketch
+![Desktop Layout Draft](/design/desktop-layout-sketch.jpg)
+- Carousel interactivity as the first thing to greet the user (creates a lasting, memorable impact)
+- Logo in the left corner (familiar design)
+- Navigation links displayed as separate buttons on the right side of the page
+- Footer at the end of *every* page, as to assure the user that they are on the same website (creates cohesion)
+
+#### Mobile Layout Sketch
+![Mobile Layout Draft](/design/mobile-layout-sketch.jpg)
+- Navigation links list replaced by a hamburger icon (less clutter on the page)
+- Hamburger icon on the right side for easier implementation
+- Written content that has images is now displayed in column mode (capitalizing on available space)
+
+#### Footer Layout Sketch
+![Footer Layout Draft](/design/footer-layout-sketch.jpg)
+- Will be featured at the end of every page
+- Should include primary contact information; easy to access for anyone who wishes to reach out for more information.
+- Perhaps includes icons to popular social medias (that E.Motion has accounts on). Facebook, Instagram, and YouTube.
 
 
 ### Final Interactivity Design (Milestone 2)
