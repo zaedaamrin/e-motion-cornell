@@ -497,8 +497,12 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 - Increases readability by decreasing textual clutter on the screen as it conceals text that answers questions that the user is not currently pursuing.
 
 **Hamburger**
-- Creates a more accessibly mobile experience. Users can click on a hamburger icon in order to access the navigation bar. This makes better use of the limited space provided on mobile display.
+- Creates a more accessible mobile experience. Users can click on a hamburger icon in order to access the navigation bar. This makes better use of the limited space provided on mobile display.
 - The hamburger menu is also a common webpage design pattern, meaning that the users will be more familiar with how to utilize it. Aligns with familiarity goal.
+
+**Tabs**
+- Will provide a visual manner in order to section off content that is a subcategory.
+- It will *not* take another page to load new content; this provides speed and efficiency to the user (allows them to enjoy what is happening in their physical presence). Furthermore, this organization tactic makes it easier to find content.
 
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
@@ -532,19 +536,44 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 
 #### Carousel Final Design
 ![Carousel Final Design](/design/carousel-final-design.jpg)
- - **Annotations**: TODO
- - **Usability**: TODO
+ - **Notes**:
+    - An image will be portrayed at the center with multiple icons being displayed under. These will be assigned different classes in order to classify the different slides. Clicking on one of the images below will then make that image appear at the center "stage."
+    - The left and right arrow can make the image changes to the next assigned picture.
+ - **Usability**:
+    -  User will be able to interact with the website by being given the control to switch what content will be displayed.
+    - Universally used throughout numerous websites; the users will have a higher chance of being familiar with the design pattern and knowing how to use it.
+    - Able to conveniently keep most images in a single, accessible location. This provides structure to the webpage and also makes it easier for the user to find intended visual content.
 
 #### Accordion Final Design
 ![Accordion Final Design](/design/accordion-final-design.jpg)
-- **Annotations**: TODO
-- **Usability**: TODO
+- **Notes**:
+    - There will be multiple sections per heading (or "frequently asked question"). Clicking on one of these will make a panel of content become visible (and appear below the aforementioned section).
+    - The arrow will change its visual appearance in order to match when the accordion content is visible or hidden. This provides immediate feedback to the user.
+- **Usability**:
+    - Arrow icon invites the user to interact with the slab of content. It will also provide feedback for when the user has clicked to reveal the main content. (It may also change color or appearance when the cursor hovers over it).
+    - Common throughout the Internet = higher familiarity rate with users
+    - Takes advantage of available whitespace in a webpage (especially when there is a lot of content). This prevents a website from overwhelming the user with too much content. It also makes it easier to find the content that they want (*ex*: answers to specific questions).
 
 #### Hamburger Final Design
 ![Hamburger Final Design](/design/hamburger-final-design.jpg)
-- **Annotations**: TODO
-- **Usability**: TODO
+- **Notes**:
+    - Displayed in the right-side corner of the mobile display. Capitalizes on the available whitespace of the narrow display; declutters the webpage.
+    - Arranges navigation bar content in a single spot on the page, which provides further organization. This in turn makes it easier to find a wanted section of information (which will redirect the user to a new page).
+    - When clicked on, the hamburger icon will make the navigation bar list visible to the viewer. The user will then be granted new options (clicking out, choosing a new page, etc).
+- **Usability**:
+    - Hamburger icon heavily used throughout the Internet, meaning that users will most likely be aware of how to use it.
+    - The user is given more options on how they would like to interact with a webpage. There is likely a lower chance of clicking on a page accidentally; the users will likely be deliberate in switching to a new page through this method. This means that the experience will be more memorable and designed for user's goals.
 
+#### Tabs Final Design
+![Tabs Final Design](/design/tabs-final-design.jpg)
+- **Notes**:
+    - Webpages that have a similar umbrella term but then subcategories of content may benefit from this system. It provides organization to the content and lets users choose what information they would like to see.
+    - Makes different sections of content more visible to the viewer and also more accessible (they would simple have to click at the top of the tabs "bar").
+   - Using and removing .hidden classes in order to conveniently display or make content invisible.
+   - Upon loading, all content will be available on a webpage. This means that there will be no need to reload the page in order to pull content from a separate tab (saves time for the user and makes content easier to gain).
+- **Usability**:
+    - User has the ability to choose when to view certain content. This increase in user authority increases the website experience in that the webpage visitor now posseses a more active role in interaction.
+    - Makes it easier to find specific content based on different sections (*ex*: Food --> Drinks, Meals, etc).
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
