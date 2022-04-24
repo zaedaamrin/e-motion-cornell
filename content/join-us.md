@@ -1,4 +1,14 @@
-FAQ Section
+**FAQ Section**
+
+Design Ideas:
+- Minimalist:
+![Accordion](design-ideas/faq-accordion-inspiration.jpg)
+
+- With Colors:
+![Accordion](design-ideas/faq-accordion-inspiration2.jpg)
+
+
+Content:
 
 What is E.Motion?
 We are Cornell’s K-Pop dance group! We teach members of all levels and hold workshops, make socials, and perform for the Cornell community. Outside of that, we also film covers to go online!
@@ -54,5 +64,7 @@ What makes Fast Covers different?
 - High time commitment
 - Workshops/auditions are available for everyone!
 
-Newsletter section
-Know someone that wants to join our listserv? Have them email us at cornellemotion@gmail.com!
+-----------------------------------
+**Newsletter section**
+
+Wants to join our listserv? Email us at cornellemotion@gmail.com!

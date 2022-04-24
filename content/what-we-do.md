@@ -1,16 +1,22 @@
-Upcoming Events:
+**Upcoming Events section**
 - Spring Showcase:
   -  SAT 5/7 @ WSH Theatre (aka Cornell Cinema)
   - Tickets $5
+  - Are you ready to BOP TO THE TOP? HIGH SCHOOL E.MOTION: THE MUSICAL: THE SHOWCASE is happening on Saturday, May 7, 7-9 PM in Cornell Cinema. Follow Chad as he struggles to figure out if he should STICK TO THE STATUS QUO or GO HIS OWN WAY? Get your tickets today! It’s gonna be A NIGHT TO REMEMBER, so don’t miss out!
   ![Showcase flyer](/images/showcase-flyer.png)
 
-Past Events:
-- Hope Night
-  (can download the images from it)
+--------------------------------------
+**Videos Section**
 
-Link to youtube for videos:
+Gallery of video covers?
 
-![Example of how to structure these paragraphs](wwd-example-structure.jpg)
+Link to youtube for videos: https://www.youtube.com/c/EmotionCornell/featured
+
+---------------------------------------
+**What We Do section**
+
+Idea of how to layout this section (from their interest meeting slideshow):
+![example](design-ideas/wwd-example-structure.jpg)
 
 Workshops
 We hold 1 to 2 hour sessions teaching anyone interested a fun K-Pop song chorus! Great if you’re trying to improve your skills.

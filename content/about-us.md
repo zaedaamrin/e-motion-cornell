@@ -1,4 +1,4 @@
-About section:
+**About section**
 
 E.Motion is a performance group that performs K-pop dance covers. All those who are interested in dancing or K-pop are welcome. We hope to showcase our passion for K-pop songs and dances through our performances to the Cornell community.
 
@@ -9,10 +9,15 @@ Our club provides opportunities for dancers to challenge themselves; we regularl
 
 We have performed at many major Cornell events as well as at KCON New York, Stage K Cover Challenge and have won global dance cover contests hosted by 1theK.
 
-E.Motion was voted Cultural Contributor at the 2018 CDA Awards and best Video Editing at the 2019 Awards..
+E.Motion was voted Cultural Contributor at the 2018 CDA Awards and best Video Editing at the 2019 Awards.
 
----------------------------
-Our Team section:
+-------------------------------------
+**"Our Team" section**
+
+Idea for the layout: ignoring the tabs lol we dont have enough people for each category... or do we?
+![idea](design-ideas/our-team-design-idea.jpg)
+
+![idea](design-ideas/our-team-design2.jpg)
 
 Mindy Li '23
 President
