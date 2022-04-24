@@ -603,7 +603,22 @@ Our site's layout further enhances usability for our users and their goals throu
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
 ```
-TODO
+HTML elements:
+- right button (carousel on the home page): `<div id='go-right' class='arrow'>`
+- left button (carousel on the home page): `<div id='go-left' class='arrow'>`
+
+CSS classes:
+<!-- carousel  -->
+- .hidden (hide/unhide elements)
+- .arrow ( style buttons to look like arrows)
+- .button (positioning of button elements)
+- .circle ( styling html button to look like small circles)
+- .dots (positioning of circle elements)
+- .click ( darker color for the selected circle)
+- .dis-img (displayed image)
+- slides ( slides of a carousel)
+<!----------------------------------->
+
 ```
 
 
