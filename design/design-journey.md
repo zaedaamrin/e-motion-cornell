@@ -617,13 +617,15 @@ Our site's layout further enhances usability for our users and their goals throu
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
 #### Carousel Interactivity Plan
+**HTML elements:**
 ```
-HTML elements:
+
 - right button (carousel on the home page): `<div id='go-right' class='arrow'>`
 - left button (carousel on the home page): `<div id='go-left' class='arrow'>`
-
-CSS classes:
-<!-- carousel  -->
+- dot indicator (at the bottom of the carousel) : `<div id='dot1,2,3' class= circle`
+```
+**CSS classes:**
+```
 - .hidden (hide/unhide elements)
 - .arrow ( style buttons to look like arrows)
 - .button (positioning of button elements)
@@ -632,10 +634,23 @@ CSS classes:
 - .click ( darker color for the selected circle)
 - .dis-img (displayed image)
 - .slides ( slides of a carousel)
-<!----------------------------------->
-
 ```
+**Carousel Pseudocode**
+```
+when #go-right button is clicked: (on-click-event snippet)
+  show next slide (next slide snippet)
+when #go-left button is clicked: (on-click-event snippet)
+    show next slide (next slide snippet)
 
+when #dot1 button is clicked: (on-click-even snippet)
+  show slide with the number of the dot (showSlide snippet)
+
+when #dot2 button is clicked: (on-click-even snippet)
+show slide with the number of the dot (showSlide snippet)
+
+when #dot3 button is clicked: (on-click-even snippet)
+  show slide with the number of the dot (showSlide snippet)
+```
 #### Tabs Interactivity Plan
 
 **HTML elements**:

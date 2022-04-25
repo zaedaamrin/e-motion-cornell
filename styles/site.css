@@ -12,20 +12,27 @@
   padding:0;
 }
 
-/* .header-image{
-  background-image: url(../images/group-pics/big-group-pic.jpg);
-background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
-opacity: 0.7;
 
-} */
+/*---------------------- GENERIC CLASSES ---------------------*/
+.hidden{
+  display: none;
+}
+.container-row{
+  display: flex;
+  flex-direction: row;
+}
+.container-column{
+  display: flex;
+  flex-direction: column;
+}
 
+/*--------------------------- HEADER CLASSES -----------------------*/
 header{
   display: flex;
   flex-direction: row;
   min-height: 200px;
   justify-content: space-between;
+  background-color: #f1f2f5;
 }
 
 header nav ul {
@@ -76,3 +83,70 @@ header a:hover{
   margin-right: 50px;
   border-radius: 5px;
 }
+/* ----------------------- HEADER END -----------------------*/
+
+/* ----------------------------- HOME PAGE CLASSES-----------*/
+.member{
+  max-width: 200px;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+
+
+
+/* --------------------HOME PAGE END -----------------------*/
+
+
+/* ------------------------CAROUSEL CLASSES -----------------*/
+.dis-img{
+  width: 90%;
+  border-radius: 3%;
+}
+.arrow{
+  width: 40px;
+  height: 40px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 25px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.arrow:hover{
+  background-color: black;
+  color:white;
+  cursor: pointer;
+}
+
+.dots{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5px;
+}
+.buttons{
+  display: flex;
+  justify-content:space-between;
+  justify-content: center;
+  align-items: center;
+}
+.circle{
+  border-radius: 50%;
+  background-color: white;
+  width:25px;
+  height: 25px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.click{
+  background-color: black;
+}
+.slides{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-grow: 1;
+}
+/* -------------------- CAROUSEL END ---------------------- */
