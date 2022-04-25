@@ -616,6 +616,7 @@ Our site's layout further enhances usability for our users and their goals throu
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
+#### Carousel Interactivity Plan
 ```
 HTML elements:
 - right button (carousel on the home page): `<div id='go-right' class='arrow'>`
@@ -630,11 +631,66 @@ CSS classes:
 - .dots (positioning of circle elements)
 - .click ( darker color for the selected circle)
 - .dis-img (displayed image)
-- slides ( slides of a carousel)
+- .slides ( slides of a carousel)
 <!----------------------------------->
 
 ```
 
+#### Tabs Interactivity Plan
+
+**HTML elements**:
+
+*Tab Buttons* - When clicked, will reveal corresponding tab content.
+  - ```#workshops-button```
+  - ```#pt-button```
+  - ```#fast-covers-button```
+  - ```#socials-button```
+  - ```#beginner-button```
+  - ```#auditions-button```
+
+*Tab Content* - Information that can be revealed/hidden according to the label clicked.
+```
+  - #workshops-content
+      <div class="tab-content" id="workshops-content">
+
+  - #pt-content
+      <div class="tab-content hidden" id="pt-content">
+
+  - #fast-covers-content
+      <div class="tab-content hidden" id="fast-covers-content">
+
+  - #socials-content
+      <div class="tab-content hidden" id="socials-content">
+
+  - #beginner-content
+      <div class="tab-content hidden" id="beginner-content">
+
+  - #auditions-content
+      <div class="tab-content hidden" id="auditions-content">
+```
+
+**CSS Classes**
+- `.hidden` - Hides the content of an inactive tab. The clicked tab will have this class removed via JavaScript.
+- `.tabs` - Indicating usage of tabs on page
+- `.tabs-list` - List of tab buttons
+- `.tab-button` - Title of a tab
+    - `.tab-button:hover"` - Alters appearance to provide feedback to user (showing that the button is clickable).
+
+**Tabs Pseudocode**
+```
+When the user loads the page:
+  Hide all other tab content
+    add class .hidden to class .tab-content
+  Let the first, default tab's content be visible
+    remove class .hidden from #workshops-content
+
+When the user clicks on a tab button:
+  Hide all other tab content
+    add class .hidden to class .tab-content
+  Show the content corresponding to the clicked tab button
+      if #auditions-button was clicked,
+      remove class .hidden from #auditions-content
+```
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
