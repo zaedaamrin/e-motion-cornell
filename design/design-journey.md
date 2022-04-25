@@ -692,6 +692,41 @@ When the user clicks on a tab button:
       remove class .hidden from #auditions-content
 ```
 
+### Accordion Interactivity Plan
+**HTML Elements**
+
+*Accordion Containers* - The container holding the accordion's header label and content together. There is a total of 10 of these elements.
+  - `#accordion-container-n` (where n is the number of the accordion container from 1 to 10)
+  - `<div id="accordion-container-n" class="accordion-container">`
+
+*Accordion Headers* - The header/label of the accordion section. It is a button element. Clicking on the button's "+" or "-" icon in this element will open/close the accordion by hiding/unhiding the accordion content. There is a total of 10 of these accordion headers, one for its respective accordion container.
+  - `#accordion-header-n` (where n is the number of the accordion header from 1 to 10)
+  - `<button id="accordion-header-n" class="accordion-header accordion-header::after">`
+
+*Accordion Content* - The content hidden inside the accordion section. There is a total of 10 of these accordion content elements, one for its respective accordion container.
+  - `#accordion-content-n` (where n is the number of the accordion content from 1 to 10)
+  - `<div id="accordion-content-n" class="accordion-content hidden"`
+
+**CSS Classes**
+- `.hidden` - This will hide the accordion content elements
+- `.accordion-container`- This is a container to hold the header and content of the accordion together.
+- `.accordion-header` - This styles the accordion's header and sets its spacing of padding and alignment.
+- `.accordion-header::after` - This is the icon of that is displayed when the accordion is currently closed. It shows initially shows "+" but can be changed by JavaScript to show "-".
+- `.accordion-header:hover` - This styles the accordion's background-color when user hovers over the accordion.
+- `.accordion-content` - This is to set the relative spacing of the content inside the accordion content element in terms of padding and alignment.
+
+**Accordions Pseudocode**
+```
+When user clicks on the icon on an accordion header element:
+  if value of contents property of accordion-header::after is "+":
+    remove hidden class from its respective accordion content element
+    change value of contents property of accordion-header::after to be "-"
+
+  else:
+    add hidden class to its respective accordion content element
+    change value of contents property of accordion-header::after to be "+"
+```
+
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
