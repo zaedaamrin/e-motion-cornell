@@ -1,3 +1,12 @@
+/* COLOR PALETTE
+#f1f2f5 - header/nav, light grayish
+#233dff - headings, royal blueish
+#e4ecf7 - content, light blueish,
+#f00947 - headings, matches pinkish. Maybe footer
+#fae9ea - content, light pinkish
+#ffffff - main background
+*/
+
 * {
   margin: 0;
   padding:0;
