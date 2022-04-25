@@ -569,7 +569,7 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
     - The user is given more options on how they would like to interact with a webpage. There is likely a lower chance of clicking on a page accidentally; the users will likely be deliberate in switching to a new page through this method. This means that the experience will be more memorable and designed for user's goals.
 
 #### Tabs Final Design
-![Tabs Final Design](/design/tabs-final-design.jpg)
+![Tabs Final Design](/design/tabs-final-design.png)
 - **Notes**:
     - Webpages that have a similar umbrella term but then subcategories of content may benefit from this system. It provides organization to the content and lets users choose what information they would like to see.
     - Makes different sections of content more visible to the viewer and also more accessible (they would simple have to click at the top of the tabs "bar").
