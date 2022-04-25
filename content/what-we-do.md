@@ -8,7 +8,7 @@
 --------------------------------------
 **Videos Section**
 
-Gallery of video covers?
+Gallery of video covers
 
 Link to youtube for videos: https://www.youtube.com/c/EmotionCornell/featured
 
