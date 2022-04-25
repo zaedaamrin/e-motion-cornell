@@ -504,6 +504,10 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 - Will provide a visual manner in order to section off content that is a subcategory.
 - It will *not* take another page to load new content; this provides speed and efficiency to the user (allows them to enjoy what is happening in their physical presence). Furthermore, this organization tactic makes it easier to find content.
 
+**Gallery**
+- Will structure club's performance videos in a logical manner that looks neat and organized.
+- Maximizes screen size of the videos when being played while allowing user to see other videos at the same time.
+
 ### Layout Exploration (Milestone 2)
 > Iterate on your site's design through sketching.
 > Sketch both the mobile and desktop versions of the site.
@@ -574,6 +578,16 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 - **Usability**:
     - User has the ability to choose when to view certain content. This increase in user authority increases the website experience in that the webpage visitor now posseses a more active role in interaction.
     - Makes it easier to find specific content based on different sections (*ex*: Food --> Drinks, Meals, etc).
+
+#### Gallery Final Design
+![Final Gallery Design](gallery-final-design.png)
+- **Notes**
+  - Gallery is displayed as a screen-wide element with one video "maximized" at the center and the other videos listed next to it. Clicking on this enlargened video will play it. The other videos will be clickable and clicking on one of the other images will make it replace the video at the center so the user can watch it.
+
+- **Usability**
+  - Helps user view the performance videos and see other additional videos at the same time on the same screen.
+  - Aids the user in watching the videos in the order of their choosing, which helps users' with the goal of consuming E.Motion's content as a dance club.
+  - Makes it easier to find all the available videos and get a sense of what the club is like, which helps other users' goals of determining if they want to join.
 
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
