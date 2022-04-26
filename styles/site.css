@@ -239,6 +239,7 @@ body {
 
 .header:hover {
   background-color: #fae9ea;
+  color: black;
   border: 1px #fae9ea; solid;
   cursor: pointer;
 }
