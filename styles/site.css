@@ -211,13 +211,14 @@ body {
 }
 
 .accordion .container {
-  margin: 10px 10px;
+  margin: 10px 50px;
 }
 
 .accordion .header {
   display: flex;
-  background-color: #fae9ea;
-  border: 1px #fae9ea solid;
+  color: white;
+  background-color: #f00947;
+  border: 1px #f00947 solid;
   border-radius: 5px;
   align-items: center;
   font-size: 16px;
@@ -237,8 +238,8 @@ body {
 }
 
 .header:hover {
-  background-color: #f00947;
-  border: 1px #f00947 solid;
+  background-color: #fae9ea;
+  border: 1px #fae9ea; solid;
   cursor: pointer;
 }
 
