@@ -12,9 +12,20 @@
   padding:0;
 }
 
+/*--------------------------- BODY CLASSES -----------------------*/
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
 strong{
   font-weight: bold;
 }
+/* ----------------------- BODY END -----------------------*/
+
 /*---------------------- GENERIC CLASSES ---------------------*/
 .hidden{
   display: none;
@@ -28,8 +39,12 @@ strong{
   flex-direction: column;
 }
 
+.body-wrapper {
+  margin: 25px 25px 50px 25px;
+}
+
 .section-wrapper {
-  margin: 25px;
+  margin: 25px 25px 50px 25px;
 }
 
 /*--------------------------- HEADER CLASSES -----------------------*/
@@ -70,7 +85,7 @@ header li{
 }
 header a:hover{
   color:white;
-  background-color: #f00947;
+  background-color: #233dff;
   transition: 0.5s;
 }
 
@@ -89,12 +104,6 @@ header a:hover{
   border-radius: 5px;
 }
 /* ----------------------- HEADER END -----------------------*/
-
-/*--------------------------- BODY CLASSES -----------------------*/
-body {
-  font-family: sans-serif;
-}
-/* ----------------------- BODY END -----------------------*/
 
 /* ----------------------------- HOME PAGE CLASSES-----------*/
 .member{
