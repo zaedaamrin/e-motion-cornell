@@ -36,7 +36,7 @@ strong{
 header{
   display: flex;
   flex-direction: row;
-  min-height: 200px;
+  min-height: 150px;
   justify-content: space-between;
   background-color: #f1f2f5;
 }
@@ -62,30 +62,29 @@ header li{
 }
 
 .logo{
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 150px;
+  max-height: 150px;
   display: inline-flex;
   flex-grow: 1;
 
 }
 header a:hover{
   color:white;
-  background-color: black;
+  background-color: #f00947;
   transition: 0.5s;
 }
 
 .header-box{
   color:black;
-  background-color: white;
   font-style: normal;
   font-family: Arial;
   text-align: center;
   justify-content: center;
   margin: 10px 0px 10px 10px;
-  border: 3px solid white;
+  /* border: 3px solid white; */
   text-decoration: none;
   font-size: 120%;
-  padding: 3px;
+  padding: 9px 12px;
   margin-right: 50px;
   border-radius: 5px;
 }
@@ -244,7 +243,7 @@ body {
   float: right;
   right: 10px;
   margin-left: 10px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .header:hover {
