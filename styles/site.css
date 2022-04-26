@@ -257,3 +257,48 @@ ol li {
 }
 
 /* ------------------- ACCORDION END ------------------ */
+
+
+
+/* TABS STARTS */
+
+aside {
+    flex-direction: row;
+    flex-grow: 2;
+    max-width: 600px;
+  }
+
+  .tabs-list {
+    display: block;
+    margin:0;
+    padding:0;
+  }
+
+  .tabs-list li {
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 1.2em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+    text-decoration: none;
+  }
+
+  .tab-button {
+    font-size: 1.15em;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    padding: 1em;
+    margin-top: 2em;
+    background-color: #e4ecf7;
+  }
+
+  .tab-content {
+    padding: 1em;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+    background-color: #e4ecf7;
+    border-radius: 0.5em;
+  }
+
+/*  END OF TABS INTERACTIVITY */
