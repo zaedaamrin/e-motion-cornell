@@ -211,45 +211,57 @@ body {
 }
 
 .accordion .container {
-  margin: 10px 50px;
+  box-shadow: 0px 4px 10px rgba(150, 158, 164, 0.91);
+  border-radius: 5px;
+
+  margin: 20px 50px;
 }
 
 .accordion .header {
   display: flex;
-  color: white;
-  background-color: #f00947;
-  border: 1px #f00947 solid;
-  border-radius: 5px;
-  align-items: center;
   font-size: 16px;
+  color: black;
+  background-color: white;
+  align-items: center;
+
+  border: 1px black solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
+  border-radius: 5px;
 
   width: 100%;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  padding-top: 18px;
+  padding-bottom: 18px;
 }
 
 .header::before {
   display: flex;
   content: "\02795";
+
   float: right;
-  margin-left: 10px;
   right: 10px;
+  margin-left: 10px;
   margin-right: 5px;
 }
 
 .header:hover {
-  background-color: #fae9ea;
-  color: black;
-  border: 1px #fae9ea; solid;
+  background-color: #f00947;
+  color: white;
   cursor: pointer;
+
+  border: 1px #f00947 solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
+  border-radius: 5px;
 }
 
 .accordion .content {
   background-color: #fae9ea;
+  text-align: justify;
+
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 10px;
-  text-align: justify;
 }
 
 ol li {
