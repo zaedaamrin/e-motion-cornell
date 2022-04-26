@@ -599,8 +599,14 @@ TODO
 
 
 **Desktop Design:**
-TODO
+  ![Final Desktop Design - Homepage](desktop-home.jpg)
 
+  ![Final Desktop Design - What We Do Page](desktop-wwd1.jpg)
+  ![Final Desktop Design - What We Do Page](desktop-wwd2.jpg)
+
+  ![Final Desktop Design - Join Us Page](desktop-join.jpg)
+
+  ![Final Desktop Design - About Us Page](desktop-about.jpg)
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
