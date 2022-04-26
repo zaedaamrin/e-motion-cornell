@@ -26,6 +26,10 @@
   flex-direction: column;
 }
 
+.section-wrapper {
+  margin: 25px;
+}
+
 /*--------------------------- HEADER CLASSES -----------------------*/
 header{
   display: flex;
@@ -84,6 +88,12 @@ header a:hover{
   border-radius: 5px;
 }
 /* ----------------------- HEADER END -----------------------*/
+
+/*--------------------------- BODY CLASSES -----------------------*/
+body {
+  font-family: sans-serif;
+}
+/* ----------------------- BODY END -----------------------*/
 
 /* ----------------------------- HOME PAGE CLASSES-----------*/
 .member{
@@ -152,11 +162,57 @@ header a:hover{
 /* -------------------- CAROUSEL END ---------------------- */
 
 /* ----------------- JOIN-US PAGE CLASSES ----------------- */
-
+/* placeholder */
 
 /* ------------------- JOIN-US PAGE END ------------------- */
 
 /* ------------------- ACCORDION CLASSES ------------------ */
+.accordion {
+  /* might need this for spacing */
+}
 
+.accordion .container {
+  margin: 10px 10px;
+}
+
+.accordion .header {
+  display: flex;
+  background-color: #fae9ea;
+  border: 1px #fae9ea solid;
+  border-radius: 5px;
+  align-items: center;
+  font-size: 16px;
+
+  width: 100%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.header::before {
+  display: flex;
+  content: "\02795";
+  float: right;
+  margin-left: 10px;
+  right: 10px;
+  margin-right: 5px;
+}
+
+.header:hover {
+  background-color: #f00947;
+  border: 1px #f00947 solid;
+  cursor: pointer;
+}
+
+.accordion .content {
+  background-color: #fae9ea;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  text-align: justify;
+}
+
+ol li {
+    margin-left: 15px;
+}
 
 /* ------------------- ACCORDION END ------------------ */
