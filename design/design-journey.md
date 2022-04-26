@@ -713,6 +713,53 @@ When the user clicks on a tab button:
       remove class .hidden from #auditions-content
 ```
 
+### Gallery Interactivity Plan
+
+**HTML Elements***
+- buttons:
+    - left button: <div id="buttonL" class="buttons">
+    - right button: <div id="buttonR" class="buttons">
+- preview images (clickable):
+  - image 1: <div id="prevA" class="preview">
+  - image 2: <div id="prevB" class="preview">
+  - image 3: <div id="prevC" class="preview">
+  - image 4: <div id="prevD" class="preview">
+  - image 5: <div id="prevE" class="preview">
+  - image 6: <div id="prevF" class="preview">
+
+**CSS Classes**
+- buttons - left button goes on the left side of image and right button goes on the right side for home page; left and right both goes underneath image for vendors page
+- class = slides - styling of all images in gallery
+- class = preview - styling of all images in preview, positioned beneath gallery
+- .preview img:hover - enlarges preview
+- .hidden - hide and unhide images
+
+**Pseudocode**
+
+  when #buttonL button is clicked: (on-click-event snippet)
+    show previous slide (prevSlide snippet)
+  when #buttonR button is clicked: (on-click-event snippet)
+      show next slide (nextSlide snippet)
+
+  when #prevA button is clicked: (on-click-even snippet)
+    show slide with the number/first of the images (showSlide snippet)
+
+  when #prevB button is clicked: (on-click-even snippet)
+    show slide with the number/second of the images (showSlide snippet)
+
+  when #prevC button is clicked: (on-click-even snippet)
+    show slide with the number/third of the images (showSlide snippet)
+
+  when #prevD button is clicked: (on-click-even snippet)
+    show slide with the number/fourth of the images (showSlide snippet)
+
+  when #prevE button is clicked: (on-click-even snippet)
+    show slide with the number/fifth of the images (showSlide snippet)
+
+  when #prevF button is clicked: (on-click-even snippet)
+    show slide with the number/sixth of the images (showSlide snippet)
+
+
 ### Accordion Interactivity Plan
 **HTML Elements**
 
