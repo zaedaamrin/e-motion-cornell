@@ -302,7 +302,6 @@ ol li {
     text-decoration: none;
     list-style-type: none;
     margin-top: 1.2em;
-    margin-left: 0em;
     margin-bottom: 0.5em;
     text-decoration: none;
   }
@@ -318,8 +317,8 @@ ol li {
 
   .tab-button:hover {
     text-decoration: underline;
-    text-decoration-color: #233dff;
-    text-decoration-style: dotted;
+    text-decoration-color: white;
+    text-decoration-style: double;
   }
 
   .tab-content {
@@ -329,11 +328,37 @@ ol li {
     border-radius: 0.5em;
   }
 
+  #workshops-button, .first-tab-content {
+    background-color: #E4ECF7;
+  }
+  #pt-button, .second-tab-content {
+    background-color: #C1CCF8;
+  }
+  #fast-covers-button, .third-tab-content {
+    background-color: #9EACFA;
+  }
+  #socials-button, .fourth-tab-content {
+    background-color: #7B8DFB;
+  }
+  #beginner-button, .fifth-tab-content {
+    background-color: #586DFD;
+    color: white;
+  }
+  #auditions-button, .sixth-tab-content {
+    background-color: #3e4ec2;
+    color: white;
+  }
+
+  #hsm-flyer {
+    width: 225%;
+    max-width: 300px;
+  }
+
 @media screen and (min-width: 601px) {
   .tabs {
     flex-grow: 2;
     flex-direction: row;
-    max-width: 600px;
+    max-width: 800px;
   }
 
   aside {
@@ -348,12 +373,6 @@ ol li {
   .tab-button {
     font-size: 1em;
   }
-
-  #hsm-flyer {
-    width: 225%;
-    max-width: 600px;
-  }
-
 }
 
 @media screen and (min-width: 1000px) {
@@ -370,6 +389,10 @@ ol li {
     flex-direction: column;
   }
 
+  #hsm-flyer {
+    width: 225%;
+    max-width: 600px;
+  }
 }
 
 /*------------------- END OF TABS INTERACTIVITY ------------------- */
