@@ -295,7 +295,6 @@ ol li {
     display: block;
     margin:0;
     padding:0;
-    margin-left: 2em;
   }
 
   .tabs-list li {
@@ -325,7 +324,6 @@ ol li {
 
   .tab-content {
     padding: 1em;
-    margin-left: 2em;
     margin-right: 3em;
     background-color: #e4ecf7;
     border-radius: 0.5em;
@@ -356,15 +354,22 @@ ol li {
     max-width: 600px;
   }
 
-  .showcase-content {
-    margin-left: 10em;
-  }
 }
 
 @media screen and (min-width: 1000px) {
   .showcase-content {
     margin-left: 11.5em;
   }
+
+  .wwd-row{
+    display: flex;
+    flex-direction: row;
+  }
+  .wwd-column{
+    display: flex;
+    flex-direction: column;
+  }
+
 }
 
 /*------------------- END OF TABS INTERACTIVITY ------------------- */
