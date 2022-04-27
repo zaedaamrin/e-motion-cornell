@@ -1,6 +1,6 @@
 /* COLOR PALETTE
 #f1f2f5 - header/nav, light grayish
-#233dff - headings, royal blueish
+#6d7ef9 - headings, royal blueish
 #e4ecf7 - content, light blueish,
 #f00947 - headings, matches pinkish. Maybe footer
 #fae9ea - content, light pinkish
@@ -12,9 +12,43 @@
   padding:0;
 }
 
+/*--------------------------- BODY CLASSES -----------------------*/
+body {
+  font-family: sans-serif;
+  /* line-height: 1.5em; */
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 strong{
   font-weight: bold;
 }
+
+p {
+  line-height: 1.5em;
+}
+
+a {
+  color: #6d7ef9;
+}
+/* ----------------------- BODY END -----------------------*/
+
 /*---------------------- GENERIC CLASSES ---------------------*/
 .hidden{
   display: none;
@@ -27,18 +61,54 @@ strong{
   display: flex;
   flex-direction: column;
 }
-
+.body-wrapper {
+  margin: 60px 50px 70px 50px;
+}
 .section-wrapper {
-  margin: 25px;
+  margin: 0px 120px;
+}
+.footer-logo{
+  padding: 0px;
+  width: 40px;
+  text-decoration: none;
+  margin:15px;
+}
+.footer-logo:hover{
+  opacity:0.6;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+  cursor: pointer;
+}
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #f1f2f5;
+  padding: 5px 50px;
+}
+.footer-text{
+  text-align: center;
+  margin: auto 0;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  line-height: 1.5;
+  letter-spacing: .02em;
+}
+.header-indent {
+  margin-top: 60px;
+  margin-left: 110px;
+}
+.right-margin-less {
+  margin-right: 0px;
 }
 
 /*--------------------------- HEADER CLASSES -----------------------*/
 header{
   display: flex;
   flex-direction: row;
-  min-height: 200px;
+  min-height: 100px;
   justify-content: space-between;
   background-color: #f1f2f5;
+  box-shadow: 0px 4px 3px rgba(149, 157, 164, 0.25);
 }
 
 header nav ul {
@@ -48,6 +118,7 @@ header nav ul {
 header nav {
   margin: auto 0 ;
   line-height: 1.5;
+  letter-spacing: .02em;
   flex-wrap: nowrap;
   padding-right: 6px;
   justify-content: center;
@@ -62,44 +133,37 @@ header li{
 }
 
 .logo{
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 100px;
+  max-height: 100px;
   display: inline-flex;
   flex-grow: 1;
 
 }
 header a:hover{
   color:white;
-  background-color: black;
-  transition: 0.5s;
+  background-color: #6d7ef9;
+  transition: 0.4s;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
 
 .header-box{
   color:black;
-  background-color: white;
   font-style: normal;
   font-family: Arial;
   text-align: center;
   justify-content: center;
-  margin: 10px 0px 10px 10px;
-  border: 3px solid white;
+  margin: 10px 0px 0px 10px;
   text-decoration: none;
   font-size: 120%;
-  padding: 3px;
+  padding: 9px 12px;
   margin-right: 50px;
   border-radius: 5px;
 }
 /* ----------------------- HEADER END -----------------------*/
 
-/*--------------------------- BODY CLASSES -----------------------*/
-body {
-  font-family: sans-serif;
-}
-/* ----------------------- BODY END -----------------------*/
-
 /* ----------------------------- HOME PAGE CLASSES-----------*/
 .member{
-  max-width: 275px;
+  max-width: 250px;
   height: auto;
   border-radius: 10px;
 }
@@ -109,7 +173,8 @@ body {
   box-shadow: 0px 4px 28px rgba(149,157,165,.5);
   background-color: #fafafa;
   padding: 0% 0.5% 1% 0.5%;
-  margin:30px;
+  margin:20px;
+  max-width: 230px;
 }
 .card img{
   position: relative;
@@ -136,13 +201,30 @@ body {
   width: 100%;
   justify-content: center;
   align-items: center;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 .image-caption{
   position: relative;
   padding: 30px 5px 0px 5px;
 }
 
+.black-font {
+  color: black;
+}
 
+.title {
+  display: flex;
+}
+
+#homepage-h1{
+  flex-grow: 1;
+  width: 100%;
+  align-items: center;
+  font-size: 5vw;
+  justify-content: center;
+  font-family: Arial;
+}
 
 /* --------------------HOME PAGE END -----------------------*/
 
@@ -160,12 +242,13 @@ body {
   margin-right: 5px;
   font-size: 25px;
   border: 2px solid black;
-  border-radius: 5px;
+  border-radius: 50%;
 }
 .arrow:hover{
   background-color: black;
   color:white;
   cursor: pointer;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
 
 .dots{
@@ -207,31 +290,37 @@ body {
 
 /* ------------------- ACCORDION CLASSES ------------------ */
 .accordion {
-  /* might need this for spacing */
+  justify-content: center;
+  margin: 0px 120px;
 }
 
 .accordion .container {
-  box-shadow: 0px 4px 10px rgba(150, 158, 164, 0.91);
+  box-shadow: 0px 4px 10px rgba(114, 122, 129, 0.93);
   border-radius: 5px;
 
-  margin: 20px 50px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .accordion .header {
   display: flex;
-  font-size: 16px;
+  font-size: 19px;
   color: black;
   background-color: white;
   align-items: center;
 
-  border: 1px black solid;
+  border: 0px;
   border-left: 5px #f00947 solid;
   border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 
   width: 100%;
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+}
+
+.accordion .hidden {
+  display: none;
 }
 
 .header::before {
@@ -241,7 +330,7 @@ body {
   float: right;
   right: 10px;
   margin-left: 10px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 .header:hover {
@@ -249,19 +338,33 @@ body {
   color: white;
   cursor: pointer;
 
-  border: 1px #f00947 solid;
+  border: 0px;
   border-left: 5px #f00947 solid;
   border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 }
 
-.accordion .content {
-  background-color: #fae9ea;
-  text-align: justify;
+.accordion .close {
+  background-color: #f00947;
+  color: white;
+  border-radius: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
+.close::before {
+  display: flex;
+  content: "\2796";
+}
+
+.accordion .content {
+  background-color: #ffcccc;
+  text-align: justify;
+  line-height: 1.4em;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  padding: 20px 30px;
 }
 
 ol li {
@@ -271,14 +374,7 @@ ol li {
 /* ------------------- ACCORDION END ------------------ */
 
 
-
-/* TABS STARTS */
-
-aside {
-    flex-direction: row;
-    flex-grow: 2;
-    max-width: 600px;
-  }
+/* ------------------- TABS STARTS ------------------- */
 
   .tabs-list {
     display: block;
@@ -291,26 +387,149 @@ aside {
     text-decoration: none;
     list-style-type: none;
     margin-top: 1.2em;
-    margin-left: 0.5em;
     margin-bottom: 0.5em;
     text-decoration: none;
   }
 
   .tab-button {
-    font-size: 1.15em;
+    font-size: 1em;
     border-top-left-radius: 0.5em;
     border-top-right-radius: 0.5em;
     padding: 1em;
     margin-top: 2em;
     background-color: #e4ecf7;
+    cursor: pointer;
+  }
+
+  .tab-button:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-style: double;
   }
 
   .tab-content {
     padding: 1em;
-    margin-right: 0.5em;
-    margin-left: 0.5em;
+    margin-right: 3em;
     background-color: #e4ecf7;
     border-radius: 0.5em;
   }
 
-/*  END OF TABS INTERACTIVITY */
+  #workshops-button, .first-tab-content {
+    background-color: #E4ECF7;
+  }
+  #pt-button, .second-tab-content {
+    background-color: #C1CCF8;
+  }
+  #fast-covers-button, .third-tab-content {
+    background-color: #9EACFA;
+  }
+  #socials-button, .fourth-tab-content {
+    background-color: #7B8DFB;
+  }
+  #beginner-button, .fifth-tab-content {
+    background-color: #586DFD;
+    color: white;
+  }
+  #auditions-button, .sixth-tab-content {
+    background-color: #3e4ec2;
+    color: white;
+  }
+
+  #hsm-flyer {
+    width: 225%;
+    max-width: 550px;
+  }
+
+  .showcase-content {
+    margin-left: 10em;
+    overflow: hidden;
+    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+    padding: 1.5em;
+    border-radius: .5em;
+  }
+
+@media screen and (min-width: 300px) {
+  .tabs {
+    flex-grow: 2;
+    flex-direction: row;
+    max-width: 800px;
+  }
+
+  aside {
+    display: flex;
+    flex-grow: 2;
+    flex-direction: row;
+    max-width: 600px;
+    align-items: center;
+  }
+
+  .tab-button {
+    font-size: 80%;
+  }
+}
+
+@media screen and (min-width:100px) {
+  .tab-button {
+    font-size: 70%;
+  }
+
+  .showcase-content {
+    margin-left: 25%;
+  }
+}
+
+@media screen and (min-width: 560px) {
+  .tab-button {
+    font-size: 88%;
+  }
+}
+
+@media screen and (min-width: 630px) {
+  .tab-button {
+    font-size: 98%;
+  }
+}
+
+@media screen and (min-width: 730px) {
+  .tab-button {
+    font-size: 100%;
+  }
+}
+
+@media screen and (min-width: 731px) {
+  .tab-button {
+    font-size: 120%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .wwd-row{
+    display: flex;
+    flex-direction: row;
+  }
+  .wwd-column{
+    display: flex;
+    flex-direction: column;
+  }
+
+  #hsm-flyer {
+    width: 225%;
+    max-width: 600px;
+  }
+
+  .showcase-content {
+    margin-left: 30%;
+  }
+
+  .tab-button {
+    font-size: 90%;
+  }
+}
+
+@media screen and (min-width: 1110px) {
+  .tab-button {
+    font-size: 100%;
+  }
+}
+
+/*------------------- END OF TABS INTERACTIVITY ------------------- */
