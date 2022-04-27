@@ -30,6 +30,12 @@ h2 {
   margin-bottom: 20px;
 }
 
+h2 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 strong{
   font-weight: bold;
 }
