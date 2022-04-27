@@ -31,7 +31,28 @@ strong{
 .section-wrapper {
   margin: 25px;
 }
-
+.footer-logo{
+  padding: 0px;
+  width: 40px;
+  text-decoration: none;
+  margin:15px;
+}
+.footer-logo:hover{
+  opacity:0.6;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+  cursor: pointer;
+}
+footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer-text{
+  text-align: center;
+  margin: auto 0;
+  font-size: 2em;
+  font-family: cursive;
+}
 /*--------------------------- HEADER CLASSES -----------------------*/
 header{
   display: flex;
@@ -99,7 +120,7 @@ body {
 
 /* ----------------------------- HOME PAGE CLASSES-----------*/
 .member{
-  max-width: 275px;
+  max-width: 250px;
   height: auto;
   border-radius: 10px;
 }
@@ -109,7 +130,7 @@ body {
   box-shadow: 0px 4px 28px rgba(149,157,165,.5);
   background-color: #fafafa;
   padding: 0% 0.5% 1% 0.5%;
-  margin:30px;
+  margin:20px;
 }
 .card img{
   position: relative;
@@ -142,7 +163,11 @@ body {
   padding: 30px 5px 0px 5px;
 }
 
-
+#homepage-h1{
+  font-size: 6em;
+  text-align: center;
+  font-family: Arial;
+}
 
 /* --------------------HOME PAGE END -----------------------*/
 
@@ -160,12 +185,13 @@ body {
   margin-right: 5px;
   font-size: 25px;
   border: 2px solid black;
-  border-radius: 5px;
+  border-radius: 50%;
 }
 .arrow:hover{
   background-color: black;
   color:white;
   cursor: pointer;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
 
 .dots{
