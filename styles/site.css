@@ -1,6 +1,6 @@
 /* COLOR PALETTE
 #f1f2f5 - header/nav, light grayish
-#233dff - headings, royal blueish
+#6d7ef9 - headings, royal blueish
 #e4ecf7 - content, light blueish,
 #f00947 - headings, matches pinkish. Maybe footer
 #fae9ea - content, light pinkish
@@ -19,11 +19,23 @@ body {
 }
 
 h1 {
+  font-size: 40px;
+
   margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 strong{
   font-weight: bold;
+}
+
+a {
+  color: #6d7ef9;
 }
 /* ----------------------- BODY END -----------------------*/
 
@@ -111,7 +123,7 @@ header li{
 }
 header a:hover{
   color:white;
-  background-color: #233dff;
+  background-color: #6d7ef9;
   transition: 0.4s;
   box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
@@ -175,6 +187,10 @@ header a:hover{
 .image-caption{
   position: relative;
   padding: 30px 5px 0px 5px;
+}
+
+.black-font {
+  color: black;
 }
 
 #homepage-h1{
