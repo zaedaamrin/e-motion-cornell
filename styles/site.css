@@ -15,6 +15,7 @@
 /*--------------------------- BODY CLASSES -----------------------*/
 body {
   font-family: sans-serif;
+  /* line-height: 1.5em; */
 }
 
 h1 {
@@ -38,11 +39,9 @@ strong{
   display: flex;
   flex-direction: column;
 }
-
 .body-wrapper {
   margin: 25px 25px 50px 25px;
 }
-
 .section-wrapper {
   margin: 25px 25px 50px 25px;
 }
@@ -61,20 +60,25 @@ footer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  background-color: #f1f2f5;
 }
 .footer-text{
   text-align: center;
   margin: auto 0;
-  font-size: 2em;
-  font-family: cursive;
+  font-size: 1.5em;
+  font-family: sans-serif;
+  line-height: 1.5;
+  letter-spacing: .02em;
 }
+
 /*--------------------------- HEADER CLASSES -----------------------*/
 header{
   display: flex;
   flex-direction: row;
-  min-height: 150px;
+  min-height: 100px;
   justify-content: space-between;
   background-color: #f1f2f5;
+  box-shadow: 0px 4px 3px rgba(149, 157, 164, 0.25);
 }
 
 header nav ul {
@@ -84,6 +88,7 @@ header nav ul {
 header nav {
   margin: auto 0 ;
   line-height: 1.5;
+  letter-spacing: .02em;
   flex-wrap: nowrap;
   padding-right: 6px;
   justify-content: center;
@@ -98,8 +103,8 @@ header li{
 }
 
 .logo{
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 100px;
+  max-height: 100px;
   display: inline-flex;
   flex-grow: 1;
 
@@ -107,7 +112,8 @@ header li{
 header a:hover{
   color:white;
   background-color: #233dff;
-  transition: 0.5s;
+  transition: 0.4s;
+  box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
 
 .header-box{
@@ -117,7 +123,6 @@ header a:hover{
   text-align: center;
   justify-content: center;
   margin: 10px 0px 10px 10px;
-  /* border: 3px solid white; */
   text-decoration: none;
   font-size: 120%;
   padding: 9px 12px;
@@ -243,7 +248,7 @@ header a:hover{
 /* ------------------- ACCORDION CLASSES ------------------ */
 .accordion {
   justify-content: center;
-  margin: 30px 100px 0px 100px;
+  margin: 30px 120px 0px 120px;
 }
 
 .accordion .container {
@@ -271,6 +276,10 @@ header a:hover{
   padding-bottom: 22px;
 }
 
+.accordion .hidden {
+  display: none;
+}
+
 .header::before {
   display: flex;
   content: "\02795";
@@ -292,13 +301,27 @@ header a:hover{
   border-radius: 5px;
 }
 
-.accordion .content {
-  background-color: #fae9ea;
-  text-align: justify;
+.accordion .close {
+  background-color: #f00947;
+  color: white;
+  border-radius: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
 
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-top: 10px;
+.close::before {
+  display: flex;
+  content: "\2796";
+}
+
+.accordion .content {
+  background-color: #ffcccc;
+  text-align: justify;
+  line-height: 1.4em;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  padding: 20px 30px;
 }
 
 ol li {
