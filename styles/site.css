@@ -332,6 +332,7 @@ ol li {
     padding: 1em;
     margin-top: 2em;
     background-color: #e4ecf7;
+    cursor: pointer;
   }
 
   .tab-button:hover {
