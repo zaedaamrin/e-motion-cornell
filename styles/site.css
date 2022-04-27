@@ -1,6 +1,6 @@
 /* COLOR PALETTE
 #f1f2f5 - header/nav, light grayish
-#233dff - headings, royal blueish
+#6d7ef9 - headings, royal blueish
 #e4ecf7 - content, light blueish,
 #f00947 - headings, matches pinkish. Maybe footer
 #fae9ea - content, light pinkish
@@ -19,11 +19,27 @@ body {
 }
 
 h1 {
+  font-size: 40px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 30px;
+  margin-top: 30px;
   margin-bottom: 20px;
 }
 
 strong{
   font-weight: bold;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+a {
+  color: #6d7ef9;
 }
 /* ----------------------- BODY END -----------------------*/
 
@@ -40,10 +56,10 @@ strong{
   flex-direction: column;
 }
 .body-wrapper {
-  margin: 25px 25px 50px 25px;
+  margin: 60px 50px 70px 50px;
 }
 .section-wrapper {
-  margin: 25px 25px 50px 25px;
+  margin: 0px 120px;
 }
 .footer-logo{
   padding: 0px;
@@ -61,6 +77,7 @@ footer{
   flex-direction: row;
   justify-content: space-between;
   background-color: #f1f2f5;
+  padding: 5px 50px;
 }
 .footer-text{
   text-align: center;
@@ -69,6 +86,13 @@ footer{
   font-family: sans-serif;
   line-height: 1.5;
   letter-spacing: .02em;
+}
+.header-indent {
+  margin-top: 60px;
+  margin-left: 110px;
+}
+.right-margin-less {
+  margin-right: 0px;
 }
 
 /*--------------------------- HEADER CLASSES -----------------------*/
@@ -111,7 +135,7 @@ header li{
 }
 header a:hover{
   color:white;
-  background-color: #233dff;
+  background-color: #6d7ef9;
   transition: 0.4s;
   box-shadow: 0px 4px 28px rgba(149,157,165,.5);
 }
@@ -122,7 +146,7 @@ header a:hover{
   font-family: Arial;
   text-align: center;
   justify-content: center;
-  margin: 10px 0px 10px 10px;
+  margin: 10px 0px 0px 10px;
   text-decoration: none;
   font-size: 120%;
   padding: 9px 12px;
@@ -171,15 +195,28 @@ header a:hover{
   width: 100%;
   justify-content: center;
   align-items: center;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 .image-caption{
   position: relative;
   padding: 30px 5px 0px 5px;
 }
 
+.black-font {
+  color: black;
+}
+
+.title {
+  display: flex;
+}
+
 #homepage-h1{
-  font-size: 6em;
-  text-align: center;
+  flex-grow: 1;
+  width: 100%;
+  align-items: center;
+  font-size: 5vw;
+  justify-content: center;
   font-family: Arial;
 }
 
@@ -248,7 +285,7 @@ header a:hover{
 /* ------------------- ACCORDION CLASSES ------------------ */
 .accordion {
   justify-content: center;
-  margin: 30px 120px 0px 120px;
+  margin: 0px 120px;
 }
 
 .accordion .container {
@@ -417,7 +454,6 @@ ol li {
     flex-grow: 2;
     flex-direction: row;
     max-width: 600px;
-    padding-right: 3em;
     align-items: center;
   }
 
