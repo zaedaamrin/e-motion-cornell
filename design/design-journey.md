@@ -599,14 +599,16 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
   - Displayed in column format; designed to be scrolled on a narrow display
   - Navigation bar minimized to prevent accidental clickage of links/other pages. (Possibly replaced by a hamburger icon)
 
-  ![Final Mobile Design - What We Do Page](mobile-wwd.jpg)
+  ![Final Mobile Design - What We Do Page](mobile-wwd1.jpg)
+  ![Final Mobile Design - What We Do Page](mobile-wwd2.jpg)
   - Rather shown side by side, the content will be showcased in only a column format.
   - This provides structure a content-heavy page, and prevents the aforementioned from overwhelming the user.
 
   ![Final Mobile Design - Join Us Page](mobile-join.jpg)
   - FAQ columns maintains their column structure: designed to be clicked on (tapped on) and then displaying content below it.
 
-  ![Final Mobile Design - About Us Page](mobile-about.jpg)
+  ![Final Mobile Design - About Us Page](mobile-about1.jpg)
+  ![Final Mobile Design - About Us Page](mobile-about2.jpg)
   - Gallery display should fall under the primary written text (in order to leave more visually-pleasing whitespace)
   - The headshots of group members will be displayed in a column, whose number increases or decreases depending on the width of the device's display.
 
