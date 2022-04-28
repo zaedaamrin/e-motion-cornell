@@ -600,13 +600,29 @@ TODO
 
 **Desktop Design:**
   ![Final Desktop Design - Homepage](desktop-home.jpg)
+  - The first page of the website, designed to capture the attention of any visitor. This means bold design (gallery) and strong visuals.
+  - Pictures of dances and the group give insight to E.Motion's projects and also establishes familiarity.
 
   ![Final Desktop Design - What We Do Page](desktop-wwd1.jpg)
+  - Laying out content side by side. Capitalizes on all available white space.
+  - Events information near the top of the page for easy access (gives information succinctly and quickly to viewers).
+  - Tabs labeled briefly in order to take up less space
+  - Consistent header and footer
+
   ![Final Desktop Design - What We Do Page](desktop-wwd2.jpg)
+  - Sprawling out video content in a single section; potentially displayed in a gallery view in order to add organization.
+  - Consistent header and footer, lets the user know that they are still on the E.Motion webpage
 
   ![Final Desktop Design - Join Us Page](desktop-join.jpg)
+  - Laying out all content in a column to encourage scrolling (similar to the action of perusing an article).
+  - Plus buttons change into minus buttons, which provides immediate feedback to the user. Lets the user know that they interacted with an accordion design and are now viewing more information.
+  - Header and footer maintained for consistency
 
   ![Final Desktop Design - About Us Page](desktop-about.jpg)
+  - Images of team members displayed in a row that adapts to the display screen (less rows when less space available)
+  - Creates a more "human" experience in that visitors will now know the faces behind the dance production
+  - The mission statement (arguably the heart of the club) displayed first in order to provide the best description of E.Motion's goals/pledges.
+  - Consistent footer and header
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
