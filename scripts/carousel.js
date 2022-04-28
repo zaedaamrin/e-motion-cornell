@@ -41,5 +41,21 @@ $('#dot2').click(function() {
   showSlide(2);
 })
 $('#dot3').click(function() {
-  showSlide(3);
+showSlide(3);
+})
+
+$('#dot4').click(function() {
+showSlide(4);
+})
+
+$('#dot5').click(function() {
+showSlide(5);
+})
+
+$('#dot6').click(function() {
+showSlide(6);
+})
+
+$('#dot7').click(function() {
+showSlide(7);
 })
