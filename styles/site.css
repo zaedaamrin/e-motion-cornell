@@ -292,11 +292,6 @@ header a:hover{
 }
 /* -------------------- CAROUSEL END ---------------------- */
 
-/* ----------------- JOIN-US PAGE CLASSES ----------------- */
-/* placeholder */
-
-/* ------------------- JOIN-US PAGE END ------------------- */
-
 /* ------------------- ACCORDION CLASSES ------------------ */
 .accordion {
   justify-content: center;
@@ -382,6 +377,15 @@ ol li {
 
 /* ------------------- ACCORDION END ------------------ */
 
+/* ----------------- JOIN-US PAGE CLASSES ----------------- */
+@media screen and (max-width: 800px) {
+  .accordion {
+    margin: 0px;
+    width: 100%;
+  }
+}
+
+/* ------------------- JOIN-US PAGE END ------------------- */
 
 /* ------------------- TABS STARTS ------------------- */
 

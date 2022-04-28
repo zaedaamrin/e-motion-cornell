@@ -92,7 +92,7 @@ Moreover, the project is ambitious enough, because the website will consist of 4
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-Gaby is the design chair for E.Motion, she is a fine art major at Cornell AAP.
+Gabi is the design chair for E.Motion, she is a fine art major at Cornell AAP.
 
 K-Pop dancing focus group, organizes a lot of workshops where they teach people how to dance to specific K-Pop dances. They like to film their covers and post them to social media. Host one showcase every semester. Have one coming up, an opportunity for all performers to perform all the pieces that they have learned throughout the whole school year.
 
@@ -830,9 +830,40 @@ When user clicks on the icon on an accordion header element:
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO
+Meeting with Gabi Hioe, E.Motion's design chair.
 
+**Feedback on Home Page**
+- Looks a little plain because it's very black and white and lacking color, for example headers are all black, buttons are black, background is white and gray.
+- The "Welcome to E.Motion" header looks out of place, without any design intention behind it. It's a little too big as well.
+- The Arial font prevents the website from having any distinguishing branding, so a unique font for the header and text would be nice.
+- Having the navigation bar be the same color as the background (all white) will make the website look more modern. The logo sticks out a strangely because of the color difference, so a transparent background would help or having it all be the same color.
+- There is a lot of space inside the nav bar because of the line so it's not using the space completely and the hover highlight doesn't change to fill the space either so it would be more smooth from a design standpoint to have it all flow as one page. (It looks "chunky").
+- Maybe include some of the videos in the carousel. Youtube is E.Motion's main platform so it would be nice to highlight some of their videos. That's actually what the dance group is mainly own for.
 
+**Feedback on What We Do Page**
+- What we do content section is a good way of explaining the club to outsiders/new members. There is a lot of lingo/terminology within the group, so this could be confusing to new members so this is nice.
+- The tabs' content sections change size when switching between them so making them all the same size would make it cleaner.
+- The tabs buttons don't sit properly on the sections, they come a little too low on the body of the tab and makes the division between tabs visibile which takes away some of the illusion.
+- The two white-font tabs stand out oddly next to the black-font tabs.
+- For the colors of the tabs, having the current tab be a different color while all the other tabs are a lighter shade would be better.
+- Putting pictures or videos for the tab content would fill the space better.
+- the Upcoming Events section design is a good idea, she liked that it's side by side with the tabs so users can see them at the same time.
+- Thinks the drop shadow on the text puts the focus on the text over the flyer, although it should be the other way around and makes them look like 2 separate items when in fact they are the same.
+
+**Feedback on Join Us Page**
+- The current questions in the FAQs section would make more sense to be on the "About Us" and "What We Do" page since most of them are not actively about joining.
+- The content for this page should be focused on the Newsletter (which should come at the top rather than the bottom) because this is the main way to join E.Motion. Also, beginner dances and workshop or Club Fest are other ways to join the club. Also following their social media accounts are how to join, those are the main ways to communicate and connect.
+- The FAQs header should be aligned with the headers and not the accordion.
+- More colors could be incorporated because it's very white heavy.
+
+**Feedback on About Us Page**
+- The Our Team header should be aligned with the earlier headers.
+- The photo carousel should be the bigger element which would allow the statement to make less white space and look like a long sad paragraph.
+- Small detail but the "Our Team" header size should be the same as "About Us" rather than the "Our Mission" header
+- The cards would look more cohesive if they were all the same height. Cropping the photos or making the card heights/widths all be the same would be good. Changing the drop shadows to be red or blue would also help incorporate color.
+
+**General Feedback**
+- The order of the nav bar links would be more logical as Home, About Us, What We Do, then Join Us so that a person can first learn about the club and its mission, then see what the club does, and then lastly decide to join, rather than in the other order.
 
 # Evaluation (Final Submission)
 
