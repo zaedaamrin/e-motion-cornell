@@ -595,7 +595,20 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
 > Provide a explanation for each sketch.
 
 **Mobile Design:**
-TODO
+  ![Final Mobile Design - Homepage Page](mobile-home.jpg)
+  - Displayed in column format; designed to be scrolled on a narrow display
+  - Navigation bar minimized to prevent accidental clickage of links/other pages. (Possibly replaced by a hamburger icon)
+
+  ![Final Mobile Design - What We Do Page](mobile-wwd.jpg)
+  - Rather shown side by side, the content will be showcased in only a column format.
+  - This provides structure a content-heavy page, and prevents the aforementioned from overwhelming the user.
+
+  ![Final Mobile Design - Join Us Page](mobile-join.jpg)
+  - FAQ columns maintains their column structure: designed to be clicked on (tapped on) and then displaying content below it.
+
+  ![Final Mobile Design - About Us Page](mobile-about.jpg)
+  - Gallery display should fall under the primary written text (in order to leave more visually-pleasing whitespace)
+  - The headshots of group members will be displayed in a column, whose number increases or decreases depending on the width of the device's display.
 
 
 **Desktop Design:**
@@ -603,13 +616,13 @@ TODO
   - The first page of the website, designed to capture the attention of any visitor. This means bold design (gallery) and strong visuals.
   - Pictures of dances and the group give insight to E.Motion's projects and also establishes familiarity.
 
-  ![Final Desktop Design - What We Do Page](desktop-wwd1.jpg)
+  ![Final Desktop Design - What We Do Page 1](desktop-wwd1.jpg)
   - Laying out content side by side. Capitalizes on all available white space.
   - Events information near the top of the page for easy access (gives information succinctly and quickly to viewers).
   - Tabs labeled briefly in order to take up less space
   - Consistent header and footer
 
-  ![Final Desktop Design - What We Do Page](desktop-wwd2.jpg)
+  ![Final Desktop Design - What We Do Page 2](desktop-wwd2.jpg)
   - Sprawling out video content in a single section; potentially displayed in a gallery view in order to add organization.
   - Consistent header and footer, lets the user know that they are still on the E.Motion webpage
 

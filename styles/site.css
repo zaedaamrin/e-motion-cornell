@@ -448,6 +448,12 @@ ol li {
     border-radius: .5em;
   }
 
+  .tab-pic {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 0.5em;
+  }
+
 @media screen and (min-width: 300px) {
   .tabs {
     flex-grow: 2;
