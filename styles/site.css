@@ -60,6 +60,10 @@ a {
   display: flex;
   flex-direction: row;
 }
+.j-container-row{
+  display: flex;
+  flex-direction: row;
+}
 .container-column{
   display: flex;
   flex-direction: column;
@@ -245,10 +249,37 @@ header a:hover{
 #homepage-h1{
   flex-grow: 1;
   width: 100%;
-  align-items: center;
-  font-size: 5vw;
-  justify-content: center;
+  text-align: center;
+  font-size: 5.5em;
   font-family: Arial;
+  color: #032cc1;
+
+}
+#homepage-h2{
+  text-align:center;
+  font-size: 1.5em;
+  letter-spacing: 0.2em;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: #e3f7fd;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+
+}
+.homepage-text{
+  width:83%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(227, 247, 253);
+  border-radius: 20px;
+  box-shadow: 4px 4px 20px rgba(72,180,224,.8);
+  padding: 10px;
+
+}
+.homepage-text p{
+  font-size: 1.4em;
+  margin-bottom: 20px;
 }
 
 /* --------------------HOME PAGE END -----------------------*/
@@ -418,7 +449,7 @@ ol li {
 }
 
 @media screen and (max-width: 900px) {
-  .container-row {
+  .j-container-row {
     margin:0px;
     flex-wrap: wrap;
   }
@@ -648,7 +679,7 @@ ol li {
 
 /* ----------------MEDIA QUERY---------------------------- */
 
-@media (max-width: 700px){
+@media (max-width: 815px){
 header nav ul {
   display: block;
 
@@ -669,7 +700,12 @@ header nav ul {
   width: 100%;
   flex-shrink: 0;
 }
-.buttons{
+.homepage-text p{
+line-height: 2;
+overflow: hidden;
+font-size: 1.2em;
 
 }
+#homepage-h1{
+  font-size: 3.5em;
 }
