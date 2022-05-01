@@ -190,12 +190,10 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 2)
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
-Their audience consists of three groups in Cornell's population:
-- Other Cornell dance groups interested in collaborating
-- Groups interested in sponsoring them
+Their audience consists of one major group in Cornell's population:
 - Cornell students interested in joining their club or who could potentially attend their showcases or events
 
-This is a cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion. This information can include the club's contact information, upcoming events, or history.
+This is one cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion as a club and how to join it. This information can include the club's history, upcoming events, contact information, and auditions.
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
