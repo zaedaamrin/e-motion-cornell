@@ -391,22 +391,18 @@ ol li {
 /* ------------------- JOIN-US PAGE END ------------------- */
 
 /* ------------------- TABS STARTS ------------------- */
-
   .tabs-list {
     margin:0;
     padding:0;
-    display: flex;
-    flex-wrap: nowrap;
+    /* display: flex;
+    flex-wrap: nowrap; */
   }
 
   .tabs-list li {
     display: inline-block;
     text-decoration: none;
     list-style-type: none;
-    margin-top: 1.2em;
-    margin-bottom: 0.5em;
     text-decoration: none;
-    flex-grow: 1;
   }
 
   .tab-button {
@@ -414,11 +410,15 @@ ol li {
     border-top-left-radius: 0.5em;
     border-top-right-radius: 0.5em;
     padding: 1em;
-    /* margin-top: 2em; */
     background-color: #e4ecf7;
     cursor: pointer;
     display: flex;
+  }
+
+  .tab-button > ul > li >a {
+    display: flex;
     flex-grow: 1;
+    flex-wrap: nowrap;
   }
 
   .tab-button:hover {
@@ -431,7 +431,9 @@ ol li {
     padding: 1em;
     margin-right: 3em;
     background-color: #e4ecf7;
-    border-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    border-top-right-radius: 0.5em;
   }
 
   #workshops-button, .first-tab-content {
@@ -463,7 +465,7 @@ ol li {
   .showcase-content {
     margin-left: 10em;
     overflow: hidden;
-    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+    box-shadow: 0px 4px 28px #9EACFA;
     padding: 1.5em;
     border-radius: .5em;
   }
@@ -579,16 +581,10 @@ ol li {
 /*---end of gallery---*/
 
 
-/*------------------- END OF TABS INTERACTIVITY ------------------- */
-
-
-
-
-
 
 /* ----------------MEDIA QUERY---------------------------- */
 
-@media (max-width: 700px){
+@media (max-width: 815px){
 header nav ul {
   display: block;
 
