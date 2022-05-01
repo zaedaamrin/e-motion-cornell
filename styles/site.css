@@ -473,13 +473,14 @@ ol li {
     background-color: #e4ecf7;
     cursor: pointer;
     display: flex;
+    flex-direction: row;
   }
-
+/*
   .tab-button > ul > li >a {
     display: flex;
     flex-grow: 1;
     flex-wrap: nowrap;
-  }
+  } */
 
   .tab-button:hover {
     text-decoration: underline;
@@ -534,6 +535,12 @@ ol li {
     width: 100%;
     max-width: 600px;
     border-radius: 0.5em;
+  }
+
+  .tab-icon {
+    width: 100%;
+    max-width: 30px;
+    margin-right: 0.5em;
   }
 
 @media screen and (min-width: 300px) {
