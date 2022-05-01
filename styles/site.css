@@ -652,6 +652,11 @@ ol li {
 /*---About Us---*/
 /*---Gallery---*/
 
+.about-container-row {
+  display: flex;
+  flex-direction: row;
+}
+
 .prev {
   display: flex;
   flex-direction: row;
@@ -705,4 +710,14 @@ font-size: 1.2em;
 }
 #homepage-h1{
   font-size: 3.5em;
+}
+
+/* ----- media query for about text ----- */
+@media (max-width: 1300px){
+
+  .about-container-row {
+    display: flex;
+    flex-direction: column;
+  }
+
 }
