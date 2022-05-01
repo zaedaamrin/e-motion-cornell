@@ -577,3 +577,39 @@ ol li {
 
 
 /*---end of gallery---*/
+
+
+/*------------------- END OF TABS INTERACTIVITY ------------------- */
+
+
+
+
+
+
+/* ----------------MEDIA QUERY---------------------------- */
+
+@media (max-width: 700px){
+header nav ul {
+  display: block;
+
+}
+
+.logo{
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.arrow{
+  max-width: 20px;
+  max-height: 20px;
+  font-size: 12px;
+}
+
+.dis-img{
+  width: 100%;
+  flex-shrink: 0;
+}
+.buttons{
+
+}
+}
