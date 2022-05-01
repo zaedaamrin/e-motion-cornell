@@ -28,6 +28,9 @@ h2 {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 20px;
+
+  text
+  text-decoration-style: wavy;
 }
 
 h2 {
@@ -450,9 +453,10 @@ ol li {
 /* ------------------- TABS STARTS ------------------- */
 
   .tabs-list {
-    display: block;
     margin:0;
     padding:0;
+    display: flex;
+    flex-wrap: nowrap;
   }
 
   .tabs-list li {
@@ -462,6 +466,7 @@ ol li {
     margin-top: 1.2em;
     margin-bottom: 0.5em;
     text-decoration: none;
+    flex-grow: 1;
   }
 
   .tab-button {
@@ -469,9 +474,11 @@ ol li {
     border-top-left-radius: 0.5em;
     border-top-right-radius: 0.5em;
     padding: 1em;
-    margin-top: 2em;
+    /* margin-top: 2em; */
     background-color: #e4ecf7;
     cursor: pointer;
+    display: flex;
+    flex-grow: 1;
   }
 
   .tab-button:hover {
@@ -542,12 +549,9 @@ ol li {
     align-items: center;
   }
 
-  .tab-button {
-    font-size: 80%;
-  }
 }
 
-@media screen and (min-width:100px) {
+/* @media screen and (min-width:100px) {
   .tab-button {
     font-size: 70%;
   }
@@ -579,7 +583,7 @@ ol li {
   .tab-button {
     font-size: 120%;
   }
-}
+} */
 
 @media screen and (min-width: 1000px) {
   .wwd-row{
@@ -610,6 +614,7 @@ ol li {
     font-size: 100%;
   }
 }
+/*------------------- END OF TABS INTERACTIVITY ------------------- */
 
 /*---About Us---*/
 /*---Gallery---*/
@@ -635,3 +640,36 @@ ol li {
 
 
 /*------------------- END OF TABS INTERACTIVITY ------------------- */
+
+
+
+
+
+
+/* ----------------MEDIA QUERY---------------------------- */
+
+@media (max-width: 700px){
+header nav ul {
+  display: block;
+
+}
+
+.logo{
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.arrow{
+  max-width: 20px;
+  max-height: 20px;
+  font-size: 12px;
+}
+
+.dis-img{
+  width: 100%;
+  flex-shrink: 0;
+}
+.buttons{
+
+}
+}
