@@ -384,7 +384,7 @@ header a:hover{
 }
 
 .accordion .content {
-  background-color: #ffcccc;
+  background-color: #ffdfdf;
   text-align: justify;
   line-height: 1.4em;
   border-bottom-left-radius: 5px;
@@ -634,6 +634,7 @@ ol li {
 
 .prev img:hover {
   max-width: 16%;
+  box-shadow: 6px 6px 28px rgba(255, 0, 8, 0.54);
 }
 
 
