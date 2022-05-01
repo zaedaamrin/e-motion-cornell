@@ -190,12 +190,10 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 2)
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
-Their audience consists of three groups in Cornell's population:
-- Other Cornell dance groups interested in collaborating
-- Groups interested in sponsoring them
+Their audience consists of one major group in Cornell's population:
 - Cornell students interested in joining their club or who could potentially attend their showcases or events
 
-This is a cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion. This information can include the club's contact information, upcoming events, or history.
+This is one cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion as a club and how to join it. This information can include the club's history, upcoming events, contact information, and auditions.
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
@@ -353,13 +351,13 @@ She obtained the info from Google and Cornell's music pages and the Cornell clas
   - Interviewee 2 explained that in the process of seeking musical/dance clubs to join at Cornell, she sought very specific details like commitment level, "vibe" of the club in terms of professionality vs. "for-fun," etc. in her goal to determine if a group would be the right fit for her and to decide which one she would be joining.
   - Having an "FAQs" section provides vital information in one place on the site that users will be able to navigate to it easily and achieve their goal of understanding the club. Grouping the specific details that a new member will need to know before joining provides an opportunity to welcome them and give them a clear idea of what this club is like. It can aid them in deciding whether to join and possibly make them be more easily swayed to join the club.
 
-#### Goal 3: Having Fun
+#### Goal 3: See the club's past work
 - **Design Ideas and Choices**
-  - A friendly and fun looking website with vibrant colors, images and videos for the "wow" effect but also has all of the information a user that is interested would like to know in order to make a decision whether or not they would like to attent a performance.
- - The information needs to be accesible and easy to find
- - Interactivity such as image carousels, hamburger drop-down menus will help create the dynamic aspect of the site which will further improve the "wow" effect
+  - Including video and photo content of the dance club throughout the site.
+  - Making an entire section for their dance covers or performances.
+  - Maybe a gallery could structure these videos and make use of the space on the screen efficiently.
 - **Rationale & Additional Notes**
-- Interviewee 4 explained that one of the most important facts for her is to have fun with her friends at a dance show, so paying attention to how our dance group is portrayed on their website is of key significance. The website needs to be personal, i.e. provide a chance to users to meet/learn more about E.Motion for a good first impression, give them a glimpse of who they are and what they do so they can decide whether or not they can attend their future performance based on the given information on the site.
+- E.Motion is known at Cornell for its dance covers of Kpop songs, so a dedicated section to just their covers would help users reach these videos all in one place. Many of their fans are simply interested in watching their covers and performances so this could meet that goal. Having the videos throughout the website will capture the attention of students discovering E.Motion for the first time and give them a good idea of what the club does. By seeing their covers, they could also decide if they want to see a showcase by E.Motion if they want to see even more of the club's work live.
 
 
 ## Content Planning (Milestone 2)
