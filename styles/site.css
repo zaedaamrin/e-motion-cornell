@@ -203,12 +203,12 @@ header a:hover{
   max-height: 90%;
   top: 10px;
 }
+
 .card p {
   font-size: 18px;
   font-family: Arial;
-
-
 }
+
 .card:hover{
   box-shadow: 6px 6px 28px rgba(164,159,165,.6);
   transform: scale(1.1);
@@ -245,11 +245,43 @@ header a:hover{
 #homepage-h1{
   flex-grow: 1;
   width: 100%;
-  align-items: center;
-  font-size: 5vw;
+  text-align: center;
+  font-size: 5.5em;
+  /* align-items: center;
+  font-size: 5vw; */
   justify-content: center;
   font-family: Arial;
+  font-family: Arial;
+  color: #032cc1;
 }
+
+#homepage-h2{
+  text-align:center;
+  font-size: 1.5em;
+  letter-spacing: 0.2em;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-decoration-color: #e3f7fd;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.homepage-text{
+  width:83%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(227, 247, 253);
+  border-radius: 20px;
+  box-shadow: 4px 4px 20px rgba(72,180,224,.8);
+  padding: 10px;
+
+}
+
+.homepage-text p{
+  font-size: 1.4em;
+  margin-bottom: 20px;
+}
+
 
 /* --------------------HOME PAGE END -----------------------*/
 
@@ -384,7 +416,7 @@ header a:hover{
 }
 
 .accordion .content {
-  background-color: #ffcccc;
+  background-color: #ffdfdf;
   text-align: justify;
   line-height: 1.4em;
   border-bottom-left-radius: 5px;
@@ -418,9 +450,13 @@ ol li {
 }
 
 @media screen and (max-width: 900px) {
-  .container-row {
+  /* this had been saved as container-row, am unsure if this is for join us page */
+  .j-container-row {
     margin:0px;
     flex-wrap: wrap;
+
+    display: flex;
+    flex-direction: row;
   }
 
   .box-right {
@@ -543,6 +579,12 @@ ol li {
     margin-right: 0.5em;
   }
 
+  .tab-vid {
+    border-radius: 0.5em;
+    border-color: none;
+    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+  }
+
 @media screen and (min-width: 300px) {
   .tabs {
     flex-grow: 2;
@@ -627,6 +669,10 @@ ol li {
 
 /*---About Us---*/
 /*---Gallery---*/
+.about-container-row {
+  display: flex;
+  flex-direction: row;
+}
 
 .prev {
   display: flex;
@@ -641,6 +687,7 @@ ol li {
 
 .prev img:hover {
   max-width: 16%;
+  box-shadow: 6px 6px 28px rgba(255, 0, 8, 0.54);
 }
 
 
@@ -672,7 +719,26 @@ header nav ul {
   width: 100%;
   flex-shrink: 0;
 }
-.buttons{
 
+.homepage-text p{
+line-height: 2;
+overflow: hidden;
+font-size: 1.2em;
 }
+
+.buttons{
+  /* I'm not sure if you plan to keep this */
+}
+
+#homepage-h1{
+  font-size: 3.5em;
+}
+
+/* ----- media query for about text ----- */
+@media (max-width: 1300px){
+  .about-container-row {
+    display: flex;
+    flex-direction: column;
+  }
+
 }
