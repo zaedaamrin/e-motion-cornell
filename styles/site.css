@@ -487,36 +487,37 @@ ol li {
 /* ------------------- JOIN-US PAGE END ------------------- */
 
 /* ------------------- TABS STARTS ------------------- */
+  .tabs-nav {
+    display: flex;
+    width: auto;
+  }
+
   .tabs-list {
     margin:0;
     padding:0;
-    /* display: flex;
-    flex-wrap: nowrap; */
+    display: inline-flex;
+    flex-direction: row;
   }
 
   .tabs-list li {
-    display: inline-block;
     text-decoration: none;
     list-style-type: none;
-    text-decoration: none;
   }
 
   .tab-button {
     font-size: 1em;
     border-top-left-radius: 0.5em;
     border-top-right-radius: 0.5em;
+    justify-content: center;
+    align-items: center;
     padding: 1em;
     background-color: #e4ecf7;
     cursor: pointer;
     display: flex;
     flex-direction: row;
+    /* width: auto;
+    flex-grow: 1; */
   }
-/*
-  .tab-button > ul > li >a {
-    display: flex;
-    flex-grow: 1;
-    flex-wrap: nowrap;
-  } */
 
   .tab-button:hover {
     text-decoration: underline;
