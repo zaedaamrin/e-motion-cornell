@@ -60,6 +60,12 @@ a {
   display: flex;
   flex-direction: row;
 }
+
+.j-container-row{
+  display: flex;
+  flex-direction: row;
+}
+
 .container-column{
   display: flex;
   flex-direction: column;
@@ -247,9 +253,6 @@ header a:hover{
   width: 100%;
   text-align: center;
   font-size: 5.5em;
-  /* align-items: center;
-  font-size: 5vw; */
-  justify-content: center;
   font-family: Arial;
   font-family: Arial;
   color: #032cc1;
@@ -454,9 +457,6 @@ ol li {
   .j-container-row {
     margin:0px;
     flex-wrap: wrap;
-
-    display: flex;
-    flex-direction: row;
   }
 
   .box-right {
@@ -724,10 +724,6 @@ header nav ul {
 line-height: 2;
 overflow: hidden;
 font-size: 1.2em;
-}
-
-.buttons{
-  /* I'm not sure if you plan to keep this */
 }
 
 #homepage-h1{
