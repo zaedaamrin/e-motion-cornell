@@ -557,8 +557,8 @@ ol li {
   }
 
   #hsm-flyer {
-    width: 225%;
-    max-width: 550px;
+    width: 250%;
+    max-width: 400px;
   }
 
   .showcase-content {
@@ -587,7 +587,16 @@ ol li {
     box-shadow: 0px 4px 28px rgba(149,157,165,.5);
   }
 
-@media screen and (min-width: 300px) {
+
+/* @media screen and (max-width: 400px) {
+  .tab-button {
+    font-size: 40%;
+    flex-direction: column;
+  }
+}
+ */
+
+@media screen and (min-width: 670px) { /* tablet display, columns used*/
   .tabs {
     flex-grow: 2;
     flex-direction: row;
@@ -601,48 +610,15 @@ ol li {
     max-width: 600px;
     align-items: center;
   }
-
-  .tab-content {
-    margin-right: 0;
-  }
-
 }
 
-/* @media screen and (min-width:100px) {
+@media screen and (max-width: 730px) { /* tablet display - adjusting tab button size*/
   .tab-button {
-    font-size: 70%;
-  }
-
-  .showcase-content {
-    margin-left: 25%;
+    font-size: 50%;
   }
 }
 
-@media screen and (min-width: 560px) {
-  .tab-button {
-    font-size: 88%;
-  }
-}
-
-@media screen and (min-width: 630px) {
-  .tab-button {
-    font-size: 98%;
-  }
-}
-
-@media screen and (min-width: 730px) {
-  .tab-button {
-    font-size: 100%;
-  }
-}
-
-@media screen and (min-width: 731px) {
-  .tab-button {
-    font-size: 120%;
-  }
-} */
-
-@media screen and (min-width: 1080px) {
+@media screen and (min-width: 1080px) { /* desktop display */
   .wwd-row{
     display: flex;
     flex-direction: row;
@@ -656,23 +632,27 @@ ol li {
     width: 225%;
     max-width: 600px;
   }
-
   .showcase-content {
     margin-left: 30%;
   }
 
   .tab-button {
-    font-size: 50%;
+    font-size: 70%;
   }
-
+  .tabs-list {
+    margin-right: 3em;
+  }
   .tab-content {
     margin-right: 3em;
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1350px) { /* full display */
   .tab-button {
-    font-size: 85%;
+    font-size: 87%;
+  }
+  .tab-content {
+    width: 720px;
   }
 }
 /*------------------- END OF TABS INTERACTIVITY ------------------- */
