@@ -502,6 +502,7 @@ ol li {
   .tabs-list li {
     text-decoration: none;
     list-style-type: none;
+    margin-right: 0.3em;
   }
 
   .tab-button {
@@ -527,7 +528,7 @@ ol li {
 
   .tab-content {
     padding: 1em;
-    margin-right: 3em;
+    margin: 0;
     background-color: #e4ecf7;
     border-bottom-left-radius: 0.5em;
     border-bottom-right-radius: 0.5em;
@@ -601,6 +602,10 @@ ol li {
     align-items: center;
   }
 
+  .tab-content {
+    margin-right: 0;
+  }
+
 }
 
 /* @media screen and (min-width:100px) {
@@ -637,7 +642,7 @@ ol li {
   }
 } */
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1080px) {
   .wwd-row{
     display: flex;
     flex-direction: row;
@@ -657,13 +662,17 @@ ol li {
   }
 
   .tab-button {
-    font-size: 90%;
+    font-size: 50%;
+  }
+
+  .tab-content {
+    margin-right: 3em;
   }
 }
 
-@media screen and (min-width: 1110px) {
+@media screen and (min-width: 1200px) {
   .tab-button {
-    font-size: 100%;
+    font-size: 85%;
   }
 }
 /*------------------- END OF TABS INTERACTIVITY ------------------- */
