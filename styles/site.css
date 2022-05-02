@@ -562,8 +562,6 @@ ol li {
   }
 
   .showcase-content {
-    margin-left: 10em;
-    overflow: hidden;
     box-shadow: 0px 4px 28px #9EACFA;
     padding: 1.5em;
     border-radius: .5em;
@@ -588,7 +586,7 @@ ol li {
   }
 
 
-/* @media screen and (max-width: 400px) {
+/* @media screen and (min-width: 400px) {
   .tab-button {
     font-size: 40%;
     flex-direction: column;
@@ -600,15 +598,19 @@ ol li {
   .tabs {
     flex-grow: 2;
     flex-direction: row;
-    max-width: 800px;
+    max-width: 1200px;
   }
 
   aside {
     display: flex;
     flex-grow: 2;
     flex-direction: row;
-    max-width: 600px;
+    max-width: 800px;
     align-items: center;
+  }
+
+  .showcase-content {
+    margin-left: 12.5em;
   }
 }
 
