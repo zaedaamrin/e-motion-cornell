@@ -884,41 +884,66 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers to watch.
+1. You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers on the website to watch.
 
-2. You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing and how much tickets cost.
+2. You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
 
 3. You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
-
-
 
 
 ### User 1 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+- Elizabeth, is a full time Cornell student. Sophomore in CAS studying info sci. Is originally from Virginia, living on campus now.
+- Knows and listens to Kpop music. Is aware of E.Motion.
+- Is an easygoing and open-minded person and likes to see performances/shows on campus like Sitara and Hope Night.
 
+First task: Task 2
+1. Starts on the home page
+2. Slides down the home page
+3. Sees and slides through the carousel
+4. Sees the showcase pic
+5. Reads aloud all the details. Says the showcase is on May 7 at Williard Straight in Cornell Cinema.
+(Ends successfully)
+
+Second task: Task 3
+1. From home page, goes straight to join us page
+2. Scrolls past the image and blurb under the header
+3. Notes the newsletter section
+4. Sees the accordion and the question about auditions
+5. Reads aloud "no auditions are required..." Concludes she could join without auditioning and can also perform in group dance. Could also join a performance team or a cover.  
+(Ends task successfully)
+6. Continues and finds the question explaining beginner and group dance.
+
+Third task: Task 1
+1. On home page scrolls down and reaches carousel
+2. Sees slide about covers and tries clicking on the text in the image about covers on Youtube
+3. Moves to what we do page
+4. Sees tab called covers
+5. Clicks on the tab and tries to click on the pic in the tab
+6. Reads tab text aloud and says "all signs lead to Youtube" to watch the covers
+7. Thinks has finished the task
+(Ends task unsuccessfully)
 
 ### User 1 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
-TODO
+The user's name is Elizabeth and she is a full time student at Cornell. She is a sophomore in the College of Arts and Sciences studying information science. She comes from Virginia and now lives on campus. She knows of E.Motion as a dance club on campus. Kpop is a music genre she likes and listens to. Throughout the semester, she has been to various showcases like Hope Night and Cornell's Indian dance club Sitara's showcase. She characterizes herself as an easygoing and open-minded person.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes, she fits in our audience as she is a person who could potentially join their club and would be interested in attending one of their showcases.
 
 
 ### User 1 Results (Final Submission)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task: You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers on the website to watch.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Mobile
 - **How did the user do? Did they meet your expectation?**
   - TODO
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
@@ -930,7 +955,33 @@ Task: TODO: copy task here
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
-TODO...
+  Task: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
+  - **Did you evaluate the desktop or mobile design?**
+    - Desktop
+  - **How did the user do? Did they meet your expectation?**
+    - TODO
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - TODO
+  - **Your reflections about the user’s performance to the task**
+    - TODO
+  - **Re-design choices**
+    - TODO
+  - **Additional Notes**
+    - TODO: Justify your decisions; additional notes.
+
+    Task: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
+    - **Did you evaluate the desktop or mobile design?**
+      - Desktop
+    - **How did the user do? Did they meet your expectation?**
+      - TODO
+    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+      - TODO
+    - **Your reflections about the user’s performance to the task**
+      - TODO
+    - **Re-design choices**
+      - TODO
+    - **Additional Notes**
+      - TODO: Justify your decisions; additional notes.
 
 
 ### User 2 - Testing Notes (Final Submission)
