@@ -569,12 +569,7 @@ ol li {
     color: white;
   }
 
-  #hsm-flyer {
-    width: 100%;
-    max-width: 400px;
-  }
-
-  .showcase-content {
+  .showcase-all {
     box-shadow: 0px 4px 28px #9EACFA;
     padding: 1.5em;
     border-radius: .5em;
@@ -582,10 +577,16 @@ ol li {
     margin-bottom: 2em;
   }
 
+  #hsm-flyer {
+    width: 100%;
+    max-width: 400px;
+  }
+
   /* Stylizing the showcase written content */
     .showcase-content > h3 { /* showcase name */
       font-weight: bolder;
       font-size: 1.5em;
+      margin-top: 1em;
     }
     .showcase-content > h4 { /* date/location */
       font-weight: normal;
@@ -619,7 +620,7 @@ ol li {
   .tab-vid {
     border-radius: 0.5em;
     border-color: none;
-    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+    box-shadow: 0px 4px 28px rgba(255, 0, 8, 0.54);
     width:100%;
   }
 
@@ -644,13 +645,15 @@ ol li {
     margin-top: 0;
     margin-bottom: 0;
   }
-
+  .showcase-content > h3 { /* showcase name */
+    margin-top: 0;
+}
   .tab-vid {
     margin: 1em;
   }
 
   #hsm-flyer {
-    width: 250%;
+    width: 235%;
   }
 }
 
