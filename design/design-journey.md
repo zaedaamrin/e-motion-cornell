@@ -884,7 +884,7 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers on the website to watch.
+1. You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers/performances for yourself. Find a video of one of their performances on the website to watch.
 
 2. You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
 
@@ -911,7 +911,7 @@ Second task: Task 3
 2. Scrolls past the image and blurb under the header
 3. Notes the newsletter section
 4. Sees the accordion and the question about auditions
-5. Reads aloud "no auditions are required..." Concludes she could join without auditioning and can also perform in group dance. Could also join a performance team or a cover.  
+5. Reads aloud "no auditions are required..." Concludes she could join without auditioning and can also perform in group dance. Could also join a performance team or a cover to participate.  
 (Ends task successfully)
 6. Continues and finds the question explaining beginner and group dance.
 
@@ -945,43 +945,50 @@ Task: You are friends with a member of E.Motion and have heard a lot about the c
 - **Did you evaluate the desktop or mobile design?**
   - Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user initially checked the carousel to see if a video of their covers or link to their covers might be there. Then she moved to the "What We Do" page and went to the tab related to covers and again saw the message to see their covers on YouTube, rather than our website. She stopped there because she thought that that meant from here, she would have to go to YouTube to watch a cover. This did not meet our expectations.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user thought it might be helpful to put a link to the cover videos in the carousel to let users know its on this website as well as their YouTube.
+  - She said she didn't realize there were videos at the bottom
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The user's performance was not bad, as the user would eventually make it to the videos themselves, whether it is on our site or on YouTube. However, it would be more direct and easy for them to see the videos on the E.Motion website.
+  - She would have achieved her goal quicker if she could navigate to the "Past performances" section faster. Because it was a mobile screen, the next section was a lot lower and not initially visible without scrolling farther down so the user was not even aware that it was there.
 - **Re-design choices**
-  - TODO
+  - A note in bold in the "covers" tab in the tabs section of the What We Do page with a message like "See some of our covers below". As an a tag, it could like to that section and allow the user to jump straight to it.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Having the message in the tab section would indicate to users that there are videos on the site, and not just YouTube. It being in bold will make it more visible to read and easier to catch when skimming the text in the tab section.
 
   Task: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
   - **Did you evaluate the desktop or mobile design?**
     - Desktop
   - **How did the user do? Did they meet your expectation?**
-    - TODO
+    - The user went directly to the carousel on the home page and found the information almost immediately after scrolling through the carousel.
+    - She did not go straight to the What We Do page to find information about the showcase as I had initially expected, but was still able to find the information without any road blocks or confusion. The path to the details that she took was quicker than the one I had expected her to take.
   - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-    - TODO
+    - The user liked the carousel and thought of it as a current-news kind of section, which was why she went there for the information. She thought it served this purpose well and noted that it is a good place to advertise their events and workshops. She said it would be better to be at the top above the "giant paragraphs" so that it is the first thing people see.
   - **Your reflections about the user’s performance to the task**
-    - TODO
+    - The user's performance in this task was quite good and very efficient. She intuitively assumed that the carousel would be for news which was not something we explicitly considered before.
+    - Her performance was good and since she achieved the task successfully, there were no major issues to address as a re-design choice.
   - **Re-design choices**
-    - TODO
+    - Maybe switching places of the carousel with the blurb of E.Motion on the Home page so that it is at the top.
   - **Additional Notes**
-    - TODO: Justify your decisions; additional notes.
+    - Putting the carousel first could help users achieve multiple different goals they have, such as finding out details of an upcoming showcase or what workshops are occurring. Since this information is more likely to change and be updated, it would be more important to up at the top than the static blurb about the club itself.
 
     Task: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
     - **Did you evaluate the desktop or mobile design?**
       - Desktop
     - **How did the user do? Did they meet your expectation?**
-      - TODO
+      - The user navigated straight to the Join Us page and passed everything at the top to see the accordion and found the answers to the questions of the tasks.
+      - She met our expectations and was able to utilize the accordion to find the information in the task.
     - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-      - TODO
+      - The user thought the accordions made sense and was able to find the details she needed for the task.
+      - She said the blurb was not something that she payed much attention to.
     - **Your reflections about the user’s performance to the task**
-      - TODO
+      - The user's performance in completing the task was good. She was able to find the information through the accordion on the Join Us page.
+      - However, I was hoping that she would skim the Join Us blurb instead of skipping it, as there was relevant information there that would have helped her, but the accordion has the information too.
     - **Re-design choices**
-      - TODO
+      - Putting more emphasis on the Join Us blurb by outlining the text section.
     - **Additional Notes**
-      - TODO: Justify your decisions; additional notes.
+      - The accordion's design was intuitive but the text above is less noticeable so more visual queues to read or at least skim it are necessary.
 
 
 ### User 2 - Testing Notes (Final Submission)

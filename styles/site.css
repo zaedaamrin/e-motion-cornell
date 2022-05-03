@@ -52,7 +52,7 @@ a {
 }
 
 cite {
-  font-size: 10px;
+  font-size: 10px
 }
 /* ----------------------- BODY END -----------------------*/
 
@@ -353,8 +353,8 @@ header a:hover{
   align-items: center;
 
   border: 0px;
-  border-left: 5px #ff402d solid;
-  border-bottom: 5px #ff402d solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 
   width: 100%;
@@ -377,18 +377,18 @@ header a:hover{
 }
 
 .header:hover {
-  background-color: #ff402d;
+  background-color: #f00947;
   color: white;
   cursor: pointer;
 
   border: 0px;
-  border-left: 5px #ff402d solid;
-  border-bottom: 5px #ff402d solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 }
 
 .accordion .close {
-  background-color: #ff402d;
+  background-color: #f00947;
   color: white;
   border-radius: 0px;
   border-top-left-radius: 5px;
@@ -402,7 +402,7 @@ header a:hover{
 
 .accordion .content {
   background-color: #ffdfdf;
-  text-align: justify;
+  text-align: left;
   line-height: 1.4em;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -429,7 +429,7 @@ ol li {
 }
 .box-right {
   flex-grow: 1;
-  width: 40%;
+  width: 60%;
   margin-right: 1%;
 }
 .img-box{
@@ -438,7 +438,7 @@ ol li {
   box-shadow: 4px 4px 10px 4px rgba(107, 147, 255, 0.26);
 }
 .box-left {
-  width: 50%;
+  width: 40%;
   margin-right: 40px;
   margin-top: 40px;
   margin-bottom: 0px;
@@ -468,7 +468,6 @@ ol li {
 }
 
 @media screen and (max-width: 900px) {
-  /* this had been saved as container-row, am unsure if this is for join us page */
   .j-container-row {
     margin:0px;
     flex-wrap: wrap;
@@ -531,6 +530,8 @@ ol li {
     cursor: pointer;
     display: flex;
     flex-direction: row;
+    /* width: auto;
+    flex-grow: 1; */
   }
 
   .tab-button:hover {
@@ -570,7 +571,7 @@ ol li {
   }
 
   #hsm-flyer {
-    width: 100%;
+    width: 250%;
     max-width: 400px;
   }
 
@@ -578,31 +579,7 @@ ol li {
     box-shadow: 0px 4px 28px #9EACFA;
     padding: 1.5em;
     border-radius: .5em;
-    margin-top: 1em;
-    margin-bottom: 2em;
   }
-
-  /* Stylizing the showcase written content */
-    .showcase-content > h3 { /* showcase name */
-      font-weight: bolder;
-      font-size: 1.5em;
-    }
-    .showcase-content > h4 { /* date/location */
-      font-weight: normal;
-      line-height: 1.25em;
-      font-size: 1.25em;
-    }
-    .showcase-content > h5 { /* price of show */
-      font-weight: bold;
-      line-height: 1em;
-      font-size: 1em;
-      text-align: center;
-      margin-top: 0.5em;
-    }
-    .showcase-content > p { /* showcase more text */
-      font-weight: lighter;
-      margin-top: 1em;
-    }
 
   .tab-pic {
     width: 100%;
@@ -620,9 +597,16 @@ ol li {
     border-radius: 0.5em;
     border-color: none;
     box-shadow: 0px 4px 28px rgba(149,157,165,.5);
-    width:100%;
   }
 
+
+/* @media screen and (min-width: 400px) {
+  .tab-button {
+    font-size: 40%;
+    flex-direction: column;
+  }
+}
+ */
 
 @media screen and (min-width: 670px) { /* tablet display, columns used*/
   .tabs {
@@ -641,16 +625,6 @@ ol li {
 
   .showcase-content {
     margin-left: 12.5em;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-
-  .tab-vid {
-    margin: 1em;
-  }
-
-  #hsm-flyer {
-    width: 250%;
   }
 }
 
@@ -665,7 +639,6 @@ ol li {
     display: flex;
     flex-direction: row;
   }
-
   .wwd-column{
     display: flex;
     flex-direction: column;
