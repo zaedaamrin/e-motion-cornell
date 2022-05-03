@@ -191,9 +191,9 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
 Their audience consists of one major group in Cornell's population:
-- Cornell students interested in joining their club or who could potentially attend their showcases or events
+- Cornell students interested in joining E.Motion or potentially attending the club's showcases and events.
 
-This is one cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion as a club and how to join it. This information can include the club's history, upcoming events, contact information, and auditions.
+This is one cohesive group to our client's site that has similar goals, as they are seeking information to learn more about E.Motion as a club and the club's content. This information can include the club's history, upcoming events, how to join, and auditions.
 
 ### User Interview Questions (Milestone 2)
 > Plan the user interview which you'll use to identify the goals of your site's audience.
@@ -884,11 +884,13 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. TODO
+1. You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers to watch.
 
-2. TODO
+2. You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing and how much tickets cost.
 
-3. TODO
+3. You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
+
+
 
 
 ### User 1 - Testing Notes (Final Submission)
