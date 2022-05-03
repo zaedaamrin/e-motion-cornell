@@ -572,7 +572,7 @@ ol li {
   }
 
   #hsm-flyer {
-    width: 250%;
+    width: 100%;
     max-width: 400px;
   }
 
@@ -588,6 +588,10 @@ ol li {
     border-radius: 0.5em;
   }
 
+  /* .tab-content > img {
+    justify-content: center;
+  } */
+
   .tab-icon {
     width: 100%;
     max-height: 30px;
@@ -598,16 +602,9 @@ ol li {
     border-radius: 0.5em;
     border-color: none;
     box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+    width:100%;
   }
 
-
-/* @media screen and (min-width: 400px) {
-  .tab-button {
-    font-size: 40%;
-    flex-direction: column;
-  }
-}
- */
 
 @media screen and (min-width: 670px) { /* tablet display, columns used*/
   .tabs {
@@ -626,6 +623,14 @@ ol li {
 
   .showcase-content {
     margin-left: 12.5em;
+  }
+
+  .tab-vid {
+    margin: 1em;
+  }
+
+  #hsm-flyer {
+    width: 250%;
   }
 }
 
