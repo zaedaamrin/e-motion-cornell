@@ -547,6 +547,10 @@ ol li {
     border-bottom-right-radius: 0.5em;
     border-top-right-radius: 0.5em;
   }
+  .tab-content > p {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
+  }
 
   #workshops-button, .first-tab-content {
     background-color: #E4ECF7;
