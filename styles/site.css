@@ -429,7 +429,7 @@ ol li {
 }
 .box-right {
   flex-grow: 1;
-  width: 60%;
+  width: 40%;
   margin-right: 1%;
 }
 .img-box{
@@ -438,7 +438,7 @@ ol li {
   box-shadow: 4px 4px 10px 4px rgba(107, 147, 255, 0.26);
 }
 .box-left {
-  width: 40%;
+  width: 50%;
   margin-right: 40px;
   margin-top: 40px;
   margin-bottom: 0px;
