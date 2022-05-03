@@ -531,8 +531,6 @@ ol li {
     cursor: pointer;
     display: flex;
     flex-direction: row;
-    /* width: auto;
-    flex-grow: 1; */
   }
 
   .tab-button:hover {
@@ -580,17 +578,37 @@ ol li {
     box-shadow: 0px 4px 28px #9EACFA;
     padding: 1.5em;
     border-radius: .5em;
+    margin-top: 1em;
+    margin-bottom: 2em;
   }
+
+  /* Stylizing the showcase written content */
+    .showcase-content > h3 { /* showcase name */
+      font-weight: bolder;
+      font-size: 1.5em;
+    }
+    .showcase-content > h4 { /* date/location */
+      font-weight: normal;
+      line-height: 1.25em;
+      font-size: 1.25em;
+    }
+    .showcase-content > h5 { /* price of show */
+      font-weight: bold;
+      line-height: 1em;
+      font-size: 1em;
+      text-align: center;
+      margin-top: 0.5em;
+    }
+    .showcase-content > p { /* showcase more text */
+      font-weight: lighter;
+      margin-top: 1em;
+    }
 
   .tab-pic {
     width: 100%;
     max-width: 600px;
     border-radius: 0.5em;
   }
-
-  /* .tab-content > img {
-    justify-content: center;
-  } */
 
   .tab-icon {
     width: 100%;
@@ -623,6 +641,8 @@ ol li {
 
   .showcase-content {
     margin-left: 12.5em;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 
   .tab-vid {
@@ -645,6 +665,7 @@ ol li {
     display: flex;
     flex-direction: row;
   }
+
   .wwd-column{
     display: flex;
     flex-direction: column;
