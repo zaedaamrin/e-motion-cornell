@@ -353,8 +353,8 @@ header a:hover{
   align-items: center;
 
   border: 0px;
-  border-left: 5px #f00947 solid;
-  border-bottom: 5px #f00947 solid;
+  border-left: 5px #ff402d solid;
+  border-bottom: 5px #ff402d solid;
   border-radius: 5px;
 
   width: 100%;
@@ -377,18 +377,18 @@ header a:hover{
 }
 
 .header:hover {
-  background-color: #f00947;
+  background-color: #ff402d;
   color: white;
   cursor: pointer;
 
   border: 0px;
-  border-left: 5px #f00947 solid;
-  border-bottom: 5px #f00947 solid;
+  border-left: 5px #ff402d solid;
+  border-bottom: 5px #ff402d solid;
   border-radius: 5px;
 }
 
 .accordion .close {
-  background-color: #f00947;
+  background-color: #ff402d;
   color: white;
   border-radius: 0px;
   border-top-left-radius: 5px;
