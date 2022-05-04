@@ -869,12 +869,35 @@ Meeting with Gabi Hioe, E.Motion's design chair.
 > Include screenshots of both the desktop and mobile version of your site that you will be using for user testing. (We need to see the "before" testing version of your site.)
 > Use the FireFox screenshot feature to take screenshots of the entire page.
 
-**Mobile Screenshots:**
-TODO
+### Mobile Screenshots:
+#### Homepage
+![Homepage Finished Mobile](/design/mobile-home-finished.png)
+
+#### What We Do
+![What We Do Finished Mobile](/design/mobile-wwd-finished.png)
+
+#### Join Us
+![Join Us Finished Mobile](/design/mobile-join-us-finished.png)
+
+#### About Us
+![About Us Finished Mobile](/design/mobile-about-us-finished.png)
 
 
-**Desktop Screenshots:**
-TODO
+### Desktop Screenshots:
+#### Homepage
+![Homepage Finished Desktop](/design/desktop-home-finished.png)
+
+#### What We Do - Desktop
+![What We Do Finished Desktop](/design/desktop-wwd-finished.png)
+
+#### What We Do - Tablet
+  ![What We Do Finished Tablet display](/design/tablet-wwd-finished.png)
+
+#### Join Us
+![Join Us Finished Desktop](/design/desktop-join-us-finished.png)
+
+#### About Us
+![About Us Finished Desktop](/design/desktop-about-us-finished.png)
 
 
 ## User Testing (Final Submission)
@@ -957,7 +980,8 @@ Task: You are friends with a member of E.Motion and have heard a lot about the c
 - **Additional Notes**
   - Having the message in the tab section would indicate to users that there are videos on the site, and not just YouTube. It being in bold will make it more visible to read and easier to catch when skimming the text in the tab section.
 
-  Task: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
+
+Task: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
   - **Did you evaluate the desktop or mobile design?**
     - Desktop
   - **How did the user do? Did they meet your expectation?**
@@ -973,22 +997,23 @@ Task: You are friends with a member of E.Motion and have heard a lot about the c
   - **Additional Notes**
     - Putting the carousel first could help users achieve multiple different goals they have, such as finding out details of an upcoming showcase or what workshops are occurring. Since this information is more likely to change and be updated, it would be more important to up at the top than the static blurb about the club itself.
 
-    Task: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
-    - **Did you evaluate the desktop or mobile design?**
-      - Desktop
-    - **How did the user do? Did they meet your expectation?**
-      - The user navigated straight to the Join Us page and passed everything at the top to see the accordion and found the answers to the questions of the tasks.
+
+Task: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
+  - **Did you evaluate the desktop or mobile design?**
+    - Desktop
+  - **How did the user do? Did they meet your expectation?**
+    - The user navigated straight to the Join Us page and passed everything at the top to see the accordion and found the answers to the questions of the tasks.
       - She met our expectations and was able to utilize the accordion to find the information in the task.
-    - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-      - The user thought the accordions made sense and was able to find the details she needed for the task.
-      - She said the blurb was not something that she payed much attention to.
-    - **Your reflections about the user’s performance to the task**
-      - The user's performance in completing the task was good. She was able to find the information through the accordion on the Join Us page.
-      - However, I was hoping that she would skim the Join Us blurb instead of skipping it, as there was relevant information there that would have helped her, but the accordion has the information too.
-    - **Re-design choices**
-      - Putting more emphasis on the Join Us blurb by outlining the text section.
-    - **Additional Notes**
-      - The accordion's design was intuitive but the text above is less noticeable so more visual queues to read or at least skim it are necessary.
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - The user thought the accordions made sense and was able to find the details she needed for the task.
+    - She said the blurb was not something that she payed much attention to.
+  - **Your reflections about the user’s performance to the task**
+    - The user's performance in completing the task was good. She was able to find the information through the accordion on the Join Us page.
+    - However, I was hoping that she would skim the Join Us blurb instead of skipping it, as there was relevant information there that would have helped her, but the accordion has the information too.
+  - **Re-design choices**
+    - Putting more emphasis on the Join Us blurb by outlining the text section.
+  - **Additional Notes**
+    - The accordion's design was intuitive but the text above is less noticeable so more visual queues to read or at least skim it are necessary.
 
 
 ### User 2 - Testing Notes (Final Submission)
@@ -1167,10 +1192,7 @@ Task 3:  You are a new student at Cornell who is interested in kpop and joining 
   - or *resize everything above FAQ and make them smaller* so FAQ would come up earlier without making user to scroll to discover the section, which contains all the useful information
 
 - **Additional Notes**
-  - Either redesign choice should help increase the affordance of the page (I would want to consider the first redesign choice but it is undecided for now as I need to consult my teammates). 
-
-
-
+  - Either redesign choice should help increase the affordance of the page (I would want to consider the first redesign choice but it is undecided for now as I need to consult my teammates).
 
 
 ### User 4 - Testing Notes (Final Submission)
@@ -1198,12 +1220,12 @@ I thank her for her time.
 ### User 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
-1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+1. **Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?**
 
 User 4 is a sophomore at Cornell University in the architecture program. She is from Queens, New York and currently lives on the west section of the Cornell campus. She is an avid fan of K-Pop; she likes to learn simple K-pop dance routines with her friends for fun. She has also heard of E.Motion before because she watched them perform at the *Hope Night* event earlier this semester. She expresses interest in joining the club (if her academics give her the time). On that note, she expressed feeling a bit anxious because of schoolwork (the high demands make it difficult to join clubs). Still, she is enthusiastic about dance and music and hopes to engage in these practices more.
 
 
-2. Does the user belong to your audience of the site? (Yes)
+2. **Does the user belong to your audience of the site?**
 
 Yes. She expressed interest in joining E.Motion and has also expressed interest in watching E.Motion's performances/showcases.
 
@@ -1211,22 +1233,67 @@ Yes. She expressed interest in joining E.Motion and has also expressed interest 
 ### User 4 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+**Task 1**: You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers/performances for yourself. Find a video of one of their performances on the website to watch.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Desktop
+
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Some trouble at the beginning, eventually successful.
+  - The user clicked the right button of the carousel on the home page until she had gone through all of the images. She also clicked some images, maybe thinking that they were videos.
+  - I was expecting the user to not have any trouble with task, so it was surprising to realize a potential flaw in our design.
+
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user seemed to have expected to find videos in the homepage carousel. They went through all seven images in the gallery while they were searching for a video of an E.Motion performance.
+  - The user also clicked some of the images on the carousel (maybe expecting a video to start playing).
+  - The user did *not* notice the navigation bar until after searching through all of the images in the homepage's carousel. After having used it, she expressed understanding ("Oh, I got it now") and quickly found a performance video on the "What We Do" page after scrolling a bit.
+  - Not much verbal feedback, except when she had completed the task (saying that she "got it").
+
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I was surprised to find out that the user was having trouble meeting this task. The navigation bar had been scrolled past early into the task (making it more difficult to meet the goal).
+  - The user searched through the carousel on the home page *first*. This showed me that the home page may need to display more important content (videos, events, etc).
+  - Then she used the navigation bar, but it seemed that she struggled to notice it.
+
 - **Re-design choices**
-  - TODO
+  - Maybe allow the navigation bar to appear on the side when scrolling, so that the user sees their options at all times.
+  - Changing the color of the navigation bar so that it is more noticeable. Generally increasing the visibility of the navigation bar, so that the users know their options.
+  - Insert videos into the carousel on the homepage and maybe under certain tabs in "What We Do".
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - After having found the navigation bar at the top of the page, the user clicked "What We Do" and found the performance videos at the bottom. She also said that she "got it" by this point. This was almost immediate, showing that there is a steep learning curve.
 
-TODO...
 
+**Task 2**: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
+- **Did you evaluate the desktop or mobile design?**
+  - Desktop
+- **How did the user do? Did they meet your expectation?**
+  - Successful, surpassed expectations. The user left off on the "What We Do" page, which includes the information needed for the task. She scrolled upwards and completed the task in a few seconds.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - User stated that she "got it" almost immediately after hearing the task. No problems found in task.
+- **Your reflections about the user’s performance to the task**
+  - The user had left off on the "What We Do" page, which included the information for this task. This may have made it much easier to complete the task. Task completion influenced by order of presentation of tasks.
+  - Otherwise, ran into no issues at all.
+- **Re-design choices**
+  - None in particular
+  - "Upcoming Events" section can also be displayed on other pages (maybe the home page) for easier access.
+- **Additional Notes**
+  - Order of presenting the tasks did influence result.
+
+
+**Task 3**: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
+- **Did you evaluate the desktop or mobile design?**
+  - Mobile
+- **How did the user do? Did they meet your expectation?**
+  - User was successful. I thought they would have trouble skimming the FAQs, but she did not express any issues at all. Completed task within thirty seconds (first couple of seconds spent on reading the blurb on "Join Us").
+  - The user immediately clicked "Join Us" on the navigation bar and then scrolled and found the answer to the task, which was presented second.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - No problems found in task. Scrolled down page, meaning that mobile design accurately showed that there was more content displayed as one scrolls.
+  - Navigation bar likely more noticeable in mobile display as well.
+- **Your reflections about the user’s performance to the task**
+  - Exceeded my expectations; I was worried that the user would have trouble skimming the FAQs section or that they would *not* notice that there is information that is displayed further below on the page.
+- **Re-design choices**
+  - None expressed by user testing.
+  - I think it would be useful to section off FAQ parts by subject. Since there are many questions, this can help organize it more and find answers more easily.
+- **Additional Notes**
+  - User understood how to navigate the page more easily by this task (affected by learning curve). May have influenced my user testing results. Generally, user displayed mastery of website and completed tasks with ease, except for the first one (finding video performances).
 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
