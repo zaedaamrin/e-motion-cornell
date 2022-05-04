@@ -531,8 +531,6 @@ ol li {
     cursor: pointer;
     display: flex;
     flex-direction: row;
-    /* width: auto;
-    flex-grow: 1; */
   }
 
   .tab-button:hover {
@@ -548,6 +546,10 @@ ol li {
     border-bottom-left-radius: 0.5em;
     border-bottom-right-radius: 0.5em;
     border-top-right-radius: 0.5em;
+  }
+  .tab-content > p {
+    font-size: 1.1em;
+    margin-bottom: 0.5em;
   }
 
   #workshops-button, .first-tab-content {
@@ -571,26 +573,47 @@ ol li {
     color: white;
   }
 
+  .showcase-all {
+    box-shadow: 0px 4px 28px #9EACFA;
+    padding: 1.5em;
+    border-radius: .5em;
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+
   #hsm-flyer {
     width: 100%;
     max-width: 400px;
   }
 
-  .showcase-content {
-    box-shadow: 0px 4px 28px #9EACFA;
-    padding: 1.5em;
-    border-radius: .5em;
-  }
+  /* Stylizing the showcase written content */
+    .showcase-content > h3 { /* showcase name */
+      font-weight: bolder;
+      font-size: 1.5em;
+      margin-top: 1em;
+    }
+    .showcase-content > h4 { /* date/location */
+      font-weight: normal;
+      line-height: 1.25em;
+      font-size: 1.25em;
+    }
+    .showcase-content > h5 { /* price of show */
+      font-weight: bold;
+      line-height: 1em;
+      font-size: 1em;
+      text-align: center;
+      margin-top: 0.5em;
+    }
+    .showcase-content > p { /* showcase more text */
+      font-weight: lighter;
+      margin-top: 1em;
+    }
 
   .tab-pic {
     width: 100%;
     max-width: 600px;
     border-radius: 0.5em;
   }
-
-  /* .tab-content > img {
-    justify-content: center;
-  } */
 
   .tab-icon {
     width: 100%;
@@ -601,7 +624,7 @@ ol li {
   .tab-vid {
     border-radius: 0.5em;
     border-color: none;
-    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
+    box-shadow: 0px 4px 28px rgba(255, 0, 8, 0.54);
     width:100%;
   }
 
@@ -623,14 +646,18 @@ ol li {
 
   .showcase-content {
     margin-left: 12.5em;
+    margin-top: 0;
+    margin-bottom: 0;
   }
-
+  .showcase-content > h3 { /* showcase name */
+    margin-top: 0;
+}
   .tab-vid {
     margin: 1em;
   }
 
   #hsm-flyer {
-    width: 250%;
+    width: 220%;
   }
 }
 
@@ -645,6 +672,7 @@ ol li {
     display: flex;
     flex-direction: row;
   }
+
   .wwd-column{
     display: flex;
     flex-direction: column;
@@ -681,10 +709,33 @@ ol li {
 
 /*---About Us---*/
 /*---Gallery---*/
-.about-container-row {
+.about-container-column {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
+
+.aboutimg-container-column {
+  justify-content: center;
+  align-items: center;
+  max-width: 63%;
+}
+
+.abouttext {
+  font-size: 21px;
+}
+
+/*.aboutimg {
+  justify-content: center;
+  align-items: center;
+  margin: 21px;
+}*/
+
+/*#gap {
+  max-width: 63%;
+}*/
+
 
 .prev {
   display: flex;
@@ -748,5 +799,11 @@ font-size: 1.2em;
     display: flex;
     flex-direction: column;
   }
+
+  #gap {
+    max-width: 200%;
+  }
+
+
 
 }
