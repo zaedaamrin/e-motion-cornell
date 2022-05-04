@@ -736,7 +736,9 @@ ol li {
   max-width: 63%;
 }*/
 
-
+#gap{
+  margin: 0 auto;
+}
 .prev {
   display: flex;
   flex-direction: row;
