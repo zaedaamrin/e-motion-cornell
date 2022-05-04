@@ -1074,7 +1074,23 @@ TODO...
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+- User 4 is a sophomore in Cornell University studying architecture. She is from New York City and currently lives on the Ithaca campus.
+- Is a fan of K-pop music and enjoys learning the dances to some songs. She has expressed some interest in joining E.Motion before. She learned about them through their performance at *Hope Night*.
+- Full-time student, so a bit stressed from academic pressures.
+- Enthusiastic about dance and music, stresses that this allows her to take a break from work and to have some fun (while meeting other people).
+
+Gave the user the remote control, needed time to switch from using Zoom on her phone to the Zoom on her computer.
+I explained that we made a website for Cornell's Kpop dance group E.Motion. I explain that we are testing our website not her.
+
+I read aloud the first task: wanting to see one of their performances/videos to watch. She starts on the home page. She scrolls down to the end of the first page and clicks around on the carousel. She asks again to confirm that she is looking for a video. Scrolls up and then back down. Continues to click the right arrow of the carousel until she goes through the whole gallery (takes a little over a minute).
+
+Scrolls back up, notices navigation bar. Clicks "What We Do", says she got it and she apologizes (to which I say there's no need to apologize). She scrolls down slightly until she sees "Past performances." Then clicks the leftmost video on desktop display.
+
+I thank her and read aloud the second task: Find out when and where they will be performing. Having left off on the "What We Do" page, the user scrolls up slightly and hovers her cursor over the "spring showcase" and says she got it almost immediately. She also clicks the event section twice (maybe expecting more feedback).
+
+I take a moment to switch to mobile display. I click the homepage for a fresh start. I read the third task: what are ways to get involved. While I repeat the task a second time, she clicks "join us" from the navigation bar. She says "I'm in Join Us." Mumbles (reading the first blurb to herself) then scrolls down the page. Moves her mouse over the second FAQ question ("Q: Do I have to audition to join?"). Clicks this FAQ button. Scrolls down more to see full answer and then says "no auditions." She then continues to scroll down the page until she hits the footer; she then says "yep, I got it!".
+
+I thank her for her time.
 
 
 ### User 4 (Final Submission)
@@ -1082,13 +1098,12 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+User 4 is a sophomore at Cornell University in the architecture program. She is from Queens, New York and currently lives on the west section of the Cornell campus. She is an avid fan of K-Pop; she likes to learn simple K-pop dance routines with her friends for fun. She has also heard of E.Motion before because she watched them perform at the *Hope Night* event earlier this semester. She expresses interest in joining the club (if her academics give her the time). On that note, she expressed feeling a bit anxious because of schoolwork (the high demands make it difficult to join clubs). Still, she is enthusiastic about dance and music and hopes to engage in these practices more.
 
 
-2. Does the user belong to your audience of the site? (Yes / No)
-> If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+2. Does the user belong to your audience of the site? (Yes)
 
-TODO
+Yes. She expressed interest in joining E.Motion and has also expressed interest in watching E.Motion's performances/showcases.
 
 
 ### User 4 Results (Final Submission)
