@@ -494,7 +494,7 @@ ol li {
 
   .accordion .content {
     justify-content: flex-start;
-    background-color: black;
+    /* background-color: black; */
     /* EDIT THAT ^^^ */
   }
 }
