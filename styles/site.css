@@ -28,6 +28,9 @@ h2 {
   font-size: 30px;
   margin-top: 30px;
   margin-bottom: 20px;
+
+  text
+  text-decoration-style: wavy;
 }
 
 h2 {
@@ -49,7 +52,7 @@ a {
 }
 
 cite {
-  font-size: 10px;
+  font-size: 10px
 }
 /* ----------------------- BODY END -----------------------*/
 
@@ -350,8 +353,8 @@ header a:hover{
   align-items: center;
 
   border: 0px;
-  border-left: 5px #ff402d solid;
-  border-bottom: 5px #ff402d solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 
   width: 100%;
@@ -374,18 +377,18 @@ header a:hover{
 }
 
 .header:hover {
-  background-color: #ff402d;
+  background-color: #f00947;
   color: white;
   cursor: pointer;
 
   border: 0px;
-  border-left: 5px #ff402d solid;
-  border-bottom: 5px #ff402d solid;
+  border-left: 5px #f00947 solid;
+  border-bottom: 5px #f00947 solid;
   border-radius: 5px;
 }
 
 .accordion .close {
-  background-color: #ff402d;
+  background-color: #f00947;
   color: white;
   border-radius: 0px;
   border-top-left-radius: 5px;
@@ -399,12 +402,12 @@ header a:hover{
 
 .accordion .content {
   background-color: #ffdfdf;
-  text-align: justify;
+  text-align: left;
   line-height: 1.4em;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 
-  padding: 20px 30px;
+  padding: 20px 50px;
 }
 
 ol li {
@@ -426,7 +429,7 @@ ol li {
 }
 .box-right {
   flex-grow: 1;
-  width: 40%;
+  width: 60%;
   margin-right: 1%;
 }
 .img-box{
@@ -435,7 +438,7 @@ ol li {
   box-shadow: 4px 4px 10px 4px rgba(107, 147, 255, 0.26);
 }
 .box-left {
-  width: 50%;
+  width: 40%;
   margin-right: 40px;
   margin-top: 40px;
   margin-bottom: 0px;
@@ -465,7 +468,6 @@ ol li {
 }
 
 @media screen and (max-width: 900px) {
-  /* this had been saved as container-row, am unsure if this is for join us page */
   .j-container-row {
     margin:0px;
     flex-wrap: wrap;
@@ -493,6 +495,7 @@ ol li {
 
   .accordion .content {
     justify-content: flex-start;
+    padding: 20px 30px;
   }
 }
 
@@ -528,6 +531,8 @@ ol li {
     cursor: pointer;
     display: flex;
     flex-direction: row;
+    /* width: auto;
+    flex-grow: 1; */
   }
 
   .tab-button:hover {
@@ -543,10 +548,6 @@ ol li {
     border-bottom-left-radius: 0.5em;
     border-bottom-right-radius: 0.5em;
     border-top-right-radius: 0.5em;
-  }
-  .tab-content > p {
-    font-size: 1.1em;
-    margin-bottom: 0.5em;
   }
 
   #workshops-button, .first-tab-content {
@@ -570,41 +571,16 @@ ol li {
     color: white;
   }
 
-  .showcase-all {
-    box-shadow: 0px 4px 28px #9EACFA;
-    padding: 1.5em;
-    border-radius: .5em;
-    margin-top: 1em;
-    margin-bottom: 2em;
-  }
-
   #hsm-flyer {
-    width: 100%;
+    width: 250%;
     max-width: 400px;
   }
 
-  /* Stylizing the showcase written content */
-    .showcase-content > h3 { /* showcase name */
-      font-weight: bolder;
-      font-size: 1.5em;
-      margin-top: 1em;
-    }
-    .showcase-content > h4 { /* date/location */
-      font-weight: normal;
-      line-height: 1.25em;
-      font-size: 1.25em;
-    }
-    .showcase-content > h5 { /* price of show */
-      font-weight: bold;
-      line-height: 1em;
-      font-size: 1em;
-      text-align: center;
-      margin-top: 0.5em;
-    }
-    .showcase-content > p { /* showcase more text */
-      font-weight: lighter;
-      margin-top: 1em;
-    }
+  .showcase-content {
+    box-shadow: 0px 4px 28px #9EACFA;
+    padding: 1.5em;
+    border-radius: .5em;
+  }
 
   .tab-pic {
     width: 100%;
@@ -620,10 +596,18 @@ ol li {
 
   .tab-vid {
     border-radius: 0.5em;
-    box-shadow: 0px 4px 28px rgba(255, 0, 8, 0.54);
-    width:100%;
+    border-color: none;
+    box-shadow: 0px 4px 28px rgba(149,157,165,.5);
   }
 
+
+/* @media screen and (min-width: 400px) {
+  .tab-button {
+    font-size: 40%;
+    flex-direction: column;
+  }
+}
+ */
 
 @media screen and (min-width: 670px) { /* tablet display, columns used*/
   .tabs {
@@ -642,18 +626,6 @@ ol li {
 
   .showcase-content {
     margin-left: 12.5em;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .showcase-content > h3 { /* showcase name */
-    margin-top: 0;
-}
-  .tab-vid {
-    margin: 1em;
-  }
-
-  #hsm-flyer {
-    width: 220%;
   }
 }
 
@@ -668,7 +640,6 @@ ol li {
     display: flex;
     flex-direction: row;
   }
-
   .wwd-column{
     display: flex;
     flex-direction: column;
@@ -705,36 +676,11 @@ ol li {
 
 /*---About Us---*/
 /*---Gallery---*/
-.about-container-column {
+.about-container-row {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  flex-direction: row;
 }
 
-.aboutimg-container-column {
-  justify-content: center;
-  align-items: center;
-  max-width: 63%;
-}
-
-.abouttext {
-  font-size: 21px;
-}
-
-/*.aboutimg {
-  justify-content: center;
-  align-items: center;
-  margin: 21px;
-}*/
-
-/*#gap {
-  max-width: 63%;
-}*/
-
-#gap{
-  margin: 0 auto;
-}
 .prev {
   display: flex;
   flex-direction: row;
@@ -798,7 +744,4 @@ font-size: 1.2em;
     flex-direction: column;
   }
 
-#gap {
-  max-width: 200%;
-  }
 }
