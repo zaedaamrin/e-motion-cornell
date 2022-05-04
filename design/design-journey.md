@@ -994,43 +994,71 @@ Task: You are friends with a member of E.Motion and have heard a lot about the c
 ### User 2 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1:  Scrolled all the way to the bottom of the page, took a look at the carousel then scrolled back up an clicked on the What We Do page. After looking at it (scanning) for about 5 second, he clicked on the Covers tab of the tabs. Tried clicking on the image in the Covers page but it's not clickable. Then scrolled down and started playing a YouTube video.
 
+Task2:  Immediately found it on the What We Do page because that he was already looking at the page from task 1. Said " It was easy to find it because it stands out"
+
+Task 3: Scrolled back up and looked at the navigation, immediately clicked on the Join Us page, then read the content on the left, then scrolled down to FAQ section.  Clicked on the "Do I have to audition to join" of an accordion. He knew that the buttons/accordion sections were clickable.
 
 ### User 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+Ethan Waxman, a junior studying  Electrical Engineering at Cornell and Computer Science from DC, is very interested in pop music, has heard of E-Motion and even saw them practicing in one of the building on campus.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes
 
 
 ### User 2 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task1:  You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers for yourself. Find a video of one of their covers on the website to watch.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  -  Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The user did well, he finished all tasks relatively fast without any issues. He met my expectations since he successfully completed all tasks.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Said that the navigation bar could be a little big darker or different color so it stands out more which will make it easier to see.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I am pretty satisfied with his performance, he easily navigated to other pages and immediately knew how to use/navigate through the website.
 - **Re-design choices**
-  - TODO
+  - Make the navigation bar (header) brighter or different color
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
 
-TODO...
+Task2:   You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.
 
+- **Did you evaluate the desktop or mobile design?**
+  - Desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user found the showcase of E.Motion faster than I expected. I could be that he just got lucky because the What We Do page was already opened from Task number 1. It was literally in from of his eye.
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - Said that the font of "Upcoming events" could be a little bit bigger and positioned up to be in line with "What We Do"
+  - Also said that the blue outline around the showcase section was a nice touch and it made it stand out enough to grab user's attention.
+- **Your reflections about the user’s performance to the task**
+  -  I thought the task turned out to be too easy just because it took him a couple of second to find it, but after talking to him he gave me more valuable insights and his thought process which is useful for considering new changes.
+- **Re-design choices**
+  -  Change the font of the "Upcoming Events" and position it up and inline with What We Do
+- **Additional Notes**
 
+Task 3:  You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.
+- **Did you evaluate the desktop or mobile design?**
+  -  Desktop
+- **How did the user do? Did they meet your expectation?**
+  - Once again the user did well, without any major issues. He did exactly what I was expecting
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - No problems with this task, the user said he liked the color of the accordion when hovered over with a cursor.
+- **Your reflections about the user’s performance to the task**
+  - I was skeptical that the user might not know that he can click on the accordion to expand and read the answers but he knew right from the start which means that the design of the accordion is pretty straightforward and easy to use. This alsp means that most other users are going to be familiar with it in the future.
+- **Re-design choices**
+  - No re-design choices for this one
+- **Additional Notes**
+  It is very important that a user knows how to use elements on the page and that they perform the way they expected so that there are no unexpected changes. This aligns with one of our goals of familiarity.
+  
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
