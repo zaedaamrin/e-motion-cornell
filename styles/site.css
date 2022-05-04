@@ -716,15 +716,26 @@ ol li {
   align-items: center;
 }
 
+.aboutimg-container-column {
+  justify-content: center;
+  align-items: center;
+  max-width: 63%;
+}
+
 .abouttext {
   font-size: 21px;
 }
 
-#gap {
-  max-width: 63%;
+/*.aboutimg {
   justify-content: center;
   align-items: center;
-}
+  margin: 21px;
+}*/
+
+/*#gap {
+  max-width: 63%;
+}*/
+
 
 .prev {
   display: flex;
@@ -791,10 +802,6 @@ font-size: 1.2em;
 
   #gap {
     max-width: 200%;
-  }
-
-  .abouttext {
-
   }
 
 
