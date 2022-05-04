@@ -1111,6 +1111,7 @@ Task 3:  You are a new student at Cornell who is interested in kpop and joining 
 
 - **Did you evaluate the desktop or mobile design?**
   - desktop
+
 - **How did the user do? Did they meet your expectation?**
   - The process was smooth in general. However, there was a little bit of difficulty in the beginning (which was a little bit unexpected) when the user intended to interact with the displaying image on the homepage carousel as she thought the image looked like a dance cover and it could lead to a video of a dance cover. She even clicked on the left/right buttons to move on to different images as the displaying image never seemed to be responding. After realizing that the images do not lead anywhere, user moved on to the navigation bar and clicked into the most appropriate page that would include videos of dance covers. User decided to go into the “what we do page”. Once the page loaded, user quickly scrolled through the whole page to get an idea of the content provided on this page and immediately found dance covers. The later part of the task was executed fluently.
 
@@ -1166,7 +1167,10 @@ Task 3:  You are a new student at Cornell who is interested in kpop and joining 
   - or *resize everything above FAQ and make them smaller* so FAQ would come up earlier without making user to scroll to discover the section, which contains all the useful information
 
 - **Additional Notes**
-  - Either redesign choice should help increase the affordance of the page (I would want to consider the first redesign choice but it is undecided for now as I need to consult my teammates).
+  - Either redesign choice should help increase the affordance of the page (I would want to consider the first redesign choice but it is undecided for now as I need to consult my teammates). 
+
+
+
 
 
 ### User 4 - Testing Notes (Final Submission)
