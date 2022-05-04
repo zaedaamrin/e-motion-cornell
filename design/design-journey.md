@@ -1058,11 +1058,36 @@ Task 3:  You are a new student at Cornell who is interested in kpop and joining 
   - No re-design choices for this one
 - **Additional Notes**
   It is very important that a user knows how to use elements on the page and that they perform the way they expected so that there are no unexpected changes. This aligns with one of our goals of familiarity.
-  
+
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+- **First task: find a video of cover (tested on *desktop*)**
+    - User entered from home page and briefly looked over the homepage
+    - After attempting to click on the displaying image from the home page carousel and failed to see an expected reaction/feedback, user headed to the navigation bar
+    - After looking at the available pages, user immediately clicked into the “what we do page”
+    - User scrolled quickly for a glimpse of the page to see if she's on the right page
+    - As user scrolled, the YouTube covers showed up
+    - User completed task successfully
+
+- **Second task: find information about event to attend (tested on *mobile*)**
+    - User came to home page and headed to the menu bar right away
+    - (as this task followed the previous task1, user remembered seeing event dates when searching for videos of dance cover) User clicked on “what we do page” without any hesitation
+    - User spotted event information immediately without scrolling
+    - User completed task successfully
+
+- **Third task: find information about joining (test on *desktop*)**
+    - User began from home page
+    - User reviewed the available pages in the navigation bar and moved on to the “join us page”
+    - After the page refreshed, user was a bit confused as the screen only seemed to display a brief blurb about joining, a photo, and a newsletter subscription
+    - User thought this was all that the page contained
+    - User tried to scroll and realized that there is a FAQ section
+    - User quickly went through all the questions (without clicking on to any of the dropdown buttons) to look for questions that she’s interested in
+    - User found 2 questions related to her interest
+      - “Do I have to audition to join?”
+      - “How can I participate?”
+    - User clicked on the questions to see answers
+    - User completed task successfully
 
 
 ### User 3 (Final Submission)
@@ -1070,33 +1095,82 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+- The user is my friend and she is a third year student in the College of Engineering. She generally listens to a variety of music genres, which includes kpop. It isn’t her favourite but she is still interested to know more about the genre. She’s heard of multiple dance clubs on campus, including E.Motion but she’s never been to any showcase or events that E.Motion had participated in
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+- Yes (and no). The target audience of our site consists of two groups of people: people who are interested in joining E.Motion and people (probably from other clubs/dance clubs) that are hoping to work with E.Motion. While my user does not exactly fall into either target audience group as she isn’t passionate enough about kpop music to join the club, she is still open to know about the club. Hence, there is a potential for my user to be a target audience.
 
 
 ### User 3 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
-- **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-  - TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
-- **Your reflections about the user’s performance to the task**
-  - TODO
-- **Re-design choices**
-  - TODO
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+**Task 1: You are friends with a member of E.Motion and have heard a lot about the club's famous dance covers from them. Now curious, you want to see one of these covers/performances for yourself. Find a video of one of their performances on the website to watch.**
 
-TODO...
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+
+- **How did the user do? Did they meet your expectation?**
+  - The process was smooth in general. However, there was a little bit of difficulty in the beginning (which was a little bit unexpected) when the user intended to interact with the displaying image on the homepage carousel as she thought the image looked like a dance cover and it could lead to a video of a dance cover. She even clicked on the left/right buttons to move on to different images as the displaying image never seemed to be responding. After realizing that the images do not lead anywhere, user moved on to the navigation bar and clicked into the most appropriate page that would include videos of dance covers. User decided to go into the “what we do page”. Once the page loaded, user quickly scrolled through the whole page to get an idea of the content provided on this page and immediately found dance covers. The later part of the task was executed fluently.
+
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - User shared that the homepage carousel is a bit confusing but she found the menu options on the navigation bar to be very clear and straightforward as she was able to find her way to the dance covers effectively. However, user also realized that actual videos usually have a play button that indicates the content to be playable (and for the dance covers on the what we do page, there are indeed play buttons). Thus, user also reflected that maybe the homepage carousel wasn’t so misleading.
+
+- **Your reflections about the user’s performance to the task**
+  - I think the user’s performance was alright in general and I definitely think the task could be completed even faster if the homepage carousel was less confusing. However, given her later reflection on the play button which signals the affordance of a video, I don’t think there needs to any changes necessarily.
+
+- **Re-design choices**
+  - Switch out the first displaying image so it would look less like a thumbnail to a dance cover.
+
+- **Additional Notes**
+  - Changing the opening image for the carousel should help communicate better that the carousel itself does not contain any videos or any “interactable” content.
+
+
+**Task 2: You are a Cornell student who has previously heard of E.Motion and recently heard that they are having a showcase. You are excited to see them perform live, but don't know any details. Find out when and where they will be performing.**
+
+- **Did you evaluate the desktop or mobile design?**
+  - mobile
+
+- **How did the user do? Did they meet your expectation?**
+  - As this task was assigned right after the first task, user was able to complete the second task without any struggle, which met my expectation! User remembered from task 1 that she saw something that talks about events on the “what we do page”; thus, she did not check the navigation bar for the second task. Right after she got on to the page, she saw, as she expected, the event information.
+
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - User was very satisfied with both the content organization and layout of the “what we do page”.
+
+- **Your reflections about the user’s performance to the task**
+  - I was very happy about the user’s performance with this task. However, I wonder if she didn’t go to the same page for task 1 or if the order of the task is reassigned so the second task won't follow the first, would the process also be smooth?
+
+- **Re-design choices**
+  - No further design choice needed.
+
+- **Additional Notes**
+  - I don’t think there need to be any more changes as the task can be completely efficiently.
+
+
+**Task 3: You are a new student at Cornell who is interested in kpop and joining a dance club, but you have no previous experience with dance. Find out if there are auditions to join and what the other ways to get involved with their dances are.**
+
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - Given the prompt of the task, user reviewed the available pages in the navigation bar and headed directly to the “join us” page. However, due to the screen size of my laptop, the page finished perfectly after the box for newsletter subscription. Thus, as the page seemed to be concluded right there, user was confused as she did not see any helpful information on this page; this was not my expectation. As she scrolled randomly while attempting to move on, she luckily discovered the FAQ section. After browsing through all the questions without expanding the dropdown, she found the two questions that could help her complete the task; she clicked onto the two questions accordingly to see the answers. The task was only smooth after user noticed the FAQ section.
+
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - User was very confused after seeing that the page only seemed to offer so much content. She suggested to make the FAQ more obvious.
+
+- **Your reflections about the user’s performance to the task**
+  - I did not expect user to run into any problem with this task. Although I think it is due to the fact that my laptop has a bigger screen display, it would be nice to fix the layout and bring up the FAQ a bit, which hopefully will make the page less confusing regardless of the screen size/display size.
+
+- **Re-design choices**
+  - either *bring up the FAQ and move the newsletter down/after the FAQ*
+  - or *resize everything above FAQ and make them smaller* so FAQ would come up earlier without making user to scroll to discover the section, which contains all the useful information
+
+- **Additional Notes**
+  - Either redesign choice should help increase the affordance of the page (I would want to consider the first redesign choice but it is undecided for now as I need to consult my teammates). 
+
+
+
 
 
 ### User 4 - Testing Notes (Final Submission)
