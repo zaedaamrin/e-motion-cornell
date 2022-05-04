@@ -736,9 +736,10 @@ ol li {
   max-width: 63%;
 }*/
 
-#gap{
+#gap {
   margin: 0 auto;
 }
+
 .prev {
   display: flex;
   flex-direction: row;
@@ -754,8 +755,6 @@ ol li {
   max-width: 16%;
   box-shadow: 6px 6px 28px rgba(255, 0, 8, 0.54);
 }
-
-
 
 /*---end of gallery---*/
 
