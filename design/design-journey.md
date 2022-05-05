@@ -587,6 +587,15 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
   - Aids the user in watching the videos in the order of their choosing, which helps users' with the goal of consuming E.Motion's content as a dance club.
   - Makes it easier to find all the available videos and get a sense of what the club is like, which helps other users' goals of determining if they want to join.
 
+### Sample Designs (M2)
+Designs we made that were incorporated or rejected.
+
+**Sample About Us Design:**
+  ![Sample About Us Design](sample-layout-about.png)
+
+**Sample What We Do Design:**
+  ![Sample What We Do Design](sample-layout-home.png)
+
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
 > The sketches must include enough detail that another 1300 student could implement them.
@@ -1309,7 +1318,7 @@ Certain information was hidden from the user in desktop display due to the manne
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-- The entire design is very pleasing to the eye and it’s especially due to our colour choices. We had three very specific colours to work with - blue, red, and white - as requested by our client. During our design process, we adjusted the shades of these three colours and made sure the palette creates a very aesthetically pleasing ensemble. While still preserving consistency, the colour palette is being adjusted slightly to match with the content of the different pages. The overall theme is very clean, which invites user to take a step closer to know more about the club. With the colour coordination, the theme aligns well with our client's goal of creating a friendly, welcoming environment. 
+- The entire design is very pleasing to the eye and it’s especially due to our colour choices. We had three very specific colours to work with - blue, red, and white - as requested by our client. During our design process, we adjusted the shades of these three colours and made sure the palette creates a very aesthetically pleasing ensemble. While still preserving consistency, the colour palette is being adjusted slightly to match with the content of the different pages. The overall theme is very clean, which invites user to take a step closer to know more about the club. With the colour coordination, the theme aligns well with our client's goal of creating a friendly, welcoming environment.
 
 
 > 2. Tell us what you, as a team, learned while working on this project.
