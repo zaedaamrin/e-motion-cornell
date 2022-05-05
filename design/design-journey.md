@@ -1298,7 +1298,12 @@ Yes. She expressed interest in joining E.Motion and has also expressed interest 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO
+Multiple tested users expressed that they were unable to find the navigation bar. This had affected their performance and their ability to complete tasks in a timely manner.
+- We changed the navigation bar colors to be more noticeable (a navy blue box that contrasts the grey of the header).
+- It also shifts to a white background when the user's cursor hovers over it. This provides real time feedback to the user, letting them know that the navigation button is interactive).
+
+Certain information was hidden from the user in desktop display due to the manner the content got cut off in the screen. For this reason, some users did not scroll down to view all of the content included on a page (this affected their ability to accomplish tasks).
+- We decreased the top margin of sections that fall at the end of a page. This allows the user to see that there is some cut-off text at the bottom of a page (indicating that they can scroll to read and encounter more information).
 
 
 ## Final Notes to the Graders (Final Submission)
