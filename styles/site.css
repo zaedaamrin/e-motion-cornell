@@ -551,6 +551,10 @@ ol li {
     margin-bottom: 0.5em;
   }
 
+  .tabs-no-margin {
+    margin-top: 0em;
+  }
+
   #workshops-button, .first-tab-content {
     background-color: #E4ECF7;
   }
