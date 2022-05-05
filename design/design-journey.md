@@ -1300,8 +1300,12 @@ Yes. She expressed interest in joining E.Motion and has also expressed interest 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO
+Multiple tested users expressed that they were unable to find the navigation bar. This had affected their performance and their ability to complete tasks in a timely manner.
+- We changed the navigation bar colors to be more noticeable (a navy blue box that contrasts the grey of the header).
+- It also shifts to a white background when the user's cursor hovers over it. This provides real time feedback to the user, letting them know that the navigation button is interactive).
 
+Certain information was hidden from the user in desktop display due to the manner the content got cut off in the screen. For this reason, some users did not scroll down to view all of the content included on a page (this affected their ability to accomplish tasks).
+- We decreased the top margin of sections that fall at the end of a page. This allows the user to see that there is some cut-off text at the bottom of a page (indicating that they can scroll to read and encounter more information).
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
@@ -1314,8 +1318,7 @@ TODO
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
-TODO
-
+We learned that it is not easy to make a website, it definitely requires a lot of dedication and effort to make it look it. Also, working as a team we learned just how important good organization is as well as how easy and effectively some work can be done when split among group members. This would not have been possible without good communication and commitment from all of us. This project also allowed us to challenge ourselves and our HTML, CSS and JavaScript skills and raise them to a new level which is something we are really thankful for.
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
-TODO
+We hope you like it and we hope you give us a good grade! :)
