@@ -1308,8 +1308,8 @@ TODO
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
-TODO
+We learned that it is not easy to make a website, it definitely requires a lot of dedication and effort to make it look it. Also, working as a team we learned just how important good organization is as well as how easy and effectively some work can be done when split among group members. This would not have been possible without good communication and commitment from all of us. This project also allowed us to challenge ourselves and our HTML, CSS and JavaScript skills and raise them to a new level which is something we are really thankful for.
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
-TODO
+We hope you like it and we hope you give us a good grade! :)
