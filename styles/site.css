@@ -714,9 +714,11 @@ ol li {
   align-items: center;
 }
 
+
 .aboutimg-container-column {
   justify-content: center;
   align-items: center;
+  max-width: 63%;
 }
 
 .abouttext {
