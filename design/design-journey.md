@@ -587,15 +587,6 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
   - Aids the user in watching the videos in the order of their choosing, which helps users' with the goal of consuming E.Motion's content as a dance club.
   - Makes it easier to find all the available videos and get a sense of what the club is like, which helps other users' goals of determining if they want to join.
 
-### Sample Designs (M2)
-Designs we made that were incorporated or rejected.
-
-**Sample About Us Design:**
-  ![Sample About Us Design](sample-layout-about.png)
-
-**Sample What We Do Design:**
-  ![Sample What We Do Design](sample-layout-home.png)
-
 ### Final Design (Milestone 2)
 > Include the final sketches for **each** of your site's pages.
 > The sketches must include enough detail that another 1300 student could implement them.
@@ -613,6 +604,7 @@ Designs we made that were incorporated or rejected.
 
   ![Final Mobile Design - Join Us Page](mobile-join.jpg)
   - FAQ columns maintains their column structure: designed to be clicked on (tapped on) and then displaying content below it.
+  - Note: after receiving client feedback, we switched the orders of th FAQ section and the newsletter section. We also added a blurb and image to the top of the page before the FAQ section.
 
   ![Final Mobile Design - About Us Page](mobile-about1.jpg)
   ![Final Mobile Design - About Us Page](mobile-about2.jpg)
@@ -639,6 +631,7 @@ Designs we made that were incorporated or rejected.
   - Laying out all content in a column to encourage scrolling (similar to the action of perusing an article).
   - Plus buttons change into minus buttons, which provides immediate feedback to the user. Lets the user know that they interacted with an accordion design and are now viewing more information.
   - Header and footer maintained for consistency
+  - Note: after receiving client feedback, we switched the orders of th FAQ section and the newsletter section. We also added a blurb and image to the top of the page before the FAQ section.
 
   ![Final Desktop Design - About Us Page](desktop-about.jpg)
   - Images of team members displayed in a row that adapts to the display screen (less rows when less space available)
@@ -1307,24 +1300,18 @@ Yes. She expressed interest in joining E.Motion and has also expressed interest 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-Multiple tested users expressed that they were unable to find the navigation bar. This had affected their performance and their ability to complete tasks in a timely manner.
-- We changed the navigation bar colors to be more noticeable (a navy blue box that contrasts the grey of the header).
-- It also shifts to a white background when the user's cursor hovers over it. This provides real time feedback to the user, letting them know that the navigation button is interactive).
-
-Certain information was hidden from the user in desktop display due to the manner the content got cut off in the screen. For this reason, some users did not scroll down to view all of the content included on a page (this affected their ability to accomplish tasks).
-- We decreased the top margin of sections that fall at the end of a page. This allows the user to see that there is some cut-off text at the bottom of a page (indicating that they can scroll to read and encounter more information).
+TODO
 
 
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-- The entire design is very pleasing to the eye and it’s especially due to our colour choices. We had three very specific colours to work with - blue, red, and white - as requested by our client. During our design process, we adjusted the shades of these three colours and made sure the palette creates a very aesthetically pleasing ensemble. While still preserving consistency, the colour palette is being adjusted slightly to match with the content of the different pages. The overall theme is very clean, which invites user to take a step closer to know more about the club. With the colour coordination, the theme aligns well with our client's goal of creating a friendly, welcoming environment.
-
+One strength that our website has compared to similar ones, such as Cornell Creatives and Rise Dance Group at Cornell, is that we have a carousel of relevant and current news for the club on the home page, whereas the other websites do not. Providing a dedicated space for news, events, and callouts allows the club to have a bulletin-like space to bring attention to their most central features. It also aids the user in achieving their goals of searching for information about E.Motion's showcase details, workshops, and covers quickly.
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
-We learned that it is not easy to make a website, it definitely requires a lot of dedication and effort to make it look it. Also, working as a team we learned just how important good organization is as well as how easy and effectively some work can be done when split among group members. This would not have been possible without good communication and commitment from all of us. This project also allowed us to challenge ourselves and our HTML, CSS and JavaScript skills and raise them to a new level which is something we are really thankful for.
+TODO
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
-We hope you like it and we hope you give us a good grade! :)
+TODO
