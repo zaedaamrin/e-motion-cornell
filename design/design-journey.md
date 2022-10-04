@@ -547,7 +547,7 @@ This directly relates to the user's goal of *Deciding to Join*, as it indicates 
     - Able to conveniently keep most images in a single, accessible location. This provides structure to the webpage and also makes it easier for the user to find intended visual content.
 
 #### Accordion Final Design
-![Accordion Final Design](/design/accordion-final-design.jpg)
+![Accordion Final Design](/design/Accordion-final-design.jpg)
 - **Notes**:
     - There will be multiple sections per heading (or "frequently asked question"). Clicking on one of these will make a panel of content become visible (and appear below the aforementioned section).
     - The arrow will change its visual appearance in order to match when the accordion content is visible or hidden. This provides immediate feedback to the user.

@@ -148,13 +148,13 @@ header li{
 }
 header a:hover{
   color:black;
-  background-color: white;
-  transition: 0.5s;
+  background-color: #e4ecf7;
+  transition: 0.2s;
 
 }
 
 .header-box{
-  color:white;
+  color:#011660;
   font-style: normal;
   font-family: Arial;
   text-align: center;
@@ -164,8 +164,8 @@ header a:hover{
   font-size: 120%;
   padding: 9px 12px;
   margin-right: 50px;
-  border-radius: 5px;
-  background-color: #011660;
+  border-radius: 10px;
+  /* background-color: #011660; */
 
 }
 /* ----------------------- HEADER END -----------------------*/
